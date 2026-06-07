@@ -1,0 +1,78 @@
+SOURCE: https://handbook.gitlab.com/handbook/business-technology/enterprise-applications/entapps-crm/quote-to-cash/
+============================================================
+
+Quote to Cash Documentation
+Enterprise Applications Quote to Cash Documentation
+Lead to Cash Flow
+Business Process
+Supporting System
+Supporting Team
+Market
+Demand Gen Effort (Marketo)
+Marketing Ops
+Trial (Home Grown Application - Ruby on Rails)
+Fulfillment Engineers
+Sell
+Digital Purchase Path
+Order Form Purchase Path
+Sales Ops/ Deal Desk
+CustomerDot
+Sales Cycle (SFDC)
+Sales Systems
+Contract (Salesforce, Zuora CPQ, DocuSign)
+Fulfillment Engineers
+Bill
+Zuora Subscription Lifecycle Management
+Billing
+Zuora Billing
+Finance
+Rev Rec (Netsuite)
+Enterprise Apps
+Fulfill
+License (Home Grown Application - Ruby on Rails)
+Fulfillment Engineers
+Maintain
+Support (Zendesk)
+Support Team
+Monitor (Home Grown Application "Version & SeatLink" - Ruby On Rails)
+Fulfillment Engineers
+Digital Renewal
+Order Form Renewal (SFDC, Z-CPQ, DocuSign)
+See Sell
+Process Flow Diagrams
+Sales-Assisted: New Subscription
+Sales-Assisted: Renewal
+Zero Touch: New Subscription
+Entity Relationship Diagrams
+Zuora Billing
+CustomersDot (Customers Portal)
+GitLab
+Quote to Cash Systems Field Mapping
+This spreadsheet
+provides a mapping of fields from the data models of Zuora Billing, CustomersDot and GitLab.  This document highlights some of the overlap and dependencies between the systems currently.
+Contact Us
+Slack Channels
+#enterprise-apps
+#business-technology
+#bt-finance-operations
+#financesystems_help
+#bt-integrations
+GitLab Issues
+Business Systems Analysts
+Integrations Engineering
+Finance Systems
+Quote to Cash Entity Relationship Diagrams
+Entity Relationship Diagrams for Quote to Cash Systems
+Troubleshooting: True Ups, Licenses + EULAs
+Important Links Internal L&R Notice Board Need Access to CustomersDot? to get a login to the …
+Last modified August 20, 2024:
+Updates to IT Enterprise Applications and Business Technology Handbook Pages (
+7dda85c2
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

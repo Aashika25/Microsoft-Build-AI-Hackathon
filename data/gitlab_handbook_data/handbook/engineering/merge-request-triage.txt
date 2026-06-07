@@ -1,0 +1,199 @@
+SOURCE: https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/developer-experience/merge-request-triage/
+============================================================
+
+Wider Community Merge Request Triage
+Guidelines for triaging new merge requests from the wider community opened on GitLab.com projects
+At GitLab, our mission is to change all creative work from read-only to read-write so that
+everyone can contribute
+. GitLab highly values community contribution and we want to continue growing community code contribution. GitLab encourages the community to file issues and open merge requests for our projects under the
+gitlab-org
+group
+, and for the
+gitlab-com/www-gitlab-com
+project
+. Their contributions are valuable, and we should handle them as effectively as possible. A central part of this is triage - the process of categorization according to type and product group.
+Any GitLab team-member can triage merge requests. Keeping the number of un-triaged merge requests low is essential for maintainability, and is our collective responsibility. Consider triaging a few merge requests around your other responsibilities, or scheduling some time for it on a regular basis.
+Triaging incoming wider community merge requests is divided between several teams.
+Developer Experience
+maintains triage automation,
+Merge Request Coaches
+take on a partial merge request triage, and finally triage automation helps completing the triage process. Additionally,
+Developer Relations Engineering
+drives the community collaboration efforts and works with our community to ensure they receive support and recognition for contributing to GitLab.
+Merge request triage for the
+gitlab-org
+group
+Triage levels (
+gitlab-org
+)
+We define three levels of triage.
+Initial triage (
+gitlab-org
+)
+A merge request is considered initially triaged when it has a:
+~"Community contribution"
+label applied
+“Thank you” message posted by
+@gitlab-bot
+with more details on the process
+The initial triage is automated by the
+Developer Relations Engineering team
+via the
+Community contribution thank you note
+reactive triage automation.
+Partial triage (
+gitlab-org
+)
+A merge request is considered partially triaged when it has a:
+type label
+applied.
+(For
+~"type::bug"
+and
+~"Deferred UX"
+) It has a
+severity label
+applied.
+stage label
+applied.
+group label
+applied (e.g.
+~"group:editor"
+). If no group label exists, the stage label is enough.
+The partial triage is completed by
+Merge Request Coaches
+via the
+Newly created community merge requests
+triage report.
+For MRs related to issues, partial triage can be completed by using the following quick action and confirming proper metadata:
+/copy_metadata <issue link>
+Complete triage (
+gitlab-org
+)
+The complete Triage is divided into 3 subcategories depending on the community merge request state.
+Complete triage for open merge requests (
+gitlab-org
+)
+A merge request is considered completely triaged when it has:
+the
+workflow::ready for review
+label
+a reviewer assigned
+Complete triage for merged merge requests (
+gitlab-org
+)
+A merge request is considered completely triaged when it has a:
+milestone set if the merge request with the
+~"Community contribution"
+label is merged.
+This triage process is automated by the
+Developer Relations Engineering team
+via the
+Add milestone to community contributions on Triage Operations
+scheduled triage automation.
+Inactive merge requests triage policy (
+gitlab-org
+)
+The inactive merge request policy was created to enable GitLab teams to focus efforts on active merge request and prevent old merge requests from degrading into a state of disrepair. This is done by creating two thresholds at which GitLab team members attempt to move the merge request forward.
+Developer Relations Engineering team members attempt to move merge requests that have reached the first threshold forward via the
+Community merge requests requiring attention
+triage report.
+If that’s not successful an Engineering Manager makes a decision at the second threshold. We value your effort - that’s why all decisions to close a merge request are made by a human, and are not automated.
+Wider community merge request triage SLOs (
+gitlab-org
+)
+Community contributions are valuable, and we should handle them as effectively as possible to ensure swift feedback to community and increase engagement. To achieve that we define the following
+Service-level objectives (SLOs)
+:
+Triage Level or Response Metric
+SLO
+Initial Triage
+2 hours (
+this is automated
+)
+Partial Triage
+7 days
+Complete Triage for Merged Merge Requests
+1 day (
+this is automated for
+gitlab-org/gitlab
+)
+Time to assign reviewer
+2 hours (
+this is automated
+)
+If an SLO isn’t met, reach out to the
+Developer Relations Engineering team
+.
+Merge request triage for the
+gitlab-com/www-gitlab-com
+project
+Triage levels (
+gitlab-com/www-gitlab-com
+)
+The GitLab Website is owned and managed by a different team than GitLab.org; thus, a further triage process must be defined.
+Initial triage (
+gitlab-com/www-gitlab-com
+)
+Same as for the
+gitlab-org
+group above.
+Complete triage (
+gitlab-com/www-gitlab-com
+)
+The Complete Triage is divided into 3 subcategories depending on the community merge request state.
+Complete triage for open merge requests (
+gitlab-com/www-gitlab-com
+)
+A merge request is considered completely triaged when it has:
+a reviewer assigned by a member of the
+GitLab Website Community Team
+.
+been reviewed by a reviewer.
+Typically, the reviewer is the
+code owner
+of the page the merge request is updated. If there is no code owner assigned, the triager will reach out to the relevant team the page belongs to identify a reviewer.
+Complete triage for idle merge requests (
+gitlab-com/www-gitlab-com
+)
+A merge request is considered completely triaged when it:
+is closed following the
+closing policy for merge requests
+.
+This triage process is being done manually on a case-by-case basis by a member of the
+GitLab Website Community Team
+or the relevant
+code owner
+.
+Wider community merge request triage SLOs (
+gitlab-com/www-gitlab-com
+)
+Community contributions are valuable, and we should handle them as effectively as possible to ensure swift feedback to community and increase engagement. To achieve that we define the following
+Service-level objectives (SLOs)
+:
+Triage Level
+Triage SLO
+Initial triage
+2 hours (
+this is automated
+)
+Time to assign reviewer
+7 days (
+this is automated
+)
+Complete triage for idle merge requests
+7 days
+If an SLO isn’t met, reach out to
+@gitlab-com-community
+in the merge request.
+Last modified May 22, 2026:
+Transition Software Engineer in Test (SET) to Backend Engineer, Quality Department and Engineering Productivity departments clean-up (
+8af74dc3
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

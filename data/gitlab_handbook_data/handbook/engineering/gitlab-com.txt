@@ -1,0 +1,27 @@
+SOURCE: https://handbook.gitlab.com/handbook/engineering/gitlab-com/
+============================================================
+
+Policies related to GitLab.com
+The handbook pages nested under “policies” directory are
+controlled documents
+, and follow a specific set of requirements to satisfy various regulatory obligations.
+Avoid nesting non-controlled documentation at this location.
+Backups of GitLab.com
+This policy specifies requirements for backups of GitLab.com
+Disaster Recovery of GitLab.com
+This policy specifies requirements for Disaster Recovery of GitLab.com
+GitLab Teleport Access Policy
+Purpose To ensure an audited access to our terminal/CLI tools like Database Access and Rails …
+Monitoring of GitLab.com
+This policy specifies requirements for monitoring of GitLab.com
+Last modified June 18, 2024:
+Add relative links rule (
+cd96f133
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

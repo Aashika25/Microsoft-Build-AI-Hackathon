@@ -1,0 +1,92 @@
+SOURCE: https://handbook.gitlab.com/handbook/engineering/development/database/
+============================================================
+
+Database Engineering
+This page is dedicated to database application engineering and provides an entry-point for resources on this topic.
+Also see
+Database Team
+in Enablement.
+GitLab development
+Please refer to the
+development documentation for database guidelines
+.
+Database Roles at GitLab
+We have two primary job roles that are focused on the database aspect:
+Backend Engineer, Database
+- in Development
+Database Reliability Engineer
+- in Infrastructure
+The Backend Engineer, Database role is a software engineering role concentrated on application-side improvements and foundational database work in the GitLab codebase.
+The Database Reliability Engineer is an operational role targeting and running the database infrastructure for GitLab.com from within the Reliability Engineering teams.
+Database Maintainer
+For the
+GitLab codebase
+, Database Maintainers contribute to the
+code review process
+by reviewing database-related changes and applying
+database review guidelines
+. They typically engage into conversations about database queries and their performance, database schema design and database migrations.
+The Database Maintainer role:
+Is an additional role, typically for Backend Engineers.
+Follows the same definition as any other
+GitLab maintainer
+.
+It does not come with operational responsibility for GitLab.com and its database infrastructure. This responsibility belongs to the
+Database Reliability Engineer
+.
+It is not expected to participate in incident management issues.
+Adheres to the
+review turnaround time
+of 2 working days.
+If you’re interested in participating in database reviews, please start by reviewing
+the Database maintainer process
+which contains all the resources for a reviewer.
+Recommended links and reference materials
+GitLab resources
+Database Office Hours are bi-weekly and can be found on the
+GitLab Team Meetings Calendar
+Database Office Hours playlist on GitLab Unfiltered under the
+Database Office Hours Playlist
+Books
+(In no particular order.)
+I. Ahmed, G. Smith et al: “
+PostgreSQL 10 High Performance: Expert techniques for query optimization, high availability, and efficient database maintenance.
+” (2018)
+Hans-Jürgen Schönig: “
+Mastering PostgreSQL 11
+” (2018)
+Markus Winand: “
+SQL Performance Explained
+”
+Dimitri Fontaine: “
+The Art of PostgreSQL
+” -
+Virtual training is available for GitLab team members.
+Alex Petrov: “
+Database Internals
+”
+Other resources
+Official PostgreSQL mailinglists
+, particularly
+pgsql-general
+Postgres Weekly
+Planet PostgreSQL
+SQL Indexing and Tuning e-Book
+(also known as “Use The Index Luke”)
+Weekly show on
+Scaling PostgreSQL
+Detailed documentation of the operations and fields in
+PostgreSQL EXPLAIN query plans
+Weekly podcast about all things PostgreSQL
+postgres.fm
+Last modified March 4, 2026:
+Rename job-families to job-description-library (
+6f520606
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

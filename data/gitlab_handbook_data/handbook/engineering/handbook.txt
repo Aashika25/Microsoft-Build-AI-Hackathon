@@ -1,0 +1,121 @@
+SOURCE: https://handbook.gitlab.com/handbook/
+============================================================
+
+The Handbook
+Introduction
+The GitLab team handbook is the central repository for how we run the company. Printed, it consists of over
+2,000 pages of text
+. As part of our value of being
+transparent the handbook is
+open to the world
+, and we welcome
+feedback. Please make a
+merge request
+to suggest
+improvements or add clarifications. Please use
+issues
+to
+ask questions.
+For a very specific set of
+internal
+information we also maintain an
+Internal Handbook
+Handbook Contents
+Company
+Company
+Values
+Mission
+Communication
+About the Handbook
+People Group
+People Group
+Policies
+Hiring
+Diversity (DIB)
+Total Rewards
+Learning & Development
+Product
+Product
+Product Handbook
+Product Principles
+Product Security
+Open Source
+Engineering
+Engineering
+Customer Support Department
+Development Department
+Infrastructure Platforms Department
+Security Practices
+Open Source
+Enterprise Technology & AI
+Enterprise Technology & AI
+Enterprise Data
+Corporate IT
+Business Systems
+Strategy & Ops
+Enterprise AI
+Security
+Security
+Security Standards
+Product Security
+Security Operations
+Threat Management
+Security Assurance
+Marketing
+Marketing
+Brand and Product Marketing
+Integrated Marketing
+Marketing Operations and Analytics
+Developer Relations
+Corporate Communications
+Sales
+Sales
+Alliances
+Commercial
+Customer Success
+Customer Success Management
+Reseller Channels
+Field Operations
+Reporting
+Solutions Architecture
+Finance
+Finance
+Accounts Payable
+Accounts Receivable
+Business Technology
+Expenses
+Financial Planning & Analysis
+Payroll
+Procurement
+Tax
+Board Meetings
+Internal Audit
+Equity Compensation
+Legal & Corporate Affairs
+Legal & Corporate Affairs
+Commercial
+Corporate
+Corporate Development
+Employment
+Environment, Social, and Governance (ESG)
+Operations
+Privacy
+Product
+Risk Management and Dispute Resolution
+Trade Compliance
+Take GitLab for a spin
+See what your team could do with The DevSecOps Platform.
+Get free trial
+Have a question? We're here to help.
+Talk to an Expert
+Last modified April 10, 2025:
+Fix broken links (
+7fbeab40
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

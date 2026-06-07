@@ -1,0 +1,21 @@
+SOURCE: https://handbook.gitlab.com/handbook/business-technology/services/
+============================================================
+
+Services
+This page lists down the services which IT Enterprise provides GitLab
+Services
+This is a placeholder as we compose the rest of the content.
+Click here for a static link of services.
+Robotic Process Automation (RPA)
+This page lists down the information about Robotic Process Automation (RPA)
+Last modified March 4, 2025:
+Adding Services Folder under IT Enterprise Application Tab (
+1f6da664
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

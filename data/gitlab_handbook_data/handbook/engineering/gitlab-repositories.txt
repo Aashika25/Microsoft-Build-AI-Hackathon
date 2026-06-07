@@ -1,0 +1,219 @@
+SOURCE: https://handbook.gitlab.com/handbook/engineering/workflow/gitlab-repositories/
+============================================================
+
+GitLab Repositories
+GitLab consists of many subprojects. A curated list of GitLab projects can be found at the
+GitLab Engineering projects
+page.
+Purpose
+The purpose of this page is to provide comprehensive guidance for creating and managing GitLab repositories within the organization. It establishes standardized procedures and best practices that ensure all GitLab projects adhere to consistent security, governance, and operational requirements. By following these guidelines, teams can properly structure repositories, implement appropriate access controls, configure essential CI/CD settings, and incorporate security measures that protect both the codebase and the broader GitLab ecosystem.
+Creating a new project
+When creating a new project, please follow these steps:
+Read and familiarize yourself with our stance on
+Dogfooding
+. Be aware that as part of a product development organization that builds a tool for people like us, that our default is to add features and tooling to the GitLab project. This is still true when the effort to do so is 2-5x. Despite this, if you still feel you need to create a project outside of GitLab, you must follow this process to
+document the decision
+Ensure the project is under a subgroup of:
+gitlab-org
+for anything related to the application.
+gitlab-com
+for anything strictly company related.
+To avoid complications with context and permissions inheritance, creating projects directly under these root namespaces (e.g.
+gitlab-org/NEW_PROJECT
+) is discouraged. Only Maintainers can create projects there when necessary, but should also avoid doing so for the reason mentioned before.
+If you don’t have the permissions to create a project there, you can create an
+Access Request issue
+and ping one of the Maintainers (
+gitlab-org
+, and
+gitlab-com
+) for approval.
+Configure the project repository to use
+main
+as the name of the default branch.
+Add the project to the list of GitLab projects in
+projects.yml
+.
+Add a license to the repository. Contact #legal as to which license to add. A sample license is here:
+gitlab-org/gitlab
+MIT License
+, but contact legal before using it.
+Add a section titled “Developer Certificate of Origin and License” to
+CONTRIBUTING.md
+in the repository. It is easiest to simply copy-paste the
+gitlab-org/gitaly
+DCO + License section
+verbatim.
+Add any further relevant details to the Contribution Guide. See
+Contribution Example
+.
+Add a link to
+CONTRIBUTING.md
+from the project’s
+README.md
+.
+Add a
+CODEOWNERS
+file, to make it easy for contributors to figure out which teams are best suited to review their changes.
+Use teams rather than individuals as owners, to make it self updating over time and resilient to people taking time off
+You can scope ownership to subdirectories or individual files, but it should contain at the very least a top-level catch all for any new or non explicitly mentionned file.
+When possible, projects should have the following
+Merge request settings enabled
+:
+Merge Trains
+.
+Delete source branch after merge
+.
+Merge only if pipeline succeeds
+.
+Merge only when all threads are resolved
+.
+When possible, projects should have the following
+Pipeline settings enabled
+:
+Auto-cancel pending pipelines
+.
+Projects should have the minimum
+Baseline Configurations setup for MR Approval Rules and Protected Branch Settings
+Projects should have
+Users can request access
+setting disabled
+to discourage granting accidental external access.
+If needed, make sure to
+set up a default CI/CD configuration
+.
+If the project is part of work that is shipped to customers, add it to
+projects_part_of_product.csv
+by opening an MR to that file as per the
+Engineering Productivity Metrics
+. This data is used to classify our projects for security purposes using
+security attributes
+. For more information refer to
+GitLab Security Project Classification
+.
+Enable the appropriate
+security scanners
+.
+Onboard the project to Renovate (
+https://gitlab.com/gitlab-org/frontend/renovate-gitlab-bot
+), and set up a process to regularly triage findings and update dependencies
+If the repository is public, set up a
+security mirror
+.
+This is necessary to address security vulnerabilities without disclosing them before they are fixed.
+When changing the settings in an existing repository, it’s important to keep
+communication
+in mind. In addition to discussing the change in an issue and announcing it in relevant chat channels (e.g.,
+#development
+), consider announcing the change in the
+Engineering Week-in-Review document
+. This is particularly important for changes to the
+GitLab
+repository.
+CI/CD configuration
+Following is the default
+.gitlab-ci.yml
+config that all projects under the
+gitlab-org
+and
+gitlab-com
+groups should use:
+include
+:
+-
+template
+:
+'Workflows/MergeRequest-Pipelines.gitlab-ci.yml'
+default
+:
+tags
+:
+-
+gitlab-org
+Or if the project needs to support stable/security branches, use the following instead:
+workflow
+:
+rules
+:
+# For merge requests, create a pipeline.
+-
+if
+:
+'$CI_MERGE_REQUEST_IID'
+# For `master` branch, create a pipeline (this includes on schedules, pushes, merges, etc.).
+-
+if
+:
+'$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+# For tags, create a pipeline.
+-
+if
+:
+'$CI_COMMIT_TAG'
+# For stable, and security branches, create a pipeline.
+-
+if
+:
+'$CI_COMMIT_BRANCH =~ /^[\d-]+-stable(-ee)?$/'
+-
+if
+:
+'$CI_COMMIT_BRANCH =~ /^security\//'
+default
+:
+tags
+:
+-
+gitlab-org
+This:
+Includes a
+workflow
+to create pipelines for MR,
+master
+, and tags only.
+Defines the
+gitlab-org
+tag to be used by default which corresponds to cost-optimized runners, with no Docker support. Jobs that need Docker support would use the
+gitlab-org-docker
+tag.
+If a job requires the usage of Docker, it needs to be defined only in the context of the specific job with the
+gitlab-org-docker
+tag:
+sast
+:
+tags
+:
+-
+gitlab-org-docker
+If a job requires the usage of Windows, SaaS runners on Windows should be used. For the exact configuration please check the
+SaaS runner on Windows documentation
+.
+Publishing a Project
+To publish a project to a package repository, please follow
+these directions
+.
+Further Security Recommendations
+Do not store secrets as plaintext variables or rely on Masked environment variables for comprehensive secret management. Instead setup an
+external secret storage solution
+Strongly consider
+creating a threat model
+for the project.
+Consider requesting an
+AppSec review
+when the project is more established.
+Reach out to the AppSec team (
+@gitlab-com/gl-security/appsec
+and
+#security_help
+) for any further questions.
+Last modified May 21, 2026:
+Feature: Add project security classification attributes (
+918667cb
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

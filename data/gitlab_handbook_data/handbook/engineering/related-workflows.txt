@@ -1,0 +1,31 @@
+SOURCE: https://handbook.gitlab.com/handbook/engineering/workflow/related-workflows/
+============================================================
+
+Related Engineering Workflows
+At GitLab we have a number of engineering processes that we use on a daily basis.
+At GitLab we have a number of engineering processes that we use on a daily basis.
+The diagram below shows how these processes interact with one another. Links to each process are available below the image.
+Links
+Feature Change Lock (FCL)
+Production Change Lock (PCL)
+Error budgets
+Capacity planning
+Strategic Priority Codes
+Working groups
+InfraDev
+Cross Functional Prioritization
+Incident Review
+Production readiness reviews
+Deployment Processes
+GitLab.com Operational Processes
+Last modified March 2, 2026:
+docs: consolidate engineering workflow pages (
+90fb9145
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

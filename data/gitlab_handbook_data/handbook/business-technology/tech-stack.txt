@@ -1,0 +1,29 @@
+SOURCE: https://handbook.gitlab.com/handbook/business-technology/tech-stack/
+============================================================
+
+Business Technology - Tech Stack Details
+A list of tools and applications used internally at GitLab and how to access them.
+This is a listing of the applications we use at GitLab. If you’re looking for the technology used to deliver GitLab.com, please visit the
+Production Architecture page
+.
+Tech stack related processes
+Update tech stack information
+Please visit our
+Tech Stack main page
+for instructions on how to request updates to the Tech Stack information.
+Request Access
+If you need to request access for any of the following tools, please refer to and follow the
+Access Request process
+.
+Tech Stack Applications
+Last modified January 23, 2026:
+Move infrastructure/production to infrastructure-platforms (
+6a8ad9a7
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

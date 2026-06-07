@@ -1,0 +1,8909 @@
+SOURCE: https://handbook.gitlab.com/handbook/engineering/projects/
+============================================================
+
+Engineering Projects
+Name
+Location
+about.gitlab.com
+gitlab-com/marketing/digital-experience/about-gitlab-com
+AI Catalog Sync Component
+components/ai-catalog
+AI Gateway
+gitlab-org/modelops/applied-ml/code-suggestions/ai-assist
+AI Gateway Helm Chart
+gitlab-org/charts/ai-gateway-helm-chart
+Analytics Helm Charts
+gitlab-org/analytics-section/product-analytics/helm-charts
+Analytics Manager
+gitlab-org/analytics-section/analytics-manager
+Analytics Stack
+gitlab-org/analytics-section/product-analytics/analytics-stack
+ArgoCD Applications
+gitlab-com/gl-infra/argocd/apps
+Artifact Registry
+gitlab-org/ops/artifact-registry
+Auto Build Docker Image
+cluster-integration/auto-build-image
+Auto Deploy Docker Image
+cluster-integration/auto-deploy-image
+Autoscaler Custom Executor driver for GitLab Runner
+gitlab-org/ci-cd/custom-executor-drivers/autoscaler
+Buyer Experience
+gitlab-com/marketing/digital-experience/buyer-experience
+Caproni
+gitlab-org/caproni
+GitLab Helm Repository
+charts/charts.gitlab.io
+Chef configuration management
+gitlab-com/gl-infra/chef-repo
+ClickHouse Client
+gitlab-org/ruby/gems/clickhouse-client
+Cloud Deploy
+gitlab-org/cloud-deploy
+Managed Cluster Applications Docker Image
+cluster-integration/cluster-applications
+Cloud Native GitLab containers
+gitlab-org/build/CNG
+Configuration Management
+gitlab-com/gl-infra/config-mgmt
+Container Registry
+gitlab-org/container-registry
+GitLab Contributor Platform
+gitlab-org/developer-relations/contributor-success/contributors-gitlab-com
+Cookbook Omnibus GitLab
+gitlab-org/cookbook-omnibus-gitlab
+CustomersDot (Subscription Portal)
+gitlab-org/customers-gitlab-com
+Data Infrastructure
+gitlab-data/data-image
+GitLab Data Chatops
+gitlab-data/chatops
+Declarative Policy
+gitlab-org/ruby/gems/declarative-policy
+Pajamas Design System
+gitlab-org/gitlab-services/design.gitlab.com
+Dev On-Call tool
+gitlab-com/dev-on-call
+Devkit
+gitlab-org/analytics-section/product-analytics/devkit
+discussion-automation
+gitlab-org/secure/pocs/discussion-automation
+Distribution team issue tracker
+gitlab-org/distribution/team-tasks
+Distribution Infrastructure
+gitlab-org/distribution/infrastructure
+GitLab Docs
+gitlab-org/technical-writing/docs-gitlab-com
+dri
+gitlab-org/ruby/gems/dri
+duo-ui
+gitlab-org/duo-ui
+Duo Workflow Executor
+gitlab-org/duo-workflow/duo-workflow-executor
+Duo Workflow Service
+gitlab-org/duo-workflow/duo-workflow-service
+Engineering productivity infrastructure
+gitlab-org/quality/engineering-productivity-infrastructure
+Dedicated Environment Automation
+gitlab-com/gl-infra/gitlab-dedicated
+Fargate
+gitlab-org/ci-cd/custom-executor-drivers/fargate
+Fleeting
+gitlab-org/fleeting/fleeting
+Fleeting Plugin AWS
+gitlab-org/fleeting/fleeting-plugin-aws
+Fleeting Plugin Azure
+gitlab-org/fleeting/fleeting-plugin-azure
+Fleeting Plugin Google Compute
+gitlab-org/fleeting/fleeting-plugin-googlecompute
+Fleeting Plugin Static
+gitlab-org/fleeting/fleeting-plugin-static
+Framework team issue tracker
+gitlab-com/gl-infra/software-delivery/framework/software-delivery-framework-issue-tracker
+Git
+gitlab-org/git
+Gitalisk
+gitlab-org/rust/gitalisk
+Gitaly
+gitlab-org/gitaly
+GitHost.io
+gitlab-com/githost
+GitLab
+gitlab-org/gitlab
+Gitlab Advanced SAST
+gitlab-org/security-products/analyzers/gitlab-advanced-sast
+GitLab Agent for Kubernetes
+cluster-integration/gitlab-agent
+Helm chart for GitLab Agent for Kubernetes
+charts/gitlab-agent
+GitLab Agent for Kubernetes CI image
+cluster-integration/gitlab-agent-ci-image
+GitLab client SDK for Go
+gitlab-org/api/client-go
+gitlab-build-images
+gitlab-org/gitlab-build-images
+GitLab Cloud Native Helm Chart
+charts/gitlab
+gitlab-cli
+gitlab-org/cli
+Gitlab Cloud Connector
+gitlab-org/cloud-connector/gitlab-cloud-connector
+GitLab Code Parser
+gitlab-org/rust/gitlab-code-parser
+GitLab.com COGS
+gitlab-cog
+GitLab.com - infrastructure Terraform files
+gitlab-com/gitlab-com-infrastructure
+Gitlab.com - runbooks
+gitlab-com/runbooks
+GitLab Components
+components
+GitLab Compose Kit
+gitlab-org/gitlab-compose-kit
+GitLab.com - infrastructure node provisioning by role
+gitlab-cookbooks
+GitLab Crystalball
+gitlab-org/ruby/gems/crystalball
+GitLab Dangerfiles
+gitlab-org/ruby/gems/gitlab-dangerfiles
+Data Utils
+gitlab-data/gitlab-data-utils
+GitLab Design
+gitlab-org/gitlab-design
+GitLab Detective
+gitlab-com/support/toolbox/gitlab-detective
+GitLab Development Kit
+gitlab-org/gitlab-development-kit
+GitLab for Eclipse
+gitlab-org/editor-extensions/gitlab-eclipse-plugin
+GitLab Elasticsearch Indexer
+gitlab-org/gitlab-elasticsearch-indexer
+GitLab Environment Toolkit
+gitlab-org/gitlab-environment-toolkit
+gitlab-eslint-config
+gitlab-org/gitlab-eslint-config
+GitLab Experiment
+gitlab-org/ruby/gems/gitlab-experiment
+GitLab Exporter
+gitlab-org/gitlab-exporter
+GitLab Figma Plugin
+gitlab-org/gitlab-figma-plugin
+GitLab FOSS
+gitlab-org/gitlab-foss
+GitLab GLFM Markdown
+gitlab-org/ruby/gems/gitlab-glfm-markdown
+gitlab-gollum-lib
+gitlab-org/gollum-lib
+GitLab Ingress NGINX
+gitlab-org/cloud-native/charts/gitlab-ingress-nginx
+GitLab Duo Plugin for JetBrains
+gitlab-org/editor-extensions/gitlab-jetbrains-plugin/
+GitLab License
+gitlab/gitlab-license
+GitLab Language Server
+gitlab-org/editor-extensions/gitlab-lsp/
+GitLab MailRoom
+gitlab-org/ruby/gems/gitlab-mail_room
+GitLab Markup
+gitlab-org/gitlab-markup
+GitLab O11y
+gitlab-org/embody-team/experimental-observability/gitlab_o11y
+GitLab O11y OpenTelemetry Collector
+gitlab-org/embody-team/experimental-observability/gitlab-o11y-otel-collector
+GitLab Observability backend
+gitlab-org/opstrace/opstrace
+GitLab Observability UI
+gitlab-org/opstrace/opstrace-ui
+GitLab Omnibus Builder
+gitlab-org/gitlab-omnibus-builder
+GitLab Operator
+gitlab-org/cloud-native/gitlab-operator
+GitLab Operator v2
+gitlab-org/cloud-native/operator
+GitLab Orchestrator
+gitlab-org/gitlab-orchestrator
+GitLab Pages
+gitlab-org/gitlab-pages
+GitLab Performance Tool
+gitlab-org/quality/performance
+GitLab QA
+gitlab-org/gitlab-qa
+Backup/restore procedures
+gitlab-restore
+GitLab Roulette
+gitlab-org/gitlab-roulette
+GitLab RSpec Profiling Statistics
+gitlab-org/rspec_profiling_stats
+GitLab Runner
+gitlab-org/gitlab-runner
+Runway deployment for GitLab Secrets Manager
+gitlab-org/govern/secrets-management/gitlab-secrets-manager-container
+GitLab Shell
+gitlab-org/gitlab-shell
+GitLab Sketch Plugin
+gitlab-org/gitlab-sketch-plugin
+GitLab Skills
+gitlab-org/ai/skills
+GitLab Styles
+gitlab-org/ruby/gems/gitlab-styles
+GitLab SVGs
+gitlab-org/gitlab-svgs
+techtask
+gl-technical-interviews/backend/template/techtask
+GitLab Triage
+gitlab-org/ruby/gems/gitlab-triage
+gitlab-ui
+gitlab-org/gitlab-ui
+gitlab-vim
+gitlab-org/editor-extensions/gitlab.vim
+GitLab Extension for Visual Studio
+gitlab-org/editor-extensions/gitlab-visual-studio-extension/
+GitLab VS Code extension
+gitlab-org/gitlab-vscode-extension
+gitlab-web-ide
+gitlab-org/gitlab-web-ide
+gitlab-web-ide-vscode-fork
+gitlab-org/gitlab-web-ide-vscode-fork
+GitLab Workhorse
+gitlab-org/gitlab-workhorse
+GitLab Workspaces Proxy
+gitlab-org/remote-development/gitlab-workspaces-proxy
+GitLab Zoekt Helm Chart
+gitlab-org/cloud-native/charts/gitlab-zoekt
+GitLab Zoekt Indexer
+gitlab-org/gitlab-zoekt-indexer
+ZOQL
+gitlab-org/ruby/gems/gitlab-zoql
+GitLab Data
+gitlab-data/analytics
+GitLab Kramdown
+gitlab-org/gitlab_kramdown
+GitLab Quality Test Tooling
+gitlab-org/ruby/gems/gitlab_quality-test_tooling
+CIS GitLab Benchmark Scanner
+gitlab-org/govern/compliance/engineering/cis/gitlabcis
+gitlabktl
+gitlab-org/gitlabktl
+Gitter webapp
+gitlab-org/gitter/webapp
+GLQL
+gitlab-org/glql
+Go MimeDB
+gitlab-org/go-mimedb
+grape-path-helpers
+gitlab-org/grape-path-helpers
+Graphql Ruby
+gitlab-org/ruby/gems/graphql-ruby
+GitLab Runner Infrastructure Toolkit
+gitlab-org/ci-cd/runner-tools/grit
+Group Conversations
+gitlab-org/group-conversations
+gRPC
+gitlab-org/ruby/gems/grpc
+helm-install-image
+gitlab-org/cluster-integration/helm-install-image
+HTTP Router
+gitlab-org/cells/http-router
+HTTP Router Deployer
+gitlab-com/gl-infra/cells/http-router-deployer
+Iglu
+gitlab-org/iglu
+Infrastructure Management
+gitlab-com/gl-infra/infra-mgmt
+GitLab.com - infrastructure issue tracker
+gitlab-com/infrastructure
+internal-handbook
+internal-handbook/internal.gitlab.com
+Distribution issue bot
+gitlab-org/distribution/issue-bot
+k3s GitLab CI
+cluster-integration/test-utils/k3s-gitlab-ci
+k8s-agent-qa
+gitlab-org/configure/k8s-agent-qa
+Kubernetes workloads GitLab.com
+gitlab-com/gl-infra/k8s-workloads/gitlab-com/
+GitLab Knowledge Graph
+gitlab-org/rust/gitlab-knowledge-graph
+Kubernetes GitLab Demo
+gitlab-org/kubernetes-gitlab-demo
+labkit
+gitlab-org/labkit
+labkit-python
+gitlab-org/labkit-python
+labkit-rs
+gitlab-org/rust/labkit-rs
+labkit-ruby
+gitlab-org/labkit-ruby
+LicenseFinder
+gitlab-org/ruby/gems/LicenseFinder
+Marketing Operations
+gitlab.com/gitlab-com/marketing/marketing-operations
+Marketo Tools
+gitlab-com/marketo-tools
+Merge Train
+gitlab-org/merge-train
+Nesting
+gitlab-org/fleeting/nesting
+Omnibus GitLab
+gitlab-org/omnibus-gitlab
+OpenBao Helm chart
+gitlab-org/cloud-native/charts/openbao
+GitLab fork of OpenBao
+gitlab-org/govern/secrets-management/openbao-internal
+OS images for MacOS build cloud
+gitlab-org/ci-cd/shared-runners/images/macstadium/orka
+Package Hunter
+gitlab-org/security-products/package-hunter
+Package Hunter CLI
+gitlab-org/security-products/package-hunter-cli
+pages.gitlab.io
+pages/pages.gitlab.io
+Compensation Calculator
+gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/
+PeopleOps Employment Automation
+gitlab-people-engineering/employment-automation
+Nominator
+gitlab.com/gitlab-com/people-group/peopleops-eng/nominatorbot
+Splinter PTO
+gitlab.com/gitlab-com/people-group/peopleops-eng/splinter
+pipeline-validation-service
+gitlab-org/modelops/anti-abuse/pipeline-validation-service
+PMDB distribution service
+gitlab-org/security-products/license-db/pmdb-distribution-service
+GitLab Project Templates
+gitlab-org/project-templates
+prometheus-client-mmap
+gitlab-org/prometheus-client-mmap
+Google Protobuf
+gitlab-org/ruby/gems/protobuf
+Public Container Image Archive Registry
+gitlab-org/public-image-archive
+Python
+gitlab-org/maintainers/python
+Common CI for QA pipelines
+gitlab.com/gitlab-org/quality/pipeline-common
+Quality SSH Tunnel
+gitlab.com/gitlab-org/quality/ssh-tunnel
+IpynbDiff
+/gitlab-org/incubation-engineering/mlops/rb-ipynbdiff
+Reference Architectures
+gitlab-org/reference-architectures
+Registry Conformance
+gitlab-org/ops/registry-conformance
+Release CLI
+gitlab-org/release-cli
+GitLab Release Tools
+gitlab-org/release-tools
+GitLab Runner Releaser
+gitlab-org/ci-cd/runner-tools/releaser
+GitLab Runner Releases
+gitlab-org/ci-cd/runner-tools/releases
+RemoteOnly.org
+gitlab-com/www-remoteonly-org
+Renovate GitLab Bot
+gitlab-org/frontend/renovate-gitlab-bot
+Repository X-Ray
+gitlab-org/create-stage/code-creation/repository-x-ray
+Rouge
+rouge-ruby/rouge
+GitLab Runner Helm Chart
+gitlab-org/charts/gitlab-runner
+Runner Incept
+gitlab-org/ci-cd/tests/runner-incept
+GitLab Runner Operator for Kubernetes
+gitlab-org/gl-openshift/gitlab-runner-operator
+GitLab Runner UBI Offline Build
+gitlab-org/ci-cd/gitlab-runner-ubi-images
+Runway Provisioner
+gitlab-com/gl-infra/platform/runway/provisioner
+Runway Reconciler
+gitlab-com/gl-infra/platform/runway/runwayctl
+SAST Scanner Service
+gitlab-org/secure/sast-scanner-service
+Sec Section Dangerbot
+gitlab-org/security-products/danger-bot
+Secret Detection Response Service
+gitlab-org/security-products/secret-detection/secret-detection-response-service
+sectypes
+gitlab-org/security-products/analyzers/sectypes
+Dependency Scanning - Gemnasium analyzer
+gitlab-org/security-products/analyzers/gemnasium
+Dependency Scanning - Gemnasium Database
+gitlab-org/security-products/gemnasium-db
+Static Analysis - Benchmark Generator
+gitlab-org/secure/static-analysis/sast-ide-benchgen
+Static Analysis - IDE Benchmark
+gitlab-org/secure/sast-ide-benchmark
+Static Analysis - SAST in the IDE Integration
+gitlab-org/secure/sast-ide-integration
+Static Analysis - Assessment Corpus
+gitlab-org/secure/static-analysis/sast-assessment-corpus
+Static Analysis - Bandit analyzer
+gitlab-org/security-products/analyzers/bandit
+Static Analysis - Brakeman analyzer
+gitlab-org/security-products/analyzers/brakeman
+Static Analysis - Clang Static Analyzer
+gitlab-org/security-products/analyzers/clangsa
+Code Quality
+gitlab-org/ci-cd/codequality
+Static Analysis - Eslint analyzer
+gitlab-org/security-products/analyzers/eslint
+Static Analysis - Flawfinder analyzer
+gitlab-org/security-products/analyzers/flawfinder
+Static Analysis - Gosec analyzer
+gitlab-org/security-products/analyzers/gosec
+Static Analysis - KICS analyzer
+gitlab-org/security-products/analyzers/kics
+Static Analysis - Kubesec analyzer
+gitlab-org/security-products/analyzers/kubesec
+Static Analysis - Lightz Analyzer
+gitlab-org/security-products/oxeye/product/lightz
+Static Analysis - Lightz All in One
+gitlab-org/security-products/oxeye/product/lightz-aio
+Static Analysis - MobSF analyzer
+gitlab-org/security-products/analyzers/mobsf
+Static Analysis - Nodejs-Scan analyzer
+gitlab-org/security-products/analyzers/nodejs-scan
+Static Analysis - Lightz Rules
+gitlab-org/security-products/oxeye/product/oxeye-rulez
+Static Analysis - PHPCS-Security-Audit analyzer
+gitlab-org/security-products/analyzers/phpcs-security-audit
+Static Analysis - PMD Apex analyzer
+gitlab-org/security-products/analyzers/pmd-apex
+Static Analysis - Semgrep Rules
+gitlab-org/security-products/sast-rules
+Static Analysis - Lightz Rule Generator
+gitlab-org/security-products/oxeye/product/rules-gen
+Static Analysis - Security-Code-Scan analyzer
+gitlab-org/security-products/analyzers/security-code-scan
+Static Analysis - Semgrep analyzer
+gitlab-org/security-products/analyzers/semgrep
+Static Analysis - Sobelow analyzer
+gitlab-org/security-products/analyzers/sobelow
+Static Analysis - Spotbugs analyzer
+gitlab-org/security-products/analyzers/spotbugs
+Static Analysis - Tracking analyzer
+gitlab-org/security-products/post-analyzers/tracking-calculator
+Secret Detection - GitLab Advanced Secret Detection analyzer
+gitlab-org/security-products/analyzers/gitlab-advanced-secret-detection
+Secret Detection - Secrets analyzer
+gitlab-org/security-products/analyzers/secrets
+Secure Analyzers
+gitlab-org/security-products/analyzers
+Security Analyzers Common Library
+gitlab-org/security-products/analyzers/common
+API Security
+gitlab-org/security-products/analyzers/api-fuzzing-src
+Browser-based DAST Engine
+gitlab-org/security-products/analyzers/browserker
+Security Product Templates
+gitlab-org/security-products/ci-templates
+Secure Command analyzer
+gitlab-org/security-products/analyzers/command
+Secure Report analyzer
+gitlab-org/security-products/analyzers/report
+Static Analysis - Ruleset analyzer
+gitlab-org/security-products/analyzers/ruleset
+Container Scanning
+gitlab-org/security-products/analyzers/container-scanning
+Coverage Fuzzer
+gitlab-org/security-products/analyzers/gitlab-cov-fuzz-src
+Dynamic Application Security Testing (DAST)
+gitlab-org/security-products/dast
+Dependency Management - Orchestrator
+gitlab-org/security-products/dependency-management/orchestrator
+Dependency Management - Updater
+gitlab-org/security-products/dependency-management/updater
+Dependency Scanning
+gitlab-org/security-products/analyzers/dependency-scanning
+Events Registry
+gitlab-org/security-products/analyzers/events
+Secure Integration Test
+gitlab-org/security-products/analyzers/integration-test
+License Database - Advisory Processor
+gitlab-org/security-products/license-db/advisory-processor
+License Database - Deployment
+gitlab-org/security-products/license-db/deployment
+License Database - License Exporter
+gitlab-org/security-products/license-db/license-exporter
+License Database - License Feeder
+gitlab-org/security-products/license-db/license-feeder
+License Database - License Interfacer
+gitlab-org/security-products/license-db/license-interfacer
+License Database - License Processor
+gitlab-org/security-products/license-db/license-processor
+License Database - PMDB tools
+gitlab-org/security-products/license-db/pmdb-tools
+License Database - Schema
+gitlab-org/security-products/license-db/schema
+License Database - SPDX Utility
+gitlab-org/security-products/license-db/spdxutil
+License Database - Static reachability modules scrapper
+gitlab-org/security-products/license-db/static-reachability-modules-scraper
+PyPi metadata
+gitlab-org/security-products/pypi-metadata
+Static Application Security Testing (SAST)
+gitlab-org/security-products/sast
+SCA to sharif matcher
+gitlab-org/security-products/oxeye/product/sca-to-sarif-matcher
+Operational Container Scanning - Trivy K8S Wrapper
+gitlab-org/security-products/analyzers/trivy-k8s-wrapper
+Security Report Schemas
+gitlab-org/security-products/security-report-schemas
+Security Report Schemas Ruby
+gitlab-org/security-products/security-report-schemas-ruby
+Semver Dialects
+gitlab-org/ruby/gems/semver_dialects
+GitLab Sidekiq Reliable Fetcher
+gitlab-org/sidekiq-reliable-fetch
+Siphon
+gitlab-org/analytics-section/siphon
+Slippers Design System
+gitlab-com/marketing/digital-experience/slippers-ui
+Snowflake Spend dbt Package
+gitlab-data/snowflake_spend
+Snowplow Micro Configuration
+gitlab-org/snowplow-micro-configuration
+GitLab Status Page
+gitlab-org/status-page
+Step Runner
+gitlab-org/step-runner
+Switchboard
+gitlab-com/gl-infra/gitlab-dedicated/switchboard
+takeoff
+gitlab-org/takeoff
+Tamland
+gitlab-com/gl-infra/tamland
+Tanuki Emoji
+gitlab-org/ruby/gems/tanuki_emoji
+Tanukidesk
+gitlab-com/marketing/developer-relations/community-advocacy/tanukidesk
+Taskscaler
+gitlab-org/fleeting/taskscaler
+Images for using Terraform in GitLab CI
+gitlab-org/terraform-images
+GitLab internal terraform modules
+gitlab-com/gl-infra/terraform-modules
+GitLab Terraform Provider
+gitlab-org/terraform-provider-gitlab
+test_file_finder
+gitlab-org/ruby/gems/test_file_finder
+Topology Service
+gitlab-org/cells/topology-service
+Topology Service Deployer
+gitlab-org/cells/topology-service-deployer
+GitLab triage operations
+gitlab-org/quality/triage-ops
+GitLab University
+gitlab-org/university
+Accessibility
+gitlab-org/ci-cd/accessibility
+version.gitlab.com
+gitlab-org/gitlab-services/version.gitlab.com
+www-gitlab-com
+gitlab-com/www-gitlab-com
+about.gitlab.com
+This is the main project responsible for generating GitLab’s Marketing Site. It is maintained by the Digital Experience team at GitLab.
+Assignments
+Maintainers
+Laura Duggan
+Globalization
+Localization
+Lauren Barker
+Megan Filo
+Nuxt 3
+Mateo Penagos
+CI/CD
+Nathan Dubord
+Nuxt 3
+Vue
+CI/CD
+Frontend Architecture
+AI Catalog Sync Component
+A CI component for syncing AI catalog items from a repository to the database.
+Assignments
+Maintainers
+Dennis Meister
+Lee Tickett
+Mattias Michaux
+AI Gateway
+AI Gateway for GitLab Duo features.
+Assignments
+Maintainers
+ai_gateway (20)
+Alexander Chueshev
+Allen Cook
+Alejandro Rodríguez
+Bruno Cardoso
+Eduardo Bonet
+Erran Carey
+Igor Drozdov
+Kinshuk Singh
+Manoj Memana Jayakumar
+Ruby on Rails
+Manage
+Michael Angelo Rivera
+Nathan Weinshenker
+Shinya Maeda
+Python
+Ruby on Rails
+CI/CD
+Backend Performance
+Stan Hu
+Ruby on Rails
+CI/CD
+PostgreSQL
+Redis
+Geo
+LFS
+Tian Gao
+Thomas Schmidt
+Tan Le
+Git
+Makefiles
+Python
+Ruby on Rails
+Ruby
+Suggested Reviewers
+duo_workflow_service (16)
+Andras Herczeg
+Eduardo Bonet
+Erran Carey
+Halil Coban
+Igor Drozdov
+Senior Machine Learning Engineer
+Mikołaj Wawrzyniak
+Roman Eisner
+Shekhar Patnaik
+Surabhi Suman
+Thomas Schmidt
+Tim Morriss
+maintainer (36)
+Alexander Chueshev
+Allen Cook
+Alejandro Rodríguez
+Andras Herczeg
+Bruno Cardoso
+Eduardo Bonet
+Erran Carey
+Halil Coban
+Igor Drozdov
+Senior Machine Learning Engineer
+Kinshuk Singh
+Manoj Memana Jayakumar
+Ruby on Rails
+Manage
+Michael Angelo Rivera
+Mikołaj Wawrzyniak
+Nathan Weinshenker
+Roman Eisner
+Shekhar Patnaik
+Shinya Maeda
+Python
+Ruby on Rails
+CI/CD
+Backend Performance
+Surabhi Suman
+Stan Hu
+Ruby on Rails
+CI/CD
+PostgreSQL
+Redis
+Geo
+LFS
+Tian Gao
+Thomas Schmidt
+Tan Le
+Git
+Makefiles
+Python
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Tim Morriss
+Reviewers
+ai_gateway (56)
+Aleksei Lipniagov
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+Andras Herczeg
+Arturo Herrero
+Anna Springfield
+Cindy Halim
+Dylan Bernardi
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Dillon Wheeler
+Eva Kadlecová
+Fred de Gier
+Halil Coban
+Hongtao Yang
+Jaydip pansuriya
+James Fargher
+Jessie Young
+Manage
+OAuth
+Ruby on Rails
+Ruby
+John Mason
+Patrick Cyiza
+Juhee Lee
+Senior Machine Learning Engineer
+Kaveh Nejad
+Kalyani Gadgil (KG)
+Karl Jamoralin
+Keeyan Nejad
+Ruby on Rails
+Git
+Importers
+RuboCop
+Ruby
+Luke Duncalfe
+Ruby on Rails
+Ruby
+LFS
+GraphQL
+REST API
+Design Management
+Wiki
+Integrations
+Importers
+Webhooks
+Madelein van Niekerk
+Mark Chao
+Ruby on Rails
+Elasticsearch
+Mark Lapierre
+Mohamed Hamda
+Michael Usachenko
+Mike Eddington
+C#
+Mikołaj Wawrzyniak
+Mohammed Osumah
+Newvick Lee
+Omar Qunsul
+Pam Artiaga
+Roman Eisner
+Shekhar Patnaik
+Shola Quadri
+Surabhi Suman
+Terri Chu
+Ruby on Rails
+Kubernetes
+Elasticsearch
+Timo Furrer
+Go
+Kubernetes
+Tim Morriss
+Vitali Tatarintev
+Ruby on Rails
+Monitor
+Wanderson Policarpo
+analytics_instrumentation (5)
+Ankit Panchal
+Homer Silva
+Michał Wielich
+Niko Belokolodov
+Nwanna Isong
+duo_workflow_service (26)
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+Dillon Wheeler
+Eva Kadlecová
+Fred de Gier
+Jessie Young
+Manage
+OAuth
+Ruby on Rails
+Ruby
+John Mason
+Patrick Cyiza
+Kaveh Nejad
+Kinshuk Singh
+Nathan Weinshenker
+Newvick Lee
+Omar Qunsul
+Terri Chu
+Ruby on Rails
+Kubernetes
+Elasticsearch
+Tian Gao
+Tan Le
+Git
+Makefiles
+Python
+Ruby on Rails
+Ruby
+Suggested Reviewers
+reviewer (87)
+Aleksei Lipniagov
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+Andras Herczeg
+Ankit Panchal
+Arturo Herrero
+Anna Springfield
+Cindy Halim
+Dylan Bernardi
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Dillon Wheeler
+Eva Kadlecová
+Fred de Gier
+Halil Coban
+Hongtao Yang
+Homer Silva
+Jaydip pansuriya
+James Fargher
+Jessie Young
+Manage
+OAuth
+Ruby on Rails
+Ruby
+John Mason
+Patrick Cyiza
+Juhee Lee
+Senior Machine Learning Engineer
+Kaveh Nejad
+Kalyani Gadgil (KG)
+Kinshuk Singh
+Karl Jamoralin
+Keeyan Nejad
+Ruby on Rails
+Git
+Importers
+RuboCop
+Ruby
+Luke Duncalfe
+Ruby on Rails
+Ruby
+LFS
+GraphQL
+REST API
+Design Management
+Wiki
+Integrations
+Importers
+Webhooks
+Madelein van Niekerk
+Mark Chao
+Ruby on Rails
+Elasticsearch
+Mark Lapierre
+Mohamed Hamda
+Michael Usachenko
+Michał Wielich
+Mike Eddington
+C#
+Mikołaj Wawrzyniak
+Mohammed Osumah
+Nathan Weinshenker
+Niko Belokolodov
+Nwanna Isong
+Newvick Lee
+Omar Qunsul
+Pam Artiaga
+Roman Eisner
+Shekhar Patnaik
+Shola Quadri
+Surabhi Suman
+Terri Chu
+Ruby on Rails
+Kubernetes
+Elasticsearch
+Tian Gao
+Timo Furrer
+Go
+Kubernetes
+Tan Le
+Git
+Makefiles
+Python
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Tim Morriss
+Vitali Tatarintev
+Ruby on Rails
+Monitor
+Wanderson Policarpo
+AI Gateway Helm Chart
+Helm Chart used to deploying the AI Gateway for GitLab Duo features.
+Assignments
+Maintainers
+Patrick Cyiza
+Vishal Tak
+Analytics Helm Charts
+Configurations and helm charts for Product Analytics helm packages.
+Assignments
+Maintainers
+Michał Wielich
+Robert Hunt
+Reviewers
+Jiaan Louw
+Surabhi Suman
+Analytics Manager
+Small service that configures new projects for Product Analytics event tracking by creating the necessary database and tables in Clickhouse.
+Assignments
+Maintainers
+Ankit Panchal
+Niko Belokolodov
+Analytics Stack
+Configurations and helm charts for the Product Analytics internal infrastructure.
+Assignments
+Maintainers
+Michał Wielich
+Niko Belokolodov
+Robert Hunt
+ArgoCD Applications
+ArgoCD applications for GitLab’s Kubernetes clusters
+Assignments
+Maintainers
+Cameron S McFarland
+Senior Site Reliability Engineer
+Pierre Guinoiseau
+Silvester Wainaina
+Artifact Registry
+Centralized artifact management for GitLab. Provides organization-level
+management of containers, packages, and other artifacts.
+Assignments
+Auto Build Docker Image
+The image in which Auto DevOps build jobs run. Handles various logic around
+building and tagging Docker images.
+Assignments
+Maintainers
+David Fernandez
+Ruby on Rails
+Container Registry
+Package
+Dzmitry Meshcharakou
+Hordur Freyr Yngvason
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Timo Furrer
+Go
+Kubernetes
+Trainee Maintainers
+Taka Nishida
+Auto Deploy Docker Image
+The image in which Auto DevOps deployment jobs run, responsible for
+complex deployment logic that can’t be handled by the Auto Deploy App
+helm chart
+Assignments
+Maintainers
+Hordur Freyr Yngvason
+João Alexandre Prado Tavares Cunha
+Ruby on Rails
+CI/CD
+Kubernetes
+Taka Nishida
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Timo Furrer
+Go
+Kubernetes
+Autoscaler Custom Executor driver for GitLab Runner
+A driver for GitLab Runner’s Custom Executor, that implements autoscaling algorithm
+Assignments
+Maintainers
+Arran Walker
+Georgi Georgiev
+Tomasz Maczukin
+CI/CD
+Kubernetes
+Runner
+Buyer Experience
+Deprecated project, previously responsible for generating part of GitLab’s Marketing Site. It is maintained by the Digital Experience team at GitLab. This project is currently being migrated to the about.gitlab.com project.
+Assignments
+Maintainers
+John Arias
+CI/CD
+Javier Garcia
+Google Analytics
+Laura Duggan
+Globalization
+Localization
+Megan Filo
+Nuxt 3
+Margareth Mañunga
+Vue
+Mateo Penagos
+CI/CD
+Nathan Dubord
+Nuxt 3
+Vue
+CI/CD
+Frontend Architecture
+Caproni
+Caproni is a general purpose command-line tool that orchestrates local
+Kubernetes development environments. It provides a simple interface for
+running cloud-native Helm deployments locally, with first-class support
+for hot-reload development workflows.
+Assignments
+Maintainers
+Andrew Newdigate
+Prometheus
+Redis
+Elasticsearch
+Elliot Forbes
+Manuel Schönlaub
+Kev Kloss
+Nao Hashizume
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+GitLab Helm Repository
+GitLab’s official All-in-one Helm charts.
+Assignments
+Maintainers
+Jason Plum
+Helm
+Kubernetes
+Kamil Trzciński
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Redis
+Geo
+Runner
+LFS
+Pages
+Container Registry
+Reviewers
+Dmitry Makovey
+Kubernetes
+Helm
+Makefiles
+Robert Marshall
+Chef configuration management
+Internal chef configurations and data bags.
+Assignments
+Maintainers
+Alex Hanselka
+Anton Starovoytov
+Adeline Yeung
+Cameron S McFarland
+Senior Site Reliability Engineer
+Devin Sylva
+Donna Alexandra
+Pierre Guinoiseau
+Sarah Walker
+Silvester Wainaina
+Shreya Shah
+Tarun Khandelwal
+ClickHouse Client
+This Gem provides a simple way to query ClickHouse databases using the HTTP interface.
+Assignments
+Maintainers
+Principal Engineer
+ClickHouse
+Ruby on Rails
+PostgreSQL
+Pavel Shutsin
+Ruby
+Ruby on Rails
+REST API
+GraphQL
+ClickHouse
+Cloud Deploy
+Docker images for deployments on major cloud platforms (GDC, Azure, AWS)
+Assignments
+Maintainers
+Etienne Baqué
+Managed Cluster Applications Docker Image
+The image in which Managed Cluster Applications configuration jobs run.
+Assignments
+Maintainers
+João Alexandre Prado Tavares Cunha
+Ruby on Rails
+CI/CD
+Kubernetes
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Cloud Native GitLab containers
+Cloud native container images per component of GitLab
+Assignments
+Maintainers
+Balasankar 'Balu' C
+CI/CD
+Git
+Pipelines configuration of
+gitlab-org
+projects
+Shell Script
+Jason Plum
+Helm
+Kubernetes
+Robert Marshall
+Reviewers
+Adam Chu
+Alec Xu
+C#
+CI/CD
+Git
+Shell Script
+Clemens Beck
+Dmitry Makovey
+Kubernetes
+Helm
+Makefiles
+Grigoris Thanasoulas
+João Alexandre Prado Tavares Cunha
+Ruby on Rails
+CI/CD
+Kubernetes
+Jon Doveston
+Lucas Li
+Go
+Kubernetes
+Nailia Iskhakova
+Pratik Singh
+Go
+Kubernetes
+Python
+Stefan Bordei
+Senior Distribution Engineer
+qa (1)
+Vishal Patel
+reviewer (1)
+Vishal Patel
+Configuration Management
+Terraform for managing GitLab infrastructure
+Assignments
+Maintainers
+Alex Hanselka
+Anton Starovoytov
+Adeline Yeung
+Cameron S McFarland
+Senior Site Reliability Engineer
+Devin Sylva
+Donna Alexandra
+Pierre Guinoiseau
+Sarah Walker
+Silvester Wainaina
+Shreya Shah
+Tarun Khandelwal
+Container Registry
+With the Container Registry in GitLab, every project can have its own space to store its images.
+Assignments
+Maintainers
+Jaime Martínez
+Go
+Pages
+Kamil Trzciński
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Redis
+Geo
+Runner
+LFS
+Pages
+Container Registry
+database (1)
+Simon Tomlinson
+maintainer (5)
+Hayley Swimelar
+Container Registry
+João Pereira
+Container Registry
+Senior Backend Engineer
+Simon Tomlinson
+Senior Backend Engineer
+Reviewers
+reviewer (4)
+Hayley Swimelar
+Container Registry
+João Pereira
+Container Registry
+Senior Backend Engineer
+Senior Backend Engineer
+GitLab Contributor Platform
+Central application for contributors and team members to track/manage/reward wider community contributions.
+Assignments
+Maintainers
+maintainer (7)
+Arianna Haradon
+Dennis Meister
+Lee Tickett
+Missy Davies
+Mattias Michaux
+Raimund Hook
+Sina Abadi
+Reviewers
+Marco Zille
+Niklas van Schrick
+reviewer (7)
+Arianna Haradon
+Dennis Meister
+Lee Tickett
+Missy Davies
+Mattias Michaux
+Raimund Hook
+Sina Abadi
+Cookbook Omnibus GitLab
+Chef Cookbooks for deploying omnibus-gitlab package
+Assignments
+CustomersDot (Subscription Portal)
+Internal GitLab CustomersDot
+Assignments
+Maintainers
+backend (18)
+Aishwarya Subramanian
+Aman Luthra
+Bishwa Hang Rai
+Corinna Gogolok
+Divya Mahadevan
+Jason Goodman
+Josianne Hyson
+Ruby on Rails
+Lukas Wanko
+Mark Chao
+Ruby on Rails
+Elasticsearch
+Minahil Nichols
+Qingyu Zhao
+Ryan Cobb
+Shreyas Agarwal
+Tarun Vellishetty
+Tyler Amos
+Ruby on Rails
+Vijay Hawoldar
+Ruby on Rails
+Create
+Vladlena Shumilo
+database (5)
+Principal Engineer
+ClickHouse
+Ruby on Rails
+PostgreSQL
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+Bishwa Hang Rai
+Krasimir Angelov
+Ruby on Rails
+PostgreSQL
+frontend (9)
+Ammar Alakkad
+Diana Zubova
+Frontend Testing
+Vue
+CSS/SCSS
+Subscriptions Management (Zuora integration)
+Kushal Pandya
+Michael Lunøe
+Frontend Architecture
+GraphQL
+Frontend Performance
+Frontend Engineering workflow tooling like yarn scripts, git hooks, linters, prettier, etc
+Frontend Testing
+Git
+Webpack
+Vue
+Vuex
+GraphQL
+Natalia Tepluhina
+Vue
+GraphQL
+Design Management
+Frontend Architecture
+Sheldon Led
+Sharmad Nachnolkar
+Vitaly Slobodin
+Frontend Testing
+Foundations Buddy
+Frontend Architecture
+Vamsi Vempati
+maintainer (32)
+Principal Engineer
+ClickHouse
+Ruby on Rails
+PostgreSQL
+Aishwarya Subramanian
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+Aman Luthra
+Ammar Alakkad
+Bishwa Hang Rai
+Corinna Gogolok
+Divya Mahadevan
+Diana Zubova
+Frontend Testing
+Vue
+CSS/SCSS
+Subscriptions Management (Zuora integration)
+Jason Goodman
+Josianne Hyson
+Ruby on Rails
+Krasimir Angelov
+Ruby on Rails
+PostgreSQL
+Kushal Pandya
+Lukas Wanko
+Mark Chao
+Ruby on Rails
+Elasticsearch
+Michael Lunøe
+Frontend Architecture
+GraphQL
+Frontend Performance
+Frontend Engineering workflow tooling like yarn scripts, git hooks, linters, prettier, etc
+Frontend Testing
+Git
+Webpack
+Vue
+Vuex
+GraphQL
+Minahil Nichols
+Natalia Tepluhina
+Vue
+GraphQL
+Design Management
+Frontend Architecture
+Qingyu Zhao
+Ryan Cobb
+Sheldon Led
+Shreyas Agarwal
+Sharmad Nachnolkar
+Tarun Vellishetty
+Tyler Amos
+Ruby on Rails
+Vijay Hawoldar
+Ruby on Rails
+Create
+Vitaly Slobodin
+Frontend Testing
+Foundations Buddy
+Frontend Architecture
+Vladlena Shumilo
+Vamsi Vempati
+Trainee Maintainers
+backend (1)
+Florian Jedelhauser
+frontend (1)
+Minahil Nichols
+qa (1)
+Joy Roodnick
+trainee_maintainer (3)
+Florian Jedelhauser
+Joy Roodnick
+Minahil Nichols
+Reviewers
+UX (4)
+Emily Sybrant
+Erhan D'Silva
+Lina Fowler
+Timothy Noah
+backend (26)
+Abhay V Ashokan
+Ruby
+Ruby on Rails
+PostgreSQL
+Vue
+Etienne Baqué
+Jorge Cook
+Katherine Richards
+Matt Sroufe
+Prathyusha Kanala
+Reuben Pereira
+Ruby on Rails
+Monitor
+Prometheus
+Roy Zwambag
+Sandra To
+Sharmad Nachnolkar
+Suraj Tripathi
+Ruby on Rails
+Valerie Burton
+Vitaly Slobodin
+Frontend Testing
+Foundations Buddy
+Frontend Architecture
+clickhouse (8)
+Etienne Baqué
+Suraj Tripathi
+Ruby on Rails
+Vijay Hawoldar
+Ruby on Rails
+Create
+database (4)
+Katherine Richards
+Qingyu Zhao
+documentation (46)
+Aishwarya Subramanian
+Aman Luthra
+Ammar Alakkad
+Bishwa Hang Rai
+Corinna Gogolok
+Divya Mahadevan
+Diana Zubova
+Frontend Testing
+Vue
+CSS/SCSS
+Subscriptions Management (Zuora integration)
+Etienne Baqué
+Jason Goodman
+Josianne Hyson
+Ruby on Rails
+Kushal Pandya
+Lukas Wanko
+Mark Chao
+Ruby on Rails
+Elasticsearch
+Michael Lunøe
+Frontend Architecture
+GraphQL
+Frontend Performance
+Frontend Engineering workflow tooling like yarn scripts, git hooks, linters, prettier, etc
+Frontend Testing
+Git
+Webpack
+Vue
+Vuex
+GraphQL
+Minahil Nichols
+Natalia Tepluhina
+Vue
+GraphQL
+Design Management
+Frontend Architecture
+Prathyusha Kanala
+Qingyu Zhao
+Reuben Pereira
+Ruby on Rails
+Monitor
+Prometheus
+Ryan Cobb
+Sheldon Led
+Shreyas Agarwal
+Sharmad Nachnolkar
+Suraj Tripathi
+Ruby on Rails
+Tarun Vellishetty
+Tyler Amos
+Ruby on Rails
+Valerie Burton
+Vijay Hawoldar
+Ruby on Rails
+Create
+Vitaly Slobodin
+Frontend Testing
+Foundations Buddy
+Frontend Architecture
+Vladlena Shumilo
+Vamsi Vempati
+frontend (13)
+Abhay V Ashokan
+Ruby
+Ruby on Rails
+PostgreSQL
+Vue
+Divya Mahadevan
+Lukas Wanko
+Sandra To
+Tarun Vellishetty
+Valerie Burton
+qa (1)
+Richard Chong
+reviewer (102)
+Abhay V Ashokan
+Ruby
+Ruby on Rails
+PostgreSQL
+Vue
+Aishwarya Subramanian
+Aman Luthra
+Ammar Alakkad
+Bishwa Hang Rai
+Corinna Gogolok
+Divya Mahadevan
+Diana Zubova
+Frontend Testing
+Vue
+CSS/SCSS
+Subscriptions Management (Zuora integration)
+Emily Sybrant
+Erhan D'Silva
+Etienne Baqué
+Jason Goodman
+Jorge Cook
+Josianne Hyson
+Ruby on Rails
+Katherine Richards
+Kushal Pandya
+Lina Fowler
+Lukas Wanko
+Mark Chao
+Ruby on Rails
+Elasticsearch
+Matt Sroufe
+Michael Lunøe
+Frontend Architecture
+GraphQL
+Frontend Performance
+Frontend Engineering workflow tooling like yarn scripts, git hooks, linters, prettier, etc
+Frontend Testing
+Git
+Webpack
+Vue
+Vuex
+GraphQL
+Minahil Nichols
+Natalia Tepluhina
+Vue
+GraphQL
+Design Management
+Frontend Architecture
+Prathyusha Kanala
+Qingyu Zhao
+Reuben Pereira
+Ruby on Rails
+Monitor
+Prometheus
+Richard Chong
+Ryan Cobb
+Roy Zwambag
+Sandra To
+Sheldon Led
+Shreyas Agarwal
+Sharmad Nachnolkar
+Suraj Tripathi
+Ruby on Rails
+Timothy Noah
+Tarun Vellishetty
+Tyler Amos
+Ruby on Rails
+Valerie Burton
+Vijay Hawoldar
+Ruby on Rails
+Create
+Vitaly Slobodin
+Frontend Testing
+Foundations Buddy
+Frontend Architecture
+Vladlena Shumilo
+Vamsi Vempati
+Data Infrastructure
+The project for the Data Team’s Docker Images/Kubernetes Infrastructure
+Assignments
+GitLab Data Chatops
+The Data team primarily uses chatops to troubleshoot data quality concerns.
+Assignments
+Maintainers
+Justin Stark
+Declarative Policy
+Gem for authorization logic used in GitLab Rails.
+Assignments
+Maintainers
+Bogdan Denkovych
+Drew Blessing
+Imre Farkas
+Ruby on Rails
+Manage
+Jessie Young
+Manage
+OAuth
+Ruby on Rails
+Ruby
+Małgorzata Ksionek
+Ruby
+REST API
+Ruby on Rails
+Pavel Shutsin
+Ruby
+Ruby on Rails
+REST API
+GraphQL
+ClickHouse
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Smriti Garg
+Aboobacker MK
+Pajamas Design System
+GitLab’s open source Design System. Contains brand and product design
+guidelines and UI components for all things GitLab.
+Assignments
+Maintainers
+Figma (7)
+Dan Mizzi-Harris
+Jeremy Elder
+Katie Macoy
+Libor Vanc
+Sascha Eggenberger
+UX (8)
+Austin Regnery
+Dan Mizzi-Harris
+Jeremy Elder
+Pedro Moreira da Silva
+Rayana Verissimo
+Taurie Davis
+frontend (3)
+Paul Gascou-Vaillancourt
+Foundations Buddy
+Scott de Jonge
+Vanessa Otto
+Vue
+maintainer (18)
+Austin Regnery
+Dan Mizzi-Harris
+Jeremy Elder
+Katie Macoy
+Libor Vanc
+Paul Gascou-Vaillancourt
+Foundations Buddy
+Pedro Moreira da Silva
+Rayana Verissimo
+Scott de Jonge
+Sascha Eggenberger
+Taurie Davis
+Vanessa Otto
+Vue
+Reviewers
+frontend (1)
+Artur Fedorov
+reviewer (1)
+Artur Fedorov
+Dev On-Call tool
+This project helps Dev On-Call coordinator to assign empty slots to engineers.
+Assignments
+Maintainers
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+John Mason
+Alan (Maciej) Paruszewski
+Olivier Gonzalez
+Reviewers
+Javiera Tapia
+Go
+Ruby
+Ruby on Rails
+PostgreSQL
+Git
+REST API
+Siddharth Dungarwal
+Ruby on Rails
+Elasticsearch
+Devkit
+A quick and easy way to get up and running with a local environment of Snowplow + Clickhouse + Cube for local Product Analytics development
+Assignments
+Maintainers
+Michał Wielich
+Niko Belokolodov
+Robert Hunt
+discussion-automation
+Discoto (A mix of “DISCussion” and “AUTOmation”) is a discussion-automation
+tool. It automatically creates and propagates discussion summaries and helps
+keep discussions organized.
+Assignments
+Distribution team issue tracker
+Used to track Distribution team work.
+Assignments
+Reviewers
+Dmitry Makovey
+Kubernetes
+Helm
+Makefiles
+Distribution Infrastructure
+Infrastructure as Code repository for systems used to build and test GitLab distributions
+Assignments
+Maintainers
+Dmitry Makovey
+Kubernetes
+Helm
+Makefiles
+Jon Doveston
+GitLab Docs
+The GitLab documentation website
+Assignments
+Maintainers
+Amy Qualls
+Ashraf Khamis
+Achilleas Pipinellis
+Brendan Lynch
+Chad Woolley
+CI/CD
+Coding at Scale
+Git
+Ruby on Rails
+Ruby
+Shell Script
+Emily Sahlani
+Evan Read
+Fiona Neill
+Isaac Durham
+Jon Glassman
+Kati Paizee
+Lauren Barker
+Lorena Ciutacu
+Lysanne Pinto
+Marcel Amirault
+Phillip Wells
+Rasam Hossain
+Robert Landry
+Ryan Lehmann
+Roshni Sarangadharan
+Russell Dickenson
+Safwan Ahmed
+Ruby
+Go
+Sarah Watt
+Suzanne Selhorn
+Uma Chandran
+Zach Painter
+backend (1)
+Vasilii Iakliushin
+frontend (1)
+Jacques Erasmus
+maintainer (2)
+Jacques Erasmus
+Vasilii Iakliushin
+dri
+A CLI that helps report and triage QA pipeline test failures
+Assignments
+duo-ui
+Home of all client-side shared Duo Components and utils.
+All GitLab UI reviewers and maintainers will retain the same roles in DuoUI.
+Assignments
+Maintainers
+frontend (18)
+Andrew Fontaine
+GraphQL
+Frontend Architecture
+Vue
+Denys Mishunov
+Frontend Architecture
+GraphQL
+Frontend Performance
+Snippets
+Web Editor
+Elwyn Benson
+Enrique Alcántara
+TypeScript
+VS Code Extension Development
+Frontend Testing
+Frontend Architecture
+Accessibility
+Florie Guibert
+Frédéric Caplette
+GraphQL
+Frontend Architecture
+TypeScript
+Vue
+Frontend Testing
+Jannik Lehmann
+Jose Ivan Vargas
+Michael Angelo Rivera
+Olena HK.
+Paul Gascou-Vaillancourt
+Foundations Buddy
+Payton Burdette
+Peter Hegman
+Vue
+Frontend Architecture
+Accessibility
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Testing
+HAML
+Members
+Savas Vedova
+Charts at GitLab (echarts and GitLab UI)
+Scott de Jonge
+Thomas Hutterer
+CSS/SCSS
+View Component
+Tomáš Bulva
+Vanessa Otto
+Vue
+maintainer (18)
+Andrew Fontaine
+GraphQL
+Frontend Architecture
+Vue
+Denys Mishunov
+Frontend Architecture
+GraphQL
+Frontend Performance
+Snippets
+Web Editor
+Elwyn Benson
+Enrique Alcántara
+TypeScript
+VS Code Extension Development
+Frontend Testing
+Frontend Architecture
+Accessibility
+Florie Guibert
+Frédéric Caplette
+GraphQL
+Frontend Architecture
+TypeScript
+Vue
+Frontend Testing
+Jannik Lehmann
+Jose Ivan Vargas
+Michael Angelo Rivera
+Olena HK.
+Paul Gascou-Vaillancourt
+Foundations Buddy
+Payton Burdette
+Peter Hegman
+Vue
+Frontend Architecture
+Accessibility
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Testing
+HAML
+Members
+Savas Vedova
+Charts at GitLab (echarts and GitLab UI)
+Scott de Jonge
+Thomas Hutterer
+CSS/SCSS
+View Component
+Tomáš Bulva
+Vanessa Otto
+Vue
+Trainee Maintainers
+frontend (1)
+Justin Ho
+Foundations Buddy
+trainee_maintainer (1)
+Justin Ho
+Foundations Buddy
+Reviewers
+UX (5)
+Becka Lippert
+Ilonah Pelaez
+Jeremy Elder
+Pedro Moreira da Silva
+Taurie Davis
+frontend (16)
+Artur Fedorov
+Brandon Labuschagne
+Dave Pisek
+Deepika Guliani
+Dheeraj Joshi
+Frontend Security
+Ezekiel Kigbo
+Jacques Erasmus
+Jiaan Louw
+Kushal Pandya
+Lindsey Shelton
+Lorenz van Herwaarden
+Martin Wortschack
+Natalia Tepluhina
+Vue
+GraphQL
+Design Management
+Frontend Architecture
+Phil Hughes
+Feature Testing
+Frontend Architecture
+GraphQL
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Performance
+GraphQL
+HAML
+Internationalization
+Vue
+Vuex
+Merge Requests
+Mergeability
+Rahul Chanila
+Scott Hampton
+reviewer (21)
+Artur Fedorov
+Becka Lippert
+Brandon Labuschagne
+Dave Pisek
+Deepika Guliani
+Dheeraj Joshi
+Frontend Security
+Ezekiel Kigbo
+Ilonah Pelaez
+Jacques Erasmus
+Jeremy Elder
+Jiaan Louw
+Kushal Pandya
+Lindsey Shelton
+Lorenz van Herwaarden
+Martin Wortschack
+Natalia Tepluhina
+Vue
+GraphQL
+Design Management
+Frontend Architecture
+Pedro Moreira da Silva
+Phil Hughes
+Feature Testing
+Frontend Architecture
+GraphQL
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Performance
+GraphQL
+HAML
+Internationalization
+Vue
+Vuex
+Merge Requests
+Mergeability
+Rahul Chanila
+Scott Hampton
+Taurie Davis
+Duo Workflow Executor
+Client side component for Duo Workflow functionality which runs the sandboxed workflow commands.
+Assignments
+Maintainers
+Andras Herczeg
+Halil Coban
+Igor Drozdov
+Shekhar Patnaik
+Reviewers
+Jessie Young
+Manage
+OAuth
+Ruby on Rails
+Ruby
+Mikołaj Wawrzyniak
+Surabhi Suman
+Tan Le
+Git
+Makefiles
+Python
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Duo Workflow Service
+Service that manages the state of running workflows for Duo Workflow.
+Assignments
+Engineering productivity infrastructure
+Project containing terraform files for engineering productivity infrastructure (Review Apps, Triage Ops service, etc.).
+Assignments
+Maintainers
+Andrejs Cunskis
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Ievgen Chernikov
+Reviewers
+Pranshu Sharma
+Lohit Peesapati
+Dedicated Environment Automation
+Tools used to automatically create Dedicated instances
+Assignments
+Maintainers
+Senior Site Reliability Engineer
+Andy Knight
+Andrew Newdigate
+Prometheus
+Redis
+Elasticsearch
+Brendan McKitrick
+Casey Clark
+Craig Miskell
+Curt Marker
+Emma Kelly
+Graeme Gillies
+Joseph Burnitz
+John Edge
+Konst Tchernov
+Muhamed Huseinbašić
+Riccardo Trivellato
+Samir Hafez
+Stephan Breitrainer
+Nick Skoretz
+Tania Roblot
+Veronica Mondo
+Reviewers
+Dylan Lau
+Harpratap Singh
+Ryan Pham
+Stephen Hodges
+Fargate
+Runner Custom Executor for AWS Fargate
+Assignments
+Maintainers
+Axel von Bertoldi
+Fleeting
+An abstraction for cloud providers’ instance groups
+Assignments
+Maintainers
+Arran Walker
+Fleeting Plugin AWS
+A go plugin for fleeting on AWS
+Assignments
+Maintainers
+Arran Walker
+Fleeting Plugin Azure
+A go plugin for fleeting on Azure
+Assignments
+Maintainers
+Arran Walker
+Fleeting Plugin Google Compute
+A go plugin for fleeting on GCP
+Assignments
+Maintainers
+Arran Walker
+Fleeting Plugin Static
+A go plugin for fleeting on static instances
+Assignments
+Maintainers
+Arran Walker
+Framework team issue tracker
+Used to track Framework team issues.
+Assignments
+Reviewers
+Alec Xu
+C#
+CI/CD
+Git
+Shell Script
+Git
+Git is a free and open source distributed version control system designed
+to handle everything from small to very large projects with speed and
+efficiency.
+Assignments
+Maintainers
+maintainer (5)
+Christian Couder
+Git
+C
+Shell Script
+Justin Tobler
+Karthik Nayak
+Patrick Steinhardt
+C
+CMake
+Git
+Go
+Makefiles
+Toon Claes
+C
+Geo
+Git
+Makefiles
+PostgreSQL
+Reviewers
+reviewer (5)
+Christian Couder
+Git
+C
+Shell Script
+Justin Tobler
+Karthik Nayak
+Patrick Steinhardt
+C
+CMake
+Git
+Go
+Makefiles
+Toon Claes
+C
+Geo
+Git
+Makefiles
+PostgreSQL
+Gitalisk
+A high-performance Node.js native addon for querying Git repository status and metadata, powered by Rust and libgit2
+Assignments
+Maintainers
+Anna Springfield
+Bohdan Parkhomchuk
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Elwyn Benson
+Erran Carey
+Jean-Gabriel Doyon
+John Slaughter
+Michael Angelo Rivera
+Michael Usachenko
+Gitaly
+Git RPC service for handling all the git calls made by GitLab.
+Assignments
+Maintainers
+Sohan Dhanak
+docs (1)
+Evan Read
+maintainer (8)
+Divya Rani
+Emily Chui
+Evan Read
+James Liu
+John Cai
+Go
+Git
+Mustafa Bayar
+Olivier Campeau
+Sami Hiltunen
+Reviewers
+reviewer (7)
+Divya Rani
+Emily Chui
+James Liu
+John Cai
+Go
+Git
+Mustafa Bayar
+Olivier Campeau
+Sami Hiltunen
+GitHost.io
+Hosted version of GitLab
+Assignments
+GitLab
+This is the canonical development repository for GitLab. Open source code
+from this repository gets mirrored to GitLab-FOSS project.
+This project is the source of the gitlab-ee distributions like
+omnibus-gitlab packages, docker images, AWS AMIs etc.
+GitLab EE requires a license key to be used, without which only the CE
+functionality will be available.
+Assignments
+Maintainers
+advanced_search_framework (21)
+Arturo Herrero
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+John Mason
+Madelein van Niekerk
+Ravi Kumar
+Backend Testing Performance
+Siddharth Dungarwal
+Ruby on Rails
+Elasticsearch
+Terri Chu
+Ruby on Rails
+Kubernetes
+Elasticsearch
+advanced_search_migration (21)
+Arturo Herrero
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+John Mason
+Madelein van Niekerk
+Ravi Kumar
+Backend Testing Performance
+Siddharth Dungarwal
+Ruby on Rails
+Elasticsearch
+Terri Chu
+Ruby on Rails
+Kubernetes
+Elasticsearch
+authentication (20)
+Andrew Evans
+Bogdan Denkovych
+Daniele Bracciani
+Eduardo Sanz-Garcia
+TypeScript
+WebAuthn
+SAML
+Captcha
+Accessibility
+Frontend Architecture
+Fernando Cardenas
+Hakeem Abdul-Razak
+Imre Farkas
+Ruby on Rails
+Manage
+Shilpa Kundapur
+Smriti Garg
+Aboobacker MK
+backend (229)
+Aakriti Gupta
+Ruby on Rails
+Geo
+Abdul Wadood
+Allen Cook
+Senior Backend Engineer
+Amr Taha
+Ahmed Hemdan
+Secure
+CI/CD
+Release
+Alejandro Rodríguez
+Alex Pooley
+Alex Buijs
+Captcha
+Git abuse rate limiting
+Identity Verification
+Pipeline Validation Service
+Ruby on Rails
+User Trust Score
+Aleksei Lipniagov
+Allison Browne
+Ruby on Rails
+Ruby
+PostgreSQL
+CI/CD
+Python
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+Andy Schoenen
+Ruby on Rails
+Ruby
+REST API
+Integrations
+PostgreSQL
+Arpit Gogia
+Ash McKenzie
+Go
+Ruby
+Ruby on Rails
+Agnes Slota
+Andrew Evans
+Aditya Tiwari
+Avielle Wolfe
+Bala Kumar Subramani
+Bogdan Denkovych
+Bojan Marjanović
+Backend Testing Performance
+Integrations
+Ruby
+Ruby on Rails
+REST API
+Bob Van Landuyt
+Ruby on Rails
+LFS
+GraphQL
+Prometheus
+Bohdan Parkhomchuk
+Brian Williams
+CI/CD
+Git
+Go
+Helm
+Kubernetes
+Govern
+Secure
+Shell Script
+Chloé Fons
+Geo
+Ruby
+Ruby on Rails
+Carla Drago
+Chad Woolley
+CI/CD
+Coding at Scale
+Git
+Ruby on Rails
+Ruby
+Shell Script
+Charlie Kroon
+Dakota Dux
+Daniel Prause
+Daniele Bracciani
+Sincheol (David) Kim
+David Fernandez
+Ruby on Rails
+Container Registry
+Package
+Dmytro Biryukov
+CI/CD
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Diane Russel
+Dzmitry Meshcharakou
+Douglas Barbosa Alexandre
+Ruby on Rails
+Geo
+Plan
+Create
+Drew Blessing
+Doug Stull
+Compute Minutes
+Free User Limit
+Gitlab Experiment
+Onboarding Experience
+Product Qualified Leads
+Ruby on Rails
+Trial Registration
+View Component
+Eduardo Bonet
+Eugie Limpin
+Captcha
+Git abuse rate limiting
+Identity Verification
+Pipeline Validation Service
+User Trust Score
+Erick Bajao
+Etienne Baqué
+Eugenia Grieff
+Ruby on Rails
+Plan
+GraphQL
+Fabio Pitino
+Ruby on Rails
+CI/CD
+Fred de Gier
+Felipe Artur
+Ruby on Rails
+Plan
+Portfolio management
+REST API
+GraphQL
+ClickHouse
+Fred Reinink
+Furkan Ayhan
+Ruby on Rails
+CI/CD
+Gabriel Mazetto
+Geo
+GitLab Flavored Markdown
+Ruby
+Ruby on Rails
+View Component
+Gary Holtz
+George Koltsov
+Gregory Havenga
+Ruby
+Ruby on Rails
+Vulnerability Management
+Gavin Hinfey
+Gal Katz
+Grzegorz Bizon
+Ruby on Rails
+CI/CD
+Kubernetes
+Pages
+Hakeem Abdul-Razak
+Halil Coban
+Harsimar Sandhu
+ClickHouse
+Heinrich Lee Yu
+Ruby on Rails
+Plan
+Hinam Mehra
+Captcha
+Git abuse rate limiting
+Identity Verification
+Pipeline Validation Service
+User Trust Score
+Hordur Freyr Yngvason
+Hitesh Raghuvanshi
+Hunter Stewart
+Huzaifa Iftikhar
+Igor Drozdov
+Ian Anderson
+Jaydip pansuriya
+Imre Farkas
+Ruby on Rails
+Manage
+Jerry Seto
+James Fargher
+Jason Goodman
+Javiera Tapia
+Go
+Ruby
+Ruby on Rails
+PostgreSQL
+Git
+REST API
+Jessie Young
+Manage
+OAuth
+Ruby on Rails
+Ruby
+Jean-Gabriel Doyon
+James Nutt
+John Mason
+Patrick Cyiza
+Joe Woodward
+Ruby on Rails
+Ruby
+GraphQL
+Branch Rules
+Kamil Trzciński
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Redis
+Geo
+Runner
+LFS
+Pages
+Container Registry
+Kerri Miller
+Ruby on Rails
+Ruby
+PostgreSQL
+Redis
+Create
+Kinshuk Singh
+Keeyan Nejad
+Ruby on Rails
+Git
+Importers
+RuboCop
+Ruby
+Laura Montemayor
+Lee Tickett
+Leaminn Ma
+Lucas Charles
+Luke Duncalfe
+Ruby on Rails
+Ruby
+LFS
+GraphQL
+REST API
+Design Management
+Wiki
+Integrations
+Importers
+Webhooks
+Lukas Wanko
+Madelein van Niekerk
+Małgorzata Ksionek
+Ruby
+REST API
+Ruby on Rails
+Manoj Memana Jayakumar
+Ruby on Rails
+Manage
+Gregorius Marco
+Marc Shaw
+Mergeability
+Mario Celi
+Mark Chao
+Ruby on Rails
+Elasticsearch
+Matthias Käppler
+Prometheus
+Ruby
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Matt Kasa
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Redis
+Elasticsearch
+Max Woolf
+ClickHouse
+Ruby on Rails
+Ruby
+Manage
+Audit Events
+Mayra Cabrera
+Meir Benayoun
+Marius Bobin
+Ruby on Rails
+CI/CD
+Marcos Rocha
+Ruby on Rails
+Martin Cavoj
+Matt D'Angelo
+Mehmet Emin Inac
+Ruby
+Ruby on Rails
+PostgreSQL
+Elasticsearch
+Secure
+Vulnerability Management
+Max Fan
+Mohamed Hamda
+Michael Angelo Rivera
+Michał Wielich
+Michael Kozono
+Ruby on Rails
+Geo
+Mikołaj Wawrzyniak
+Moaz Khalifa
+Marc Saleiko
+mail_room (email handling)
+Niko Belokolodov
+Nicolas Dular
+Ruby on Rails
+Plan
+GraphQL
+Nikola Milojevic
+Panos Kanellidis
+Patrick Bajao
+Pavel Shutsin
+Ruby
+Ruby on Rails
+REST API
+GraphQL
+ClickHouse
+Pam Artiaga
+Pedro Pombeiro
+Backend Testing Performance
+ClickHouse
+C#
+Go
+GraphQL
+Runner
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Piotr Skorupa
+Rad Batnag
+Rajendra Kadam
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Renee Hendricksen
+Ravi Kumar
+Backend Testing Performance
+Rodrigo Tomonari
+Ross Fuhrman
+Secure
+Rutger Wessels
+Backend Testing Performance
+Roy Zwambag
+Scott Murray
+Geo
+Ruby
+Ruby on Rails
+Safwan Ahmed
+Ruby
+Go
+Sam Word
+Sashi Kumar Kumaresan
+Ruby on Rails
+Kubernetes
+Sean Arnold
+Ruby on Rails
+GraphQL
+Shinya Maeda
+Python
+Ruby on Rails
+CI/CD
+Backend Performance
+Siddharth Dungarwal
+Ruby on Rails
+Elasticsearch
+Shilpa Kundapur
+Smriti Garg
+Sam Joan Roque-Worcel
+Surabhi Suman
+Stan Hu
+Ruby on Rails
+CI/CD
+PostgreSQL
+Redis
+Geo
+LFS
+Subashis Chakraborty
+Suraj Tripathi
+Ruby on Rails
+Aboobacker MK
+Terri Chu
+Ruby on Rails
+Kubernetes
+Elasticsearch
+Tetiana Chupryna
+Ruby on Rails
+Ruby
+Tian Gao
+Thong Kuah
+Backend Testing Performance
+Ruby on Rails
+CI/CD
+Kubernetes
+Tianwen Chen
+Ugo Nnanna Okeadu
+Vasilii Iakliushin
+Vijay Hawoldar
+Ruby on Rails
+Create
+Vitali Tatarintev
+Ruby on Rails
+Monitor
+ci_template (17)
+Avielle Wolfe
+Hordur Freyr Yngvason
+Laura Montemayor
+Lucas Charles
+Marcel Amirault
+Olivier Gonzalez
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+clickhouse (8)
+Principal Engineer
+ClickHouse
+Ruby on Rails
+PostgreSQL
+Felipe Artur
+Ruby on Rails
+Plan
+Portfolio management
+REST API
+GraphQL
+ClickHouse
+Narendran Kannan
+Pavel Shutsin
+Ruby
+Ruby on Rails
+REST API
+GraphQL
+ClickHouse
+database (57)
+Abdul Wadood
+Principal Engineer
+ClickHouse
+Ruby on Rails
+PostgreSQL
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+Andy Schoenen
+Ruby on Rails
+Ruby
+REST API
+Integrations
+PostgreSQL
+Bishwa Hang Rai
+Bojan Marjanović
+Backend Testing Performance
+Integrations
+Ruby
+Ruby on Rails
+REST API
+Brian Williams
+CI/CD
+Git
+Go
+Helm
+Kubernetes
+Govern
+Secure
+Shell Script
+Fabien Catteau
+Gregory Havenga
+Ruby
+Ruby on Rails
+Vulnerability Management
+Irina Bronipolsky
+Jon Jenkins
+Keeyan Nejad
+Ruby on Rails
+Git
+Importers
+RuboCop
+Ruby
+Krasimir Angelov
+Ruby on Rails
+PostgreSQL
+Leonardo da Rosa
+Leaminn Ma
+Matt Kasa
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Redis
+Elasticsearch
+Maxime Orefice
+Max Woolf
+ClickHouse
+Ruby on Rails
+Ruby
+Manage
+Audit Events
+Mayra Cabrera
+Marius Bobin
+Ruby on Rails
+CI/CD
+Michał Zając
+Ruby on Rails
+Govern
+Omar Qunsul
+Pavel Shutsin
+Ruby
+Ruby on Rails
+REST API
+GraphQL
+ClickHouse
+Prabakaran Murugesan
+Shubham Kumar
+Sam Joan Roque-Worcel
+Simon Tomlinson
+Suraj Tripathi
+Ruby on Rails
+Terri Chu
+Ruby on Rails
+Kubernetes
+Elasticsearch
+Tianwen Chen
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Tomasz Skorupa
+doc-locale (1)
+Rasam Hossain
+docs (24)
+Amy Qualls
+Ashraf Khamis
+Achilleas Pipinellis
+Brendan Lynch
+Emily Sahlani
+Evan Read
+Fiona Neill
+Isaac Durham
+Jon Glassman
+Kati Paizee
+Lorena Ciutacu
+Lysanne Pinto
+Marcel Amirault
+Phillip Wells
+Robert Landry
+Ryan Lehmann
+Roshni Sarangadharan
+Russell Dickenson
+Sarah Watt
+Suzanne Selhorn
+Uma Chandran
+Zach Painter
+docs-locale (4)
+Lauren Barker
+Marcel Amirault
+frontend (80)
+Anastasia Khomchenko
+Alexander Turinske
+Andrei Zubov
+Andrew Fontaine
+GraphQL
+Frontend Architecture
+Vue
+Ankit Panchal
+Anna Vovchenko
+Alex Pennells
+Artur Fedorov
+Brandon Labuschagne
+Charlie Kroon
+Cindy Halim
+Senior Frontend Engineer
+Dakota Dux
+Dave Pisek
+Deepika Guliani
+Denys Mishunov
+Frontend Architecture
+GraphQL
+Frontend Performance
+Snippets
+Web Editor
+Dheeraj Joshi
+Frontend Security
+Daniele Rossetti
+Doug Stull
+Compute Minutes
+Free User Limit
+Gitlab Experiment
+Onboarding Experience
+Product Qualified Leads
+Ruby on Rails
+Trial Registration
+View Component
+Eduardo Sanz-Garcia
+TypeScript
+WebAuthn
+SAML
+Captcha
+Accessibility
+Frontend Architecture
+Elwyn Benson
+Enrique Alcántara
+TypeScript
+VS Code Extension Development
+Frontend Testing
+Frontend Architecture
+Accessibility
+Ezekiel Kigbo
+Fernando Cardenas
+Florie Guibert
+Frédéric Caplette
+GraphQL
+Frontend Architecture
+TypeScript
+Vue
+Frontend Testing
+Illya Klymov
+Frontend Testing
+Vue
+GraphQL
+Jack Chapman
+Janis Altherr
+Jannik Lehmann
+Jacques Erasmus
+Jiaan Louw
+Jose Ivan Vargas
+Julie Huang
+Justin Ho
+Foundations Buddy
+Kos Palchyk
+Kushal Pandya
+Lorenz van Herwaarden
+Mark Florian
+Frontend Architecture
+Frontend Testing
+Vue
+Vuex
+Internationalization
+CSS/SCSS
+Frontend Security
+Foundations Buddy
+Martin Wortschack
+Michael Lunøe
+Frontend Architecture
+GraphQL
+Frontend Performance
+Frontend Engineering workflow tooling like yarn scripts, git hooks, linters, prettier, etc
+Frontend Testing
+Git
+Webpack
+Vue
+Vuex
+GraphQL
+Michael Angelo Rivera
+Miranda Fluharty
+Mireya Andres
+Miguel Rincon
+Chaoyue Zhao
+Natalia Tepluhina
+Vue
+GraphQL
+Design Management
+Frontend Architecture
+Oiza Baiye
+Olena HK.
+Paul Gascou-Vaillancourt
+Foundations Buddy
+Payton Burdette
+Peter Hegman
+Vue
+Frontend Architecture
+Accessibility
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Testing
+HAML
+Members
+Phil Hughes
+Feature Testing
+Frontend Architecture
+GraphQL
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Performance
+GraphQL
+HAML
+Internationalization
+Vue
+Vuex
+Merge Requests
+Mergeability
+Paulina Sedlak-Jakubowska
+Accessibility
+CSS/SCSS
+Rajan Mistry
+Rahul Chanila
+Rudy Crespo
+Renee Hendricksen
+Robert Hunt
+Savas Vedova
+Charts at GitLab (echarts and GitLab UI)
+Scott Hampton
+Scott de Jonge
+Sheldon Led
+Stanislav Lashmanov
+Vue
+Vuex
+CSS/SCSS
+Frontend Performance
+Shane Maglangit
+Thomas Randolph
+Thomas Hutterer
+CSS/SCSS
+View Component
+Tomáš Bulva
+Tristan Read
+Vanessa Otto
+Vue
+Vitaly Slobodin
+Frontend Testing
+Foundations Buddy
+Frontend Architecture
+Vedant Jain
+Zack Cuddy
+maintainer (570)
+Aakriti Gupta
+Ruby on Rails
+Geo
+Abdul Wadood
+Allen Cook
+Andrejs Cunskis
+Principal Engineer
+ClickHouse
+Ruby on Rails
+PostgreSQL
+Senior Backend Engineer
+Amr Taha
+Ahmed Hemdan
+Secure
+CI/CD
+Release
+Anastasia Khomchenko
+Alejandro Rodríguez
+Alex Pooley
+Alexander Turinske
+Alex Buijs
+Captcha
+Git abuse rate limiting
+Identity Verification
+Pipeline Validation Service
+Ruby on Rails
+User Trust Score
+Aleksei Lipniagov
+Allison Browne
+Ruby on Rails
+Ruby
+PostgreSQL
+CI/CD
+Python
+Peter Arts
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+Amy Qualls
+Andrei Zubov
+Andrew Fontaine
+GraphQL
+Frontend Architecture
+Vue
+Andy Schoenen
+Ruby on Rails
+Ruby
+REST API
+Integrations
+PostgreSQL
+Ankit Panchal
+Anna Vovchenko
+Alex Pennells
+Artur Fedorov
+Arpit Gogia
+Arturo Herrero
+Ash McKenzie
+Go
+Ruby
+Ruby on Rails
+Ashraf Khamis
+Agnes Slota
+Andrew Evans
+Aditya Tiwari
+Avielle Wolfe
+Achilleas Pipinellis
+Bala Kumar Subramani
+Bogdan Denkovych
+Bishwa Hang Rai
+Bojan Marjanović
+Backend Testing Performance
+Integrations
+Ruby
+Ruby on Rails
+REST API
+Bob Van Landuyt
+Ruby on Rails
+LFS
+GraphQL
+Prometheus
+Bohdan Parkhomchuk
+Brandon Labuschagne
+Brendan Lynch
+Brian Williams
+CI/CD
+Git
+Go
+Helm
+Kubernetes
+Govern
+Secure
+Shell Script
+Chloé Fons
+Geo
+Ruby
+Ruby on Rails
+Carla Drago
+Chris Bonk
+Chad Woolley
+CI/CD
+Coding at Scale
+Git
+Ruby on Rails
+Ruby
+Shell Script
+Charlie Kroon
+Cindy Halim
+Senior Frontend Engineer
+Costel Maxim
+Doug Barrett
+Dakota Dux
+Daniel Prause
+Daniele Bracciani
+Daniel Hauenstein
+Dave Pisek
+Sincheol (David) Kim
+David Fernandez
+Ruby on Rails
+Container Registry
+Package
+Dmytro Biryukov
+CI/CD
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Deepika Guliani
+Denys Mishunov
+Frontend Architecture
+GraphQL
+Frontend Performance
+Snippets
+Web Editor
+Désirée Chevalier
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Dheeraj Joshi
+Frontend Security
+Diane Russel
+Dzmitry Meshcharakou
+Douglas Barbosa Alexandre
+Ruby on Rails
+Geo
+Plan
+Create
+Drew Blessing
+Daniele Rossetti
+Doug Stull
+Compute Minutes
+Free User Limit
+Gitlab Experiment
+Onboarding Experience
+Product Qualified Leads
+Ruby on Rails
+Trial Registration
+View Component
+Eduardo Bonet
+Eduardo Sanz-Garcia
+TypeScript
+WebAuthn
+SAML
+Captcha
+Accessibility
+Frontend Architecture
+Eugie Limpin
+Captcha
+Git abuse rate limiting
+Identity Verification
+Pipeline Validation Service
+User Trust Score
+Elwyn Benson
+Emily Sahlani
+Enrique Alcántara
+TypeScript
+VS Code Extension Development
+Frontend Testing
+Frontend Architecture
+Accessibility
+Evan Read
+Erick Bajao
+Etienne Baqué
+Eugenia Grieff
+Ruby on Rails
+Plan
+GraphQL
+Ezekiel Kigbo
+Fabien Catteau
+Fabio Pitino
+Ruby on Rails
+CI/CD
+Fernando Cardenas
+Fred de Gier
+Felipe Artur
+Ruby on Rails
+Plan
+Portfolio management
+REST API
+GraphQL
+ClickHouse
+Florie Guibert
+Fiona Neill
+Frédéric Caplette
+GraphQL
+Frontend Architecture
+TypeScript
+Vue
+Frontend Testing
+Fred Reinink
+Furkan Ayhan
+Ruby on Rails
+CI/CD
+Félix Veillette-Potvin
+Gabriel Mazetto
+Geo
+GitLab Flavored Markdown
+Ruby
+Ruby on Rails
+View Component
+Gary Holtz
+George Koltsov
+Gregory Havenga
+Ruby
+Ruby on Rails
+Vulnerability Management
+Gavin Hinfey
+Manuel Schönlaub
+Gal Katz
+Grzegorz Bizon
+Ruby on Rails
+CI/CD
+Kubernetes
+Pages
+Hakeem Abdul-Razak
+Halil Coban
+Harsimar Sandhu
+ClickHouse
+Heinrich Lee Yu
+Ruby on Rails
+Plan
+Hinam Mehra
+Captcha
+Git abuse rate limiting
+Identity Verification
+Pipeline Validation Service
+User Trust Score
+Hordur Freyr Yngvason
+Hitesh Raghuvanshi
+Hunter Stewart
+Huzaifa Iftikhar
+Igor Drozdov
+Isaac Durham
+Illya Klymov
+Frontend Testing
+Vue
+GraphQL
+Ian Anderson
+Jaydip pansuriya
+Imre Farkas
+Ruby on Rails
+Manage
+Irina Bronipolsky
+Jerry Seto
+Jack Chapman
+James Fargher
+Janis Altherr
+Jannik Lehmann
+Jason Goodman
+Javiera Tapia
+Go
+Ruby
+Ruby on Rails
+PostgreSQL
+Git
+REST API
+Jay McCure
+Jacques Erasmus
+Jessie Young
+Manage
+OAuth
+Ruby on Rails
+Ruby
+Jean-Gabriel Doyon
+Jon Glassman
+Jiaan Louw
+James Nutt
+John Mason
+John McDonnell
+Jon Jenkins
+Jose Ivan Vargas
+Patrick Cyiza
+Julie Huang
+Justin Ho
+Foundations Buddy
+Joe Woodward
+Ruby on Rails
+Ruby
+GraphQL
+Branch Rules
+Kamil Trzciński
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Redis
+Geo
+Runner
+LFS
+Pages
+Container Registry
+Katherine Wu
+Kerri Miller
+Ruby on Rails
+Ruby
+PostgreSQL
+Redis
+Create
+Kinshuk Singh
+Kev Kloss
+Keeyan Nejad
+Ruby on Rails
+Git
+Importers
+RuboCop
+Ruby
+Kati Paizee
+Kos Palchyk
+Krasimir Angelov
+Ruby on Rails
+PostgreSQL
+Kushal Pandya
+Leonardo da Rosa
+Laura Montemayor
+Lauren Barker
+Lorena Ciutacu
+Lee Tickett
+Leaminn Ma
+Lorenz van Herwaarden
+Lucas Charles
+Luke Duncalfe
+Ruby on Rails
+Ruby
+LFS
+GraphQL
+REST API
+Design Management
+Wiki
+Integrations
+Importers
+Webhooks
+Lukas Wanko
+Lysanne Pinto
+Matias Alvarez
+Madelein van Niekerk
+Małgorzata Ksionek
+Ruby
+REST API
+Ruby on Rails
+Manoj Memana Jayakumar
+Ruby on Rails
+Manage
+Marcel Amirault
+Gregorius Marco
+Marc Shaw
+Mergeability
+Mario Celi
+Mark Chao
+Ruby on Rails
+Elasticsearch
+Mark Florian
+Frontend Architecture
+Frontend Testing
+Vue
+Vuex
+Internationalization
+CSS/SCSS
+Frontend Security
+Foundations Buddy
+Mark Lapierre
+Martin Wortschack
+Matthias Käppler
+Prometheus
+Ruby
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Matt Kasa
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Redis
+Elasticsearch
+Maxime Orefice
+Max Woolf
+ClickHouse
+Ruby on Rails
+Ruby
+Manage
+Audit Events
+Mayra Cabrera
+Meir Benayoun
+Marius Bobin
+Ruby on Rails
+CI/CD
+Marcos Rocha
+Ruby on Rails
+Martin Cavoj
+Matt D'Angelo
+Mehmet Emin Inac
+Ruby
+Ruby on Rails
+PostgreSQL
+Elasticsearch
+Secure
+Vulnerability Management
+Max Fan
+Mohamed Hamda
+Michael Lunøe
+Frontend Architecture
+GraphQL
+Frontend Performance
+Frontend Engineering workflow tooling like yarn scripts, git hooks, linters, prettier, etc
+Frontend Testing
+Git
+Webpack
+Vue
+Vuex
+GraphQL
+Michael Angelo Rivera
+Michał Zając
+Ruby on Rails
+Govern
+Michał Wielich
+Michael Kozono
+Ruby on Rails
+Geo
+Mikołaj Wawrzyniak
+Miranda Fluharty
+Mireya Andres
+Moaz Khalifa
+Miguel Rincon
+Chaoyue Zhao
+Marc Saleiko
+mail_room (email handling)
+Nao Hashizume
+Narendran Kannan
+Niko Belokolodov
+Nicolas Dular
+Ruby on Rails
+Plan
+GraphQL
+Nikola Milojevic
+Natalia Tepluhina
+Vue
+GraphQL
+Design Management
+Frontend Architecture
+Oiza Baiye
+Olena HK.
+Olivier Gonzalez
+Omar Qunsul
+Panos Kanellidis
+Patrick Bajao
+Paul Gascou-Vaillancourt
+Foundations Buddy
+Pavel Shutsin
+Ruby
+Ruby on Rails
+REST API
+GraphQL
+ClickHouse
+Payton Burdette
+Pam Artiaga
+Pedro Pombeiro
+Backend Testing Performance
+ClickHouse
+C#
+Go
+GraphQL
+Runner
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Peter Hegman
+Vue
+Frontend Architecture
+Accessibility
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Testing
+HAML
+Members
+Phil Hughes
+Feature Testing
+Frontend Architecture
+GraphQL
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Performance
+GraphQL
+HAML
+Internationalization
+Vue
+Vuex
+Merge Requests
+Mergeability
+Phillip Wells
+Piotr Skorupa
+Prabakaran Murugesan
+Paulina Sedlak-Jakubowska
+Accessibility
+CSS/SCSS
+Rad Batnag
+Rajendra Kadam
+Rajan Mistry
+Rasam Hossain
+Rahul Chanila
+Senior Security Engineer
+Rudy Crespo
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Renee Hendricksen
+Robert Landry
+Ravi Kumar
+Backend Testing Performance
+Ryan Lehmann
+Robert Hunt
+Rodrigo Tomonari
+Ross Fuhrman
+Secure
+Roshni Sarangadharan
+Rohit Shambhuni
+Russell Dickenson
+Rutger Wessels
+Backend Testing Performance
+Roy Zwambag
+Scott Murray
+Geo
+Ruby
+Ruby on Rails
+Safwan Ahmed
+Ruby
+Go
+Sam Word
+Sarah Watt
+Sashi Kumar Kumaresan
+Ruby on Rails
+Kubernetes
+Savas Vedova
+Charts at GitLab (echarts and GitLab UI)
+Scott Hampton
+Scott de Jonge
+Sean Arnold
+Ruby on Rails
+GraphQL
+Sheldon Led
+Shinya Maeda
+Python
+Ruby on Rails
+CI/CD
+Backend Performance
+Shubham Kumar
+Siddharth Dungarwal
+Ruby on Rails
+Elasticsearch
+Shilpa Kundapur
+Stanislav Lashmanov
+Vue
+Vuex
+CSS/SCSS
+Frontend Performance
+Shane Maglangit
+Smriti Garg
+Sofia Vistas
+Sam Joan Roque-Worcel
+Surabhi Suman
+Stan Hu
+Ruby on Rails
+CI/CD
+PostgreSQL
+Redis
+Geo
+LFS
+Simon Tomlinson
+Subashis Chakraborty
+Suraj Tripathi
+Ruby on Rails
+Suzanne Selhorn
+Aboobacker MK
+Terri Chu
+Ruby on Rails
+Kubernetes
+Elasticsearch
+Tetiana Chupryna
+Ruby on Rails
+Ruby
+Tian Gao
+Thomas Randolph
+Thong Kuah
+Backend Testing Performance
+Ruby on Rails
+CI/CD
+Kubernetes
+Thomas Hutterer
+CSS/SCSS
+View Component
+Tianwen Chen
+Tiffany Rea
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Tomáš Bulva
+Tristan Read
+Tomasz Skorupa
+Uma Chandran
+Ugo Nnanna Okeadu
+Vanessa Otto
+Vue
+Vasilii Iakliushin
+Vijay Hawoldar
+Ruby on Rails
+Create
+Vitali Tatarintev
+Ruby on Rails
+Monitor
+Vitaly Slobodin
+Frontend Testing
+Foundations Buddy
+Frontend Architecture
+Vedant Jain
+Will Meek
+Zach Painter
+Zack Cuddy
+pipeline (14)
+Andrejs Cunskis
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Kev Kloss
+Nao Hashizume
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+qa (9)
+Andrejs Cunskis
+Désirée Chevalier
+Jay McCure
+John McDonnell
+Mark Lapierre
+Sofia Vistas
+Tiffany Rea
+Will Meek
+security (8)
+Peter Arts
+Chris Bonk
+Costel Maxim
+Daniel Hauenstein
+Félix Veillette-Potvin
+Katherine Wu
+Senior Security Engineer
+Rohit Shambhuni
+tooling (15)
+Doug Barrett
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Manuel Schönlaub
+Kev Kloss
+Matias Alvarez
+Nao Hashizume
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+verify (32)
+Allison Browne
+Ruby on Rails
+Ruby
+PostgreSQL
+CI/CD
+Python
+Avielle Wolfe
+Daniel Prause
+Fabio Pitino
+Ruby on Rails
+CI/CD
+Furkan Ayhan
+Ruby on Rails
+CI/CD
+Grzegorz Bizon
+Ruby on Rails
+CI/CD
+Kubernetes
+Pages
+Hordur Freyr Yngvason
+Laura Montemayor
+Leaminn Ma
+Marius Bobin
+Ruby on Rails
+CI/CD
+Max Fan
+Rajendra Kadam
+Tianwen Chen
+workhorse (10)
+Fred Reinink
+Halil Coban
+Igor Drozdov
+Patrick Bajao
+Vasilii Iakliushin
+Trainee Maintainers
+backend (36)
+Alberto Bignotti
+Ayush Billore
+Andrew Jung
+Dominic Bauer
+Buck O'Leary
+Chance Feick
+Doug Barrett
+Elliot Forbes
+Emma Park
+Oscar Tovar
+Hercules Lemke Merscher
+Harrison Peters
+Jay Swain
+Jayakrishnan Mallissery
+Katherine Richards
+Kasia Misirli
+Kiesha Herman
+Asherah Connor
+C
+GitLab Flavored Markdown
+Ruby
+Matias Alvarez
+Michael Usachenko
+Natanael Silva
+Olaoluwa Oluro
+Omar Qunsul
+Reuben Pereira
+Ruby on Rails
+Monitor
+Prometheus
+Roman Eisner
+Serena Fang
+Schmil Monderer
+Shola Quadri
+Shabini Rajadas
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Tan Le
+Git
+Makefiles
+Python
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Vlad Wolanyk
+Wanderson Policarpo
+database (14)
+Allison Browne
+Ruby on Rails
+Ruby
+PostgreSQL
+CI/CD
+Python
+Dominic Bauer
+Bogdan Denkovych
+Sincheol (David) Kim
+Dmytro Biryukov
+CI/CD
+Hitesh Raghuvanshi
+Jerry Seto
+James Nutt
+Mario Celi
+Siddharth Dungarwal
+Ruby on Rails
+Elasticsearch
+Rushik Subba
+Tetiana Chupryna
+Ruby on Rails
+Ruby
+Backend Engineer
+frontend (8)
+Ammar Alakkad
+Angus Ryer
+David Hamp-Gonsalves
+Eduardo Bonet
+Konstantin "Konsti" Greif
+Kiesha Herman
+Lindsey Shelton
+qa (1)
+Joy Roodnick
+trainee_maintainer (70)
+Alberto Bignotti
+Ayush Billore
+Allison Browne
+Ruby on Rails
+Ruby
+PostgreSQL
+CI/CD
+Python
+Ammar Alakkad
+Andras Herczeg
+Andrew Jung
+Angus Ryer
+Dominic Bauer
+Bogdan Denkovych
+Buck O'Leary
+Chance Feick
+Doug Barrett
+Sincheol (David) Kim
+David Hamp-Gonsalves
+Dmytro Biryukov
+CI/CD
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Elliot Forbes
+Eduardo Bonet
+Emma Park
+Oscar Tovar
+Hercules Lemke Merscher
+Harrison Peters
+Hitesh Raghuvanshi
+Jerry Seto
+James Liu
+Jay Swain
+Jean-Gabriel Doyon
+Jayakrishnan Mallissery
+James Nutt
+Joy Roodnick
+Katherine Richards
+Kasia Misirli
+Konstantin "Konsti" Greif
+Kiesha Herman
+Asherah Connor
+C
+GitLab Flavored Markdown
+Ruby
+Lindsey Shelton
+Matias Alvarez
+Mario Celi
+Michael Angelo Rivera
+Michael Usachenko
+Natanael Silva
+Olaoluwa Oluro
+Omar Qunsul
+Reuben Pereira
+Ruby on Rails
+Monitor
+Prometheus
+Roman Eisner
+Serena Fang
+Siddharth Dungarwal
+Ruby on Rails
+Elasticsearch
+Schmil Monderer
+Shola Quadri
+Shabini Rajadas
+Sam Joan Roque-Worcel
+Rushik Subba
+Tetiana Chupryna
+Ruby on Rails
+Ruby
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Tan Le
+Git
+Makefiles
+Python
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Vlad Wolanyk
+Wanderson Policarpo
+Backend Engineer
+verify (2)
+Sam Joan Roque-Worcel
+workhorse (9)
+Andras Herczeg
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+James Liu
+Jean-Gabriel Doyon
+Michael Angelo Rivera
+Sam Joan Roque-Worcel
+Tan Le
+Git
+Makefiles
+Python
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Reviewers
+UX (37)
+Adam Ferch
+Alex Fracazo
+Alyssa Trinh
+Austin Regnery
+Becka Lippert
+Bonnie Tsang
+Camellia X. Yang
+Chad Lavimoniere
+Dan Mizzi-Harris
+Diego Adams
+Emily Bauman
+Erhan D'Silva
+Gina Doyle
+Ilonah Pelaez
+Jeremy Elder
+Jesse Young
+Jesse Hoek
+Julia Miocene
+Jaclyn Touchstone
+Katie Macoy
+Libor Vanc
+Lina Fowler
+Marissa Henri
+Marie Chea
+Michael Fangman
+Michael Le
+Michael Moyers
+Nick Brandt
+Nick Leonard
+Paul
+Pedro Moreira da Silva
+Sayo Bittencourt
+Sascha Eggenberger
+Sunjung Park
+Timothy Noah
+Veethika M
+Maggie Yue
+advanced_search_migration (2)
+Ugo Nnanna Okeadu
+analytics_instrumentation (8)
+Ankit Panchal
+Homer Silva
+Michał Wielich
+Niko Belokolodov
+Nwanna Isong
+authentication (2)
+Aleksei Lipniagov
+Matthias Käppler
+Prometheus
+Ruby
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+backend (123)
+Abhay V Ashokan
+Ruby
+Ruby on Rails
+PostgreSQL
+Vue
+Alberto Bignotti
+Principal Engineer
+ClickHouse
+Ruby on Rails
+PostgreSQL
+Ahmad Hussein
+Aishwarya Subramanian
+Aman Luthra
+Andrew Jung
+Ashvin Sharma
+Dominic Bauer
+Buck O'Leary
+Carla Drago
+Cindy Halim
+Corinna Gogolok
+Doug Barrett
+Daniyal Arshad
+David Hamp-Gonsalves
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Dillon Wheeler
+Divya Mahadevan
+Elliot Forbes
+Emma Park
+Eva Kadlecová
+Florian Jedelhauser
+Fi McCawley
+Manuel Schönlaub
+Oscar Tovar
+Harsh Sagar
+Hannah Baker
+Harrison Peters
+Homer Silva
+Ian Baum
+Kubernetes
+PostgreSQL
+Md Imam Hossain
+Ruby on Rails
+Janis Altherr
+Jay McCure
+Jean van der Walt
+Ruby on Rails
+Jorge Cook
+Jayakrishnan Mallissery
+Jay Montal
+Jon Jenkins
+Josianne Hyson
+Ruby on Rails
+Jorge Tomás
+Katherine Richards
+Kasia Misirli
+Kaveh Nejad
+Konstantin "Konsti" Greif
+Krasimir Angelov
+Ruby on Rails
+PostgreSQL
+Matias Alvarez
+Maxime Orefice
+Michał Zając
+Ruby on Rails
+Govern
+Minahil Nichols
+Missy Davies
+Matthew MacRae-Bovell
+Madhusudan Vaishnao
+Ruby on Rails
+CI/CD
+Narendran Kannan
+Nathan Weinshenker
+Pranav Jain
+Naman Jagdish Gala
+Pages
+Go
+Nwanna Isong
+Nnamdi Ogundu
+Olaoluwa Oluro
+Olivier Gonzalez
+Paul Gascou-Vaillancourt
+Foundations Buddy
+Prathyusha Kanala
+Prabakaran Murugesan
+Qingyu Zhao
+Raimund Hook
+Reza Marandi
+Roy Liu
+Ryan Cobb
+Sam Figueroa
+Sandra To
+Shreyas Agarwal
+Shubham Kumar
+Shane Maglangit
+Shola Quadri
+Shabini Rajadas
+Rushik Subba
+Stefanos Xanthopoulos
+Serhii Yarynovskyi
+Sylvia Shen
+Tarun Raja
+Thomas Hutterer
+CSS/SCSS
+View Component
+Tim Beauchamp
+Tim McCarthy
+Tomasz Skorupa
+Tarun Vellishetty
+Tyler Amos
+Ruby on Rails
+Valerie Burton
+Victor Prêté
+Geo
+Ruby
+Ruby on Rails
+Vladlena Shumilo
+Zamir Martins Filho
+Govern
+Helm
+Kubernetes
+ci_template (3)
+Mher Tolpin
+Sean Arnold
+Ruby on Rails
+GraphQL
+Timo Furrer
+Go
+Kubernetes
+cli (2)
+Igor Drozdov
+clickhouse (2)
+Amr Taha
+database (60)
+Amr Taha
+Alex Pooley
+Agnes Slota
+Bala Kumar Subramani
+Dominic Bauer
+Carla Drago
+Daniyal Arshad
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Doug Stull
+Compute Minutes
+Free User Limit
+Gitlab Experiment
+Onboarding Experience
+Product Qualified Leads
+Ruby on Rails
+Trial Registration
+View Component
+Eugie Limpin
+Captcha
+Git abuse rate limiting
+Identity Verification
+Pipeline Validation Service
+User Trust Score
+Emma Park
+Eugenia Grieff
+Ruby on Rails
+Plan
+GraphQL
+Furkan Ayhan
+Ruby on Rails
+CI/CD
+Hinam Mehra
+Captcha
+Git abuse rate limiting
+Identity Verification
+Pipeline Validation Service
+User Trust Score
+Huzaifa Iftikhar
+Igor Drozdov
+Imanpal Singh
+Imre Farkas
+Ruby on Rails
+Manage
+Javiera Tapia
+Go
+Ruby
+Ruby on Rails
+PostgreSQL
+Git
+REST API
+Jean van der Walt
+Ruby on Rails
+João Pereira
+Container Registry
+John Mason
+Katherine Richards
+Madelein van Niekerk
+Matt D'Angelo
+Mehmet Emin Inac
+Ruby
+Ruby on Rails
+PostgreSQL
+Elasticsearch
+Secure
+Vulnerability Management
+Mohamed Hamda
+Madhusudan Vaishnao
+Ruby on Rails
+CI/CD
+Narendran Kannan
+Niko Belokolodov
+Nikola Milojevic
+Panos Kanellidis
+Reza Marandi
+Shane Maglangit
+Smriti Garg
+Stefanos Xanthopoulos
+Subashis Chakraborty
+Sylvia Shen
+Aboobacker MK
+Ugo Nnanna Okeadu
+Vitali Tatarintev
+Ruby on Rails
+Monitor
+frontend (46)
+Abhay V Ashokan
+Ruby
+Ruby on Rails
+PostgreSQL
+Vue
+Ahmad Hussein
+Allison Villa
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+Buck O'Leary
+Chen Charnolevsky
+Daniel Tian
+David Hamp-Gonsalves
+Divya Mahadevan
+Diana Zubova
+Frontend Testing
+Vue
+CSS/SCSS
+Subscriptions Management (Zuora integration)
+Fred de Gier
+Grace Lin
+Vue
+Jay Montal
+Joanna Niemczyk
+Joseph Fletcher
+Konstantin "Konsti" Greif
+Asherah Connor
+C
+GitLab Flavored Markdown
+Ruby
+Kev Kloss
+Lee Tickett
+Lindsey Shelton
+Lukas Wanko
+Martin Cavoj
+Minahil Nichols
+Priscilla Luong
+Roy Liu
+Sandra To
+Sahil Sharma
+Sharmad Nachnolkar
+Serhii Yarynovskyi
+Tan Le
+Git
+Makefiles
+Python
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Tomas Vik
+TypeScript
+VS Code Extension Development
+Valerie Burton
+Vamsi Vempati
+go (18)
+Ashvin Sharma
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Fabien Catteau
+Manuel Schönlaub
+Oscar Tovar
+Hayley Swimelar
+Container Registry
+James Fargher
+João Pereira
+Container Registry
+Staff Backend Engineer
+Go
+Kubernetes
+Natanael Silva
+Safwan Ahmed
+Ruby
+Go
+pipeline (2)
+Doug Barrett
+qa (8)
+Andy Hohenner
+Brittany Wilkerson
+Harsha Muralidhar
+Nivetha Prabakaran
+Richard Chong
+Tim Beauchamp
+Vishal Patel
+reviewer (319)
+Abhay V Ashokan
+Ruby
+Ruby on Rails
+PostgreSQL
+Vue
+Alberto Bignotti
+Principal Engineer
+ClickHouse
+Ruby on Rails
+PostgreSQL
+Amr Taha
+Adam Ferch
+Ahmad Hussein
+Aishwarya Subramanian
+Alex Fracazo
+Alex Pooley
+Aleksei Lipniagov
+Allison Villa
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+Aman Luthra
+Alyssa Trinh
+Andrew Jung
+Andy Hohenner
+Ankit Panchal
+Ashvin Sharma
+Agnes Slota
+Austin Regnery
+Bala Kumar Subramani
+Dominic Bauer
+Becka Lippert
+Bonnie Tsang
+Buck O'Leary
+Brittany Wilkerson
+Camellia X. Yang
+Carla Drago
+Chen Charnolevsky
+Cindy Halim
+Chad Lavimoniere
+Corinna Gogolok
+Doug Barrett
+Daniel Tian
+Daniyal Arshad
+Dan Mizzi-Harris
+David Hamp-Gonsalves
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Diego Adams
+Dillon Wheeler
+Divya Mahadevan
+Doug Stull
+Compute Minutes
+Free User Limit
+Gitlab Experiment
+Onboarding Experience
+Product Qualified Leads
+Ruby on Rails
+Trial Registration
+View Component
+Diana Zubova
+Frontend Testing
+Vue
+CSS/SCSS
+Subscriptions Management (Zuora integration)
+Elliot Forbes
+Eugie Limpin
+Captcha
+Git abuse rate limiting
+Identity Verification
+Pipeline Validation Service
+User Trust Score
+Emily Bauman
+Emma Park
+Erhan D'Silva
+Eugenia Grieff
+Ruby on Rails
+Plan
+GraphQL
+Eva Kadlecová
+Fabien Catteau
+Fred de Gier
+Florian Jedelhauser
+Fi McCawley
+Furkan Ayhan
+Ruby on Rails
+CI/CD
+Gina Doyle
+Gavin Hinfey
+Manuel Schönlaub
+Grace Lin
+Vue
+Oscar Tovar
+Harsh Sagar
+Hayley Swimelar
+Container Registry
+Hannah Baker
+Hinam Mehra
+Captcha
+Git abuse rate limiting
+Identity Verification
+Pipeline Validation Service
+User Trust Score
+Harsha Muralidhar
+Harrison Peters
+Homer Silva
+Huzaifa Iftikhar
+Ian Baum
+Kubernetes
+PostgreSQL
+Igor Drozdov
+Md Imam Hossain
+Ruby on Rails
+Imanpal Singh
+Imre Farkas
+Ruby on Rails
+Manage
+Ilonah Pelaez
+James Fargher
+Janis Altherr
+Javiera Tapia
+Go
+Ruby
+Ruby on Rails
+PostgreSQL
+Git
+REST API
+Jay McCure
+Jean van der Walt
+Ruby on Rails
+Jorge Cook
+Jeremy Elder
+Jesse Young
+Jesse Hoek
+Jayakrishnan Mallissery
+Julia Miocene
+Jay Montal
+Joanna Niemczyk
+João Pereira
+Container Registry
+Joseph Fletcher
+John Mason
+Jon Jenkins
+Josianne Hyson
+Ruby on Rails
+Jorge Tomás
+Jaclyn Touchstone
+Katherine Richards
+Kasia Misirli
+Katie Macoy
+Kaveh Nejad
+Kerri Miller
+Ruby on Rails
+Ruby
+PostgreSQL
+Redis
+Create
+Konstantin "Konsti" Greif
+Asherah Connor
+C
+GitLab Flavored Markdown
+Ruby
+Kev Kloss
+Krasimir Angelov
+Ruby on Rails
+PostgreSQL
+Lee Tickett
+Libor Vanc
+Lina Fowler
+Lindsey Shelton
+Lukas Wanko
+Matias Alvarez
+Madelein van Niekerk
+Marissa Henri
+Matthias Käppler
+Prometheus
+Ruby
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Maxime Orefice
+Martin Cavoj
+Marie Chea
+Matt D'Angelo
+Mehmet Emin Inac
+Ruby
+Ruby on Rails
+PostgreSQL
+Elasticsearch
+Secure
+Vulnerability Management
+Michael Fangman
+Mohamed Hamda
+Michael Le
+Michael Moyers
+Michał Zając
+Ruby on Rails
+Govern
+Michał Wielich
+Staff Backend Engineer
+Go
+Kubernetes
+Minahil Nichols
+Missy Davies
+Matthew MacRae-Bovell
+Mher Tolpin
+Madhusudan Vaishnao
+Ruby on Rails
+CI/CD
+Narendran Kannan
+Nathan Weinshenker
+Pranav Jain
+Niko Belokolodov
+Naman Jagdish Gala
+Pages
+Go
+Nick Brandt
+Nick Leonard
+Nwanna Isong
+Nikola Milojevic
+Nnamdi Ogundu
+Nivetha Prabakaran
+Natanael Silva
+Olaoluwa Oluro
+Olivier Gonzalez
+Priscilla Luong
+Paul
+Panos Kanellidis
+Paul Gascou-Vaillancourt
+Foundations Buddy
+Pedro Moreira da Silva
+Prathyusha Kanala
+Prabakaran Murugesan
+Qingyu Zhao
+Raimund Hook
+Reza Marandi
+Richard Chong
+Roy Liu
+Ryan Cobb
+Safwan Ahmed
+Ruby
+Go
+Sam Figueroa
+Sandra To
+Sahil Sharma
+Sayo Bittencourt
+Sean Arnold
+Ruby on Rails
+GraphQL
+Sascha Eggenberger
+Shreyas Agarwal
+Shubham Kumar
+Shane Maglangit
+Smriti Garg
+Sharmad Nachnolkar
+Shola Quadri
+Shabini Rajadas
+Rushik Subba
+Stefanos Xanthopoulos
+Subashis Chakraborty
+Sunjung Park
+Serhii Yarynovskyi
+Sylvia Shen
+Aboobacker MK
+Tarun Raja
+Thomas Hutterer
+CSS/SCSS
+View Component
+Tim Beauchamp
+Tim McCarthy
+Timothy Noah
+Timo Furrer
+Go
+Kubernetes
+Tan Le
+Git
+Makefiles
+Python
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Tomas Vik
+TypeScript
+VS Code Extension Development
+Tomasz Skorupa
+Tarun Vellishetty
+Tyler Amos
+Ruby on Rails
+Ugo Nnanna Okeadu
+Valerie Burton
+Victor Prêté
+Geo
+Ruby
+Ruby on Rails
+Vishal Patel
+Vitali Tatarintev
+Ruby on Rails
+Monitor
+Vladlena Shumilo
+Veethika M
+Vamsi Vempati
+Maggie Yue
+Zamir Martins Filho
+Govern
+Helm
+Kubernetes
+verify (2)
+Sahil Sharma
+workhorse (4)
+Gavin Hinfey
+Javiera Tapia
+Go
+Ruby
+Ruby on Rails
+PostgreSQL
+Git
+REST API
+Kerri Miller
+Ruby on Rails
+Ruby
+PostgreSQL
+Redis
+Create
+Gitlab Advanced SAST
+Gitlab Advanced SAST analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Hua Yan
+Meir Benayoun
+Mher Tolpin
+Philip Cunningham
+GitLab Agent for Kubernetes
+GitLab Agent for Kubernetes is an active in-cluster component for solving any GitLab<->Kubernetes integration tasks.
+Assignments
+Maintainers
+Staff Backend Engineer
+Go
+Kubernetes
+Timo Furrer
+Go
+Kubernetes
+Trainee Maintainers
+Taka Nishida
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Helm chart for GitLab Agent for Kubernetes
+GitLab’s official Helm chart for the GitLab Agent for Kubernetes.
+Assignments
+Maintainers
+Staff Backend Engineer
+Go
+Kubernetes
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Timo Furrer
+Go
+Kubernetes
+Trainee Maintainers
+Taka Nishida
+GitLab Agent for Kubernetes CI image
+Container image used in GitLab Agent for Kubernetes CI.
+Assignments
+Maintainers
+Staff Backend Engineer
+Go
+Kubernetes
+Taka Nishida
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Timo Furrer
+Go
+Kubernetes
+GitLab client SDK for Go
+This is a GitLab client SDK for Go.
+It currently mostly supports the REST API.
+It’s used in numerous GitLab projects, like the GitLab CLI
+and the GitLab Terraform provider.
+Assignments
+Maintainers
+Florian Forster
+Patrick Rice
+Timo Furrer
+Go
+Kubernetes
+gitlab-build-images
+A repository for building Docker images for GitLab builds and tests.
+Assignments
+Maintainers
+Andrejs Cunskis
+Balasankar 'Balu' C
+CI/CD
+Git
+Pipelines configuration of
+gitlab-org
+projects
+Shell Script
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Stan Hu
+Ruby on Rails
+CI/CD
+PostgreSQL
+Redis
+Geo
+LFS
+Reviewers
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Ievgen Chernikov
+Pranshu Sharma
+Lohit Peesapati
+Backend Engineer
+GitLab Cloud Native Helm Chart
+GitLab’s official Cloud Native Helm chart.
+Assignments
+Maintainers
+Clemens Beck
+Jason Plum
+Helm
+Kubernetes
+João Alexandre Prado Tavares Cunha
+Ruby on Rails
+CI/CD
+Kubernetes
+doc-locale (1)
+Rasam Hossain
+docs (21)
+Amy Qualls
+Ashraf Khamis
+Achilleas Pipinellis
+Brendan Lynch
+Emily Sahlani
+Evan Read
+Fiona Neill
+Isaac Durham
+Jon Glassman
+Kati Paizee
+Lorena Ciutacu
+Lysanne Pinto
+Marcel Amirault
+Phillip Wells
+Ryan Lehmann
+Roshni Sarangadharan
+Russell Dickenson
+Suzanne Selhorn
+Uma Chandran
+Zach Painter
+docs-locale (3)
+Lauren Barker
+Marcel Amirault
+maintainer (25)
+Amy Qualls
+Ashraf Khamis
+Achilleas Pipinellis
+Brendan Lynch
+Emily Sahlani
+Evan Read
+Fiona Neill
+Isaac Durham
+Jon Glassman
+Kati Paizee
+Lauren Barker
+Lorena Ciutacu
+Lysanne Pinto
+Marcel Amirault
+Phillip Wells
+Rasam Hossain
+Ryan Lehmann
+Roshni Sarangadharan
+Russell Dickenson
+Suzanne Selhorn
+Uma Chandran
+Zach Painter
+Trainee Maintainers
+Balasankar 'Balu' C
+CI/CD
+Git
+Pipelines configuration of
+gitlab-org
+projects
+Shell Script
+Grant Young
+trainee_maintainer (1)
+Stefan Bordei
+Reviewers
+Dmitry Makovey
+Kubernetes
+Helm
+Makefiles
+Grigoris Thanasoulas
+Hossein Pursultani
+CI/CD
+Kubernetes
+John Mason
+John T Skarbek
+Jon Doveston
+Lucas Li
+Go
+Kubernetes
+Nailia Iskhakova
+Robert Marshall
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+kas (2)
+Staff Backend Engineer
+Go
+Kubernetes
+Timo Furrer
+Go
+Kubernetes
+qa (1)
+Vishal Patel
+reviewer (4)
+Staff Backend Engineer
+Go
+Kubernetes
+Stefan Bordei
+Timo Furrer
+Go
+Kubernetes
+Vishal Patel
+gitlab-cli
+GLab is an open source GitLab CLI tool bringing GitLab to your terminal next
+to where you are already working with git and your code without switching
+between windows and browser tabs. Work with issues, merge requests, watch
+running pipelines directly from your CLI among other features.
+Assignments
+Maintainers
+Ahmed Hemdan
+Secure
+CI/CD
+Release
+Filip Aleksic
+Gary Holtz
+Oscar Tovar
+Jay McCure
+Shekhar Patnaik
+Timo Furrer
+Go
+Kubernetes
+Tomas Vik
+TypeScript
+VS Code Extension Development
+docs (3)
+Amy Qualls
+Marcel Amirault
+docs-locale (2)
+Marcel Amirault
+maintainer (5)
+Amy Qualls
+Marcel Amirault
+Reviewers
+Allison Browne
+Ruby on Rails
+Ruby
+PostgreSQL
+CI/CD
+Python
+Andy Knight
+Davis Bickford
+Erran Carey
+Ezekiel Kigbo
+Halil Coban
+Huzaifa Iftikhar
+James Liu
+James Hebden
+Lucas Charles
+Michael Angelo Rivera
+Patrick Bajao
+Vitali Tatarintev
+Ruby on Rails
+Monitor
+Gitlab Cloud Connector
+Centralize Cloud Connector configuration and libraries used by multiple GitLab projects.
+Assignments
+Maintainers
+Aleksei Lipniagov
+Matthias Käppler
+Prometheus
+Ruby
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Nikola Milojevic
+Roy Zwambag
+Reviewers
+Corinna Gogolok
+Erran Carey
+Florian Jedelhauser
+Valerie Burton
+GitLab Code Parser
+A library for extracting information about source code.
+Assignments
+Maintainers
+Anna Springfield
+Bohdan Parkhomchuk
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Elwyn Benson
+Erran Carey
+James Fargher
+Jean-Gabriel Doyon
+John Slaughter
+Michael Angelo Rivera
+Michael Usachenko
+Pam Artiaga
+Tian Gao
+GitLab.com COGS
+This is a group which contains a separate project for each COG used by the GitLab.com infrastructure.
+A COG is an integration between the role of a node (or cluster) and a Chat application such as Slack.  The COG allows
+the infrastructure node (or cluster) to post status and alerts into Chat Channels and also allows for commands
+to be issued in the Chat Channel that control the behavior of the infrastructure node/cluster.
+Assignments
+GitLab.com - infrastructure Terraform files
+Terraform - configuration and provisioning files for virtual machine nodes on production and staging
+Assignments
+Gitlab.com - runbooks
+Describes system components, triage procedures, alert configuration,  Grafana dashboards, metrics catalog, Prometheus recording rules for GitLab.com used by the Infrastructure department.
+Assignments
+Maintainers
+Andrew Newdigate
+Prometheus
+Redis
+Elasticsearch
+Bob Van Landuyt
+Ruby on Rails
+LFS
+GraphQL
+Prometheus
+Igor Wiedler
+John 'Jarv' Jarvis
+GitLab Components
+This is a group containing GitLab-maintained CI/CD component projects (
+https://docs.gitlab.com/ee/ci/components/
+) meant to be shared with the public.
+Each project contains one or more components that can be found in the CI/CD Catalog at
+https://gitlab.com/explore/catalog
+.
+Assignments
+Maintainers
+Ahmed Hemdan
+Secure
+CI/CD
+Release
+Avielle Wolfe
+Fabio Pitino
+Ruby on Rails
+CI/CD
+Furkan Ayhan
+Ruby on Rails
+CI/CD
+Laura Montemayor
+Lee Tickett
+Raimund Hook
+Timo Furrer
+Go
+Kubernetes
+GitLab Compose Kit
+An alternative to GitLab Development Kit (GDK) based on docker-compose
+and that is fully container-based and immutable.
+Assignments
+Maintainers
+Matthias Käppler
+Prometheus
+Ruby
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+GitLab.com - infrastructure node provisioning by role
+This is a group with a project - cookbooks - for each provisioned role in the GitLab.com cluster.
+These cooksbooks are applied after the virtual machine node is provisioned by Terraform project.
+Assignments
+Maintainers
+Alex Hanselka
+Anton Starovoytov
+Adeline Yeung
+Cameron S McFarland
+Senior Site Reliability Engineer
+Devin Sylva
+Donna Alexandra
+Pierre Guinoiseau
+Sarah Walker
+Silvester Wainaina
+Shreya Shah
+Tarun Khandelwal
+GitLab Crystalball
+GitLabs fork of Crystalball gem which is Regression Test Selection tool for RSpec.
+Assignments
+Maintainers
+Andrejs Cunskis
+Pavel Shutsin
+Ruby
+Ruby on Rails
+REST API
+GraphQL
+ClickHouse
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+GitLab Dangerfiles
+The goal of this project is to centralize Danger plugins and rules that are used by multiple GitLab projects.
+Assignments
+Maintainers
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Reviewers
+Doug Barrett
+Ievgen Chernikov
+Pranshu Sharma
+Lohit Peesapati
+Data Utils
+Repo for commonly used utilities within the data org
+Assignments
+Maintainers
+Justin Stark
+GitLab Design
+GitLab Design is used to jumpstart design work through the use of our design library. It is intended to enable frequent, stable, and consistent contributions while making GitLab’s design open and transparent. This project helps facilitate design handoffs and design–development communication.
+Assignments
+Maintainers
+Adam Ferch
+Alex Fracazo
+Bonnie Tsang
+Chad Lavimoniere
+Dan Mizzi-Harris
+Diego Adams
+Erhan D'Silva
+Gina Doyle
+Jesse Hoek
+Jaclyn Touchstone
+Katie Macoy
+Lina Fowler
+Marissa Henri
+Michael Moyers
+Nick Leonard
+Paul
+Pedro Moreira da Silva
+Rayana Verissimo
+Sayo Bittencourt
+Sascha Eggenberger
+Taurie Davis
+Veethika M
+GitLab Detective
+Support tool designed to help diagnose and troubleshoot GitLab installations by running a series of automated checks.
+Assignments
+Maintainers
+Anton Smith
+Jessie Lee
+GitLab Development Kit
+GitLab Development Kit (GDK) provides a collection of scripts and other
+resources to install and manage a GitLab installation for development
+purposes. The source code of GitLab is spread over multiple repositories
+and it requires Ruby, Go, Postgres/MySQL, Redis and more to run.
+GDK helps you install and configure all these different components,
+and start/stop them when you work on GitLab.
+Assignments
+Maintainers
+Doug Barrett
+Manuel Schönlaub
+Kev Kloss
+Matias Alvarez
+Nao Hashizume
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+docs (19)
+Ashraf Khamis
+Achilleas Pipinellis
+Brendan Lynch
+Emily Sahlani
+Evan Read
+Fiona Neill
+Isaac Durham
+Jon Glassman
+Kati Paizee
+Lorena Ciutacu
+Lysanne Pinto
+Marcel Amirault
+Phillip Wells
+Ryan Lehmann
+Roshni Sarangadharan
+Russell Dickenson
+Suzanne Selhorn
+Uma Chandran
+Zach Painter
+maintainer (19)
+Ashraf Khamis
+Achilleas Pipinellis
+Brendan Lynch
+Emily Sahlani
+Evan Read
+Fiona Neill
+Isaac Durham
+Jon Glassman
+Kati Paizee
+Lorena Ciutacu
+Lysanne Pinto
+Marcel Amirault
+Phillip Wells
+Ryan Lehmann
+Roshni Sarangadharan
+Russell Dickenson
+Suzanne Selhorn
+Uma Chandran
+Zach Painter
+Trainee Maintainers
+Gabriel Mazetto
+Geo
+GitLab Flavored Markdown
+Ruby
+Ruby on Rails
+View Component
+Gary Holtz
+Matt Kasa
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Redis
+Elasticsearch
+Reviewers
+Bojan Marjanović
+Backend Testing Performance
+Integrations
+Ruby
+Ruby on Rails
+REST API
+Chad Woolley
+CI/CD
+Coding at Scale
+Git
+Ruby on Rails
+Ruby
+Shell Script
+Javiera Tapia
+Go
+Ruby
+Ruby on Rails
+PostgreSQL
+Git
+REST API
+Krasimir Angelov
+Ruby on Rails
+PostgreSQL
+Lee Tickett
+Omar Qunsul
+Raimund Hook
+Vitaly Slobodin
+Frontend Testing
+Foundations Buddy
+Frontend Architecture
+GitLab for Eclipse
+An editor extension to provide GitLab and Duo functionality inside of the
+Eclipse IDE.
+Assignments
+Maintainers
+Erran Carey
+Jean-Gabriel Doyon
+Karl Jamoralin
+Laura Ionel
+Reviewers
+Bohdan Parkhomchuk
+GitLab Elasticsearch Indexer
+An Elasticsearch indexer for Git repositories. Used by GitLab EE to
+implement Global Code Search.
+Assignments
+Maintainers
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+John Mason
+Madelein van Niekerk
+Ravi Kumar
+Backend Testing Performance
+Siddharth Dungarwal
+Ruby on Rails
+Elasticsearch
+Terri Chu
+Ruby on Rails
+Kubernetes
+Elasticsearch
+Reviewers
+Arturo Herrero
+James Fargher
+Pam Artiaga
+GitLab Environment Toolkit
+The GitLab Environment Toolkit (GET) is a provisioning and configuration toolkit for
+deploying GitLab’s Reference Architectures with Terraform and Ansible.
+Assignments
+Maintainers
+Grant Young
+Nailia Iskhakova
+Nick Westbury
+Reviewers
+Alec Xu
+C#
+CI/CD
+Git
+Shell Script
+Senior Distribution Engineer
+gitlab-eslint-config
+GitLab’s eslint configuration
+Assignments
+Maintainers
+frontend (2)
+Denys Mishunov
+Frontend Architecture
+GraphQL
+Frontend Performance
+Snippets
+Web Editor
+Phil Hughes
+Feature Testing
+Frontend Architecture
+GraphQL
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Performance
+GraphQL
+HAML
+Internationalization
+Vue
+Vuex
+Merge Requests
+Mergeability
+maintainer (2)
+Denys Mishunov
+Frontend Architecture
+GraphQL
+Frontend Performance
+Snippets
+Web Editor
+Phil Hughes
+Feature Testing
+Frontend Architecture
+GraphQL
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Performance
+GraphQL
+HAML
+Internationalization
+Vue
+Vuex
+Merge Requests
+Mergeability
+GitLab Experiment
+Run experiments as A/B/n tests and review the data the experiment generates.
+Assignments
+Maintainers
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+Doug Stull
+Compute Minutes
+Free User Limit
+Gitlab Experiment
+Onboarding Experience
+Product Qualified Leads
+Ruby on Rails
+Trial Registration
+View Component
+Serhii Yarynovskyi
+Reviewers
+Buck O'Leary
+David Hamp-Gonsalves
+Jay Montal
+Konstantin "Konsti" Greif
+Kiesha Herman
+GitLab Exporter
+Prometheus exporter for GitLab application metrics.
+Assignments
+Maintainers
+Ahmad Sherif
+GitLab Figma Plugin
+Figma plugin that enables users to upload designs from Figma to
+GitLab issues.
+Assignments
+GitLab FOSS
+This is a mirror of GitLab codebase with all the proprietary code removed.
+Development happens in the canonical repository at GitLab.
+This repository is updated periodically with changes from there.
+This project is the source of the gitlab-ce distributions like
+omnibus-gitlab packages, docker images, AWS AMIs etc.
+Assignments
+GitLab GLFM Markdown
+Gem using Rust based markdown parser for handling GitLab Flavored Markdown
+Assignments
+Reviewers
+Jack Chapman
+gitlab-gollum-lib
+This gem provides some functionality for GitLab wikis.
+Forked from
+https://github.com/gollum/gollum-lib
+.
+The assignments also cover the dependant gem
+https://gitlab.com/gitlab-org/gitlab-gollum-rugged_adapter
+,
+which is forked from
+https://github.com/gollum/rugged_adapter
+.
+Assignments
+Reviewers
+backend (1)
+Luke Duncalfe
+Ruby on Rails
+Ruby
+LFS
+GraphQL
+REST API
+Design Management
+Wiki
+Integrations
+Importers
+Webhooks
+reviewer (1)
+Luke Duncalfe
+Ruby on Rails
+Ruby
+LFS
+GraphQL
+REST API
+Design Management
+Wiki
+Integrations
+Importers
+Webhooks
+GitLab Ingress NGINX
+Ingress-nginx is an Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer.
+This is a fork of
+https://gitlab.com/gitlab-org/cloud-native/mirror/ingress-nginx
+.
+Assignments
+Maintainers
+Jason Plum
+Helm
+Kubernetes
+Reviewers
+Balasankar 'Balu' C
+CI/CD
+Git
+Pipelines configuration of
+gitlab-org
+projects
+Shell Script
+Clemens Beck
+Dmitry Makovey
+Kubernetes
+Helm
+Makefiles
+Hossein Pursultani
+CI/CD
+Kubernetes
+João Alexandre Prado Tavares Cunha
+Ruby on Rails
+CI/CD
+Kubernetes
+Jon Doveston
+Lucas Li
+Go
+Kubernetes
+Robert Marshall
+qa (1)
+Vishal Patel
+reviewer (1)
+Vishal Patel
+GitLab Duo Plugin for JetBrains
+An editor extension to provide code suggestions in JetBrains IDEs.
+Assignments
+Maintainers
+Anna Springfield
+Bohdan Parkhomchuk
+Dylan Bernardi
+Erran Carey
+Jean-Gabriel Doyon
+John Slaughter
+Karl Jamoralin
+Laura Ionel
+Naman Jagdish Gala
+Pages
+Go
+Reviewers
+Michael Angelo Rivera
+Shekhar Patnaik
+Tomas Vik
+TypeScript
+VS Code Extension Development
+GitLab License
+Internal GitLab License Distribution App
+Assignments
+GitLab Language Server
+The GitLab Language Server provides a common interface for other IDE extensions
+to build out GitLab functionality.
+Assignments
+Maintainers
+Andrei Zubov
+Andrew Fontaine
+GraphQL
+Frontend Architecture
+Vue
+Bohdan Parkhomchuk
+Dylan Bernardi
+Elwyn Benson
+Enrique Alcántara
+TypeScript
+VS Code Extension Development
+Frontend Testing
+Frontend Architecture
+Accessibility
+Erran Carey
+Frédéric Caplette
+GraphQL
+Frontend Architecture
+TypeScript
+Vue
+Frontend Testing
+Jean-Gabriel Doyon
+John Slaughter
+Juhee Lee
+Michael Angelo Rivera
+Mike Eddington
+C#
+Malte Heuser
+TypeScript
+Olena HK.
+Shekhar Patnaik
+Tomas Vik
+TypeScript
+VS Code Extension Development
+Tristan Read
+Reviewers
+Jannik Lehmann
+Laura Ionel
+Lindsey Shelton
+Mohammed Osumah
+Tomáš Bulva
+GitLab MailRoom
+This fork of
+mail_room
+contains some merged functionality that GitLab requires,
+so this mirror fork is to help us release custom functionality.
+mail_room
+is a configuration based process that will listen for incoming
+e-mail and execute a delivery method when a new message is received.
+Assignments
+GitLab Markup
+Markup render for non Markdown content
+Assignments
+Maintainers
+Gabriel Mazetto
+Geo
+GitLab Flavored Markdown
+Ruby
+Ruby on Rails
+View Component
+GitLab O11y
+GitLab Observability is a fully featured (metrics, traces, logs) observability solution within GitLab.
+Assignments
+Maintainers
+Dakota Dux
+Renee Hendricksen
+GitLab O11y OpenTelemetry Collector
+OpenTelemetry Collector for GitLab O11y, used to receive, process, and export telemetry data from instrumented applications.
+Assignments
+Maintainers
+Dakota Dux
+Renee Hendricksen
+GitLab Observability backend
+Gitlab Observability Platform is a secure, horizontally-scalable, open source observability platform installed in your cloud account.
+Assignments
+Maintainers
+Ankit Bhatnagar
+Arun Sori
+ClickHouse
+Joe Shaw
+GitLab Observability UI
+The GitLab Observability UI provides a solid base to build upon and create a place where we can rapidly iterate on new use cases and ways to query and display data regardless of the type.
+Assignments
+Maintainers
+Ankit Panchal
+GitLab Omnibus Builder
+A repository for building base Docker images to be used while building
+Omnibus-GitLab packages for supported operating systems. It also contains
+a cookbook to setup builder machines.
+Assignments
+Maintainers
+Balasankar 'Balu' C
+CI/CD
+Git
+Pipelines configuration of
+gitlab-org
+projects
+Shell Script
+Ian Baum
+Kubernetes
+PostgreSQL
+Robert Marshall
+Reviewers
+Adam Chu
+Alec Xu
+C#
+CI/CD
+Git
+Shell Script
+Dmitry Makovey
+Kubernetes
+Helm
+Makefiles
+Hossein Pursultani
+CI/CD
+Kubernetes
+Jason Plum
+Helm
+Kubernetes
+João Alexandre Prado Tavares Cunha
+Ruby on Rails
+CI/CD
+Kubernetes
+Jon Doveston
+Pratik Singh
+Go
+Kubernetes
+Python
+Senior Distribution Engineer
+GitLab Operator
+The GitLab Operator aims to manage the full lifecycle of cloud native GitLab
+instances, in Kubernetes and OpenShift container platforms.
+Assignments
+Maintainers
+Clemens Beck
+Hossein Pursultani
+CI/CD
+Kubernetes
+Jason Plum
+Helm
+Kubernetes
+Lucas Li
+Go
+Kubernetes
+doc-locale (1)
+Rasam Hossain
+docs (12)
+Ashraf Khamis
+Brendan Lynch
+Emily Sahlani
+Isaac Durham
+Kati Paizee
+Marcel Amirault
+Phillip Wells
+Ryan Lehmann
+Roshni Sarangadharan
+Uma Chandran
+Zach Painter
+docs-locale (2)
+Marcel Amirault
+maintainer (15)
+Ashraf Khamis
+Brendan Lynch
+Emily Sahlani
+Isaac Durham
+Kati Paizee
+Marcel Amirault
+Phillip Wells
+Rasam Hossain
+Ryan Lehmann
+Roshni Sarangadharan
+Uma Chandran
+Zach Painter
+Trainee Maintainers
+Grant Young
+trainee_maintainer (1)
+Stefan Bordei
+Reviewers
+Dmitry Makovey
+Kubernetes
+Helm
+Makefiles
+Grigoris Thanasoulas
+João Alexandre Prado Tavares Cunha
+Ruby on Rails
+CI/CD
+Kubernetes
+Jon Doveston
+Nailia Iskhakova
+Robert Marshall
+qa (1)
+Vishal Patel
+reviewer (2)
+Stefan Bordei
+Vishal Patel
+GitLab Operator v2
+GitLab Operator V2 represents a significant rewrite and refactor of the existing GitLab Operator and seeks to supersede it.
+It is in early development stage and is not yet suitable for production use.
+Assignments
+Maintainers
+Clemens Beck
+Hossein Pursultani
+CI/CD
+Kubernetes
+Trainee Maintainers
+Lucas Li
+Go
+Kubernetes
+trainee_maintainer (1)
+Stefan Bordei
+Reviewers
+Grigoris Thanasoulas
+João Alexandre Prado Tavares Cunha
+Ruby on Rails
+CI/CD
+Kubernetes
+Jon Doveston
+Nailia Iskhakova
+reviewer (1)
+Stefan Bordei
+GitLab Orchestrator
+GitLab Orchestrator automates the installation of GitLab multi-node deployments,
+High Availability deployments, and GitLab Geo deployments.
+Assignments
+GitLab Pages
+GitLab Pages daemon used to serve static websites for GitLab users
+Assignments
+Maintainers
+Janis Altherr
+Naman Jagdish Gala
+Pages
+Go
+Reviewers
+Arun Sori
+ClickHouse
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Hayley Swimelar
+Container Registry
+Igor Frenkel
+James Fargher
+Joe Shaw
+Ravi Kumar
+Backend Testing Performance
+Vishal Tak
+GitLab Performance Tool
+The GitLab Performance Tool (GPT) enables you to performance test a GitLab environment
+Assignments
+Maintainers
+Grant Young
+John McDonnell
+Nailia Iskhakova
+Nick Westbury
+GitLab QA
+End-to-end, black-box, entirely click-driven integration tests for GitLab.
+Assignments
+Maintainers
+Andrejs Cunskis
+Désirée Chevalier
+Jay McCure
+Mark Lapierre
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Sofia Vistas
+Tiffany Rea
+Will Meek
+Trainee Maintainers
+John McDonnell
+Joy Roodnick
+Reviewers
+Andy Hohenner
+Brittany Wilkerson
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Harsha Muralidhar
+Ievgen Chernikov
+Michael Kozono
+Ruby on Rails
+Geo
+Nivetha Prabakaran
+Pranshu Sharma
+Richard Chong
+Lohit Peesapati
+Tim Beauchamp
+Vishal Patel
+backend (1)
+Felipe Artur
+Ruby on Rails
+Plan
+Portfolio management
+REST API
+GraphQL
+ClickHouse
+reviewer (1)
+Felipe Artur
+Ruby on Rails
+Plan
+Portfolio management
+REST API
+GraphQL
+ClickHouse
+Backup/restore procedures
+Automated backup and restore procedures for GitLab.com data
+Assignments
+GitLab Roulette
+This project regularly publish a JSON that contains available maintainers
+for gitlab-org projects:
+https://gitlab-org.gitlab.io/gitlab-roulette/roulette.json
+Assignments
+Maintainers
+Jennifer Li
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Stan Hu
+Ruby on Rails
+CI/CD
+PostgreSQL
+Redis
+Geo
+LFS
+Reviewers
+Doug Barrett
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Ievgen Chernikov
+Pranshu Sharma
+Lohit Peesapati
+GitLab RSpec Profiling Statistics
+A simple CI job which generates basic statistics about most
+expensive RSpec tests. Identifying slowest / most expensive tests can help with
+optimizing our code and our specs.
+Assignments
+Maintainers
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Reviewers
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Ievgen Chernikov
+Pranshu Sharma
+Lohit Peesapati
+GitLab Runner
+GitLab CI/CD Runner
+Assignments
+Maintainers
+Arran Walker
+Axel von Bertoldi
+Georgi Georgiev
+Igor Wiedler
+Joe Burnett
+Romuald Atchadé
+Tomasz Maczukin
+CI/CD
+Kubernetes
+Runner
+docs (21)
+Amy Qualls
+Ashraf Khamis
+Achilleas Pipinellis
+Brendan Lynch
+Emily Sahlani
+Evan Read
+Fiona Neill
+Isaac Durham
+Jon Glassman
+Kati Paizee
+Lorena Ciutacu
+Lysanne Pinto
+Marcel Amirault
+Phillip Wells
+Ryan Lehmann
+Roshni Sarangadharan
+Russell Dickenson
+Suzanne Selhorn
+Uma Chandran
+Zach Painter
+docs-locale (4)
+Lauren Barker
+Marcel Amirault
+Rasam Hossain
+maintainer (25)
+Amy Qualls
+Ashraf Khamis
+Achilleas Pipinellis
+Brendan Lynch
+Emily Sahlani
+Evan Read
+Fiona Neill
+Isaac Durham
+Jon Glassman
+Kati Paizee
+Lauren Barker
+Lorena Ciutacu
+Lysanne Pinto
+Marcel Amirault
+Phillip Wells
+Rasam Hossain
+Ryan Lehmann
+Roshni Sarangadharan
+Russell Dickenson
+Suzanne Selhorn
+Uma Chandran
+Zach Painter
+Trainee Maintainers
+Sam Joan Roque-Worcel
+Reviewers
+Timo Furrer
+Go
+Kubernetes
+Runway deployment for GitLab Secrets Manager
+Runway deployment repository for GitLab Secrets Manager
+Assignments
+Maintainers
+Dmytro Biryukov
+CI/CD
+Erick Bajao
+Fabien Catteau
+Jayakrishnan Mallissery
+GitLab Shell
+GitLab Shell handles Git commands for GitLab. It’s an essential part of GitLab.
+Assignments
+Maintainers
+Igor Drozdov
+Patrick Bajao
+Vasilii Iakliushin
+Trainee Maintainers
+James Liu
+Reviewers
+Alejandro Rodríguez
+James Fargher
+Javiera Tapia
+Go
+Ruby
+Ruby on Rails
+PostgreSQL
+Git
+REST API
+Kerri Miller
+Ruby on Rails
+Ruby
+PostgreSQL
+Redis
+Create
+Naman Jagdish Gala
+Pages
+Go
+GitLab Sketch Plugin
+Sketch plugin that enables users to upload designs from Sketch to
+GitLab issues.
+Assignments
+GitLab Skills
+AI skill definitions for GitLab projects.
+Assignments
+Maintainers
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Erran Carey
+Michael Angelo Rivera
+Pavel Shutsin
+Ruby
+Ruby on Rails
+REST API
+GraphQL
+ClickHouse
+Reviewers
+Terri Chu
+Ruby on Rails
+Kubernetes
+Elasticsearch
+GitLab Styles
+This gem centralizes some shared GitLab’s styles config (only RuboCop
+for now), as well as custom RuboCop cops.
+Assignments
+Maintainers
+Brian Williams
+CI/CD
+Git
+Go
+Helm
+Kubernetes
+Govern
+Secure
+Shell Script
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Doug Stull
+Compute Minutes
+Free User Limit
+Gitlab Experiment
+Onboarding Experience
+Product Qualified Leads
+Ruby on Rails
+Trial Registration
+View Component
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Thong Kuah
+Backend Testing Performance
+Ruby on Rails
+CI/CD
+Kubernetes
+Reviewers
+Senior Backend Engineer
+Eugie Limpin
+Captcha
+Git abuse rate limiting
+Identity Verification
+Pipeline Validation Service
+User Trust Score
+Ievgen Chernikov
+Maxime Orefice
+Nao Hashizume
+Pranshu Sharma
+Sashi Kumar Kumaresan
+Ruby on Rails
+Kubernetes
+Lohit Peesapati
+GitLab SVGs
+Our SVG Assets and the corresponding pipelines to create all of our SVG sprites
+for our icons. Also automatic optimisation of SVG based illustrations.
+Assignments
+Maintainers
+UX (3)
+Jeremy Elder
+Julia Miocene
+Taurie Davis
+frontend (5)
+Denys Mishunov
+Frontend Architecture
+GraphQL
+Frontend Performance
+Snippets
+Web Editor
+Martin Wortschack
+Phil Hughes
+Feature Testing
+Frontend Architecture
+GraphQL
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Performance
+GraphQL
+HAML
+Internationalization
+Vue
+Vuex
+Merge Requests
+Mergeability
+Scott de Jonge
+Stanislav Lashmanov
+Vue
+Vuex
+CSS/SCSS
+Frontend Performance
+maintainer (8)
+Denys Mishunov
+Frontend Architecture
+GraphQL
+Frontend Performance
+Snippets
+Web Editor
+Jeremy Elder
+Julia Miocene
+Martin Wortschack
+Phil Hughes
+Feature Testing
+Frontend Architecture
+GraphQL
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Performance
+GraphQL
+HAML
+Internationalization
+Vue
+Vuex
+Merge Requests
+Mergeability
+Scott de Jonge
+Stanislav Lashmanov
+Vue
+Vuex
+CSS/SCSS
+Frontend Performance
+Taurie Davis
+techtask
+Quickly set up your next backend technical interview.
+Currently internal only.
+Assignments
+Maintainers
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Heinrich Lee Yu
+Ruby on Rails
+Plan
+James Lopez
+Lucas Charles
+Matthias Käppler
+Prometheus
+Ruby
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Olivier Gonzalez
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Steve Xuereb
+Runner
+Thong Kuah
+Backend Testing Performance
+Ruby on Rails
+CI/CD
+Kubernetes
+Reviewers
+Prathyusha Kanala
+GitLab Triage
+This gem aims to enable project managers and maintainers to automatically
+triage Issues and Merge Requests in GitLab projects based on defined
+policies.
+Assignments
+Maintainers
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Reviewers
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Ievgen Chernikov
+Jennifer Li
+Lee Tickett
+Pranshu Sharma
+Raimund Hook
+Lohit Peesapati
+gitlab-ui
+UI component library written in Vue.js.
+Use
+https://gitlab-org.gitlab.io/gitlab-ui/
+to see all the components.
+Every frontend engineer at GitLab is a reviewer of this project.
+However, the reviewers below are part of the gitlab-ui working group,
+and it’s recommended to ping one of them in a non-trivial MR.
+Assignments
+Maintainers
+frontend (13)
+Enrique Alcántara
+TypeScript
+VS Code Extension Development
+Frontend Testing
+Frontend Architecture
+Accessibility
+Florie Guibert
+Jose Ivan Vargas
+Lorenz van Herwaarden
+Mark Florian
+Frontend Architecture
+Frontend Testing
+Vue
+Vuex
+Internationalization
+CSS/SCSS
+Frontend Security
+Foundations Buddy
+Olena HK.
+Paul Gascou-Vaillancourt
+Foundations Buddy
+Payton Burdette
+Peter Hegman
+Vue
+Frontend Architecture
+Accessibility
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Testing
+HAML
+Members
+Savas Vedova
+Charts at GitLab (echarts and GitLab UI)
+Scott de Jonge
+Thomas Hutterer
+CSS/SCSS
+View Component
+Vanessa Otto
+Vue
+maintainer (13)
+Enrique Alcántara
+TypeScript
+VS Code Extension Development
+Frontend Testing
+Frontend Architecture
+Accessibility
+Florie Guibert
+Jose Ivan Vargas
+Lorenz van Herwaarden
+Mark Florian
+Frontend Architecture
+Frontend Testing
+Vue
+Vuex
+Internationalization
+CSS/SCSS
+Frontend Security
+Foundations Buddy
+Olena HK.
+Paul Gascou-Vaillancourt
+Foundations Buddy
+Payton Burdette
+Peter Hegman
+Vue
+Frontend Architecture
+Accessibility
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Testing
+HAML
+Members
+Savas Vedova
+Charts at GitLab (echarts and GitLab UI)
+Scott de Jonge
+Thomas Hutterer
+CSS/SCSS
+View Component
+Vanessa Otto
+Vue
+Trainee Maintainers
+frontend (1)
+Justin Ho
+Foundations Buddy
+trainee_maintainer (1)
+Justin Ho
+Foundations Buddy
+Reviewers
+UX (5)
+Becka Lippert
+Ilonah Pelaez
+Jeremy Elder
+Pedro Moreira da Silva
+Taurie Davis
+frontend (20)
+Andrew Fontaine
+GraphQL
+Frontend Architecture
+Vue
+Artur Fedorov
+Brandon Labuschagne
+Dave Pisek
+Deepika Guliani
+Denys Mishunov
+Frontend Architecture
+GraphQL
+Frontend Performance
+Snippets
+Web Editor
+Dheeraj Joshi
+Frontend Security
+Ezekiel Kigbo
+Frédéric Caplette
+GraphQL
+Frontend Architecture
+TypeScript
+Vue
+Frontend Testing
+Jannik Lehmann
+Jacques Erasmus
+Jiaan Louw
+Kushal Pandya
+Marina Mosti
+Vue
+Frontend Architecture
+Frontend Testing
+Martin Wortschack
+Chaoyue Zhao
+Natalia Tepluhina
+Vue
+GraphQL
+Design Management
+Frontend Architecture
+Phil Hughes
+Feature Testing
+Frontend Architecture
+GraphQL
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Performance
+GraphQL
+HAML
+Internationalization
+Vue
+Vuex
+Merge Requests
+Mergeability
+Rahul Chanila
+Scott Hampton
+reviewer (25)
+Andrew Fontaine
+GraphQL
+Frontend Architecture
+Vue
+Artur Fedorov
+Becka Lippert
+Brandon Labuschagne
+Dave Pisek
+Deepika Guliani
+Denys Mishunov
+Frontend Architecture
+GraphQL
+Frontend Performance
+Snippets
+Web Editor
+Dheeraj Joshi
+Frontend Security
+Ezekiel Kigbo
+Frédéric Caplette
+GraphQL
+Frontend Architecture
+TypeScript
+Vue
+Frontend Testing
+Ilonah Pelaez
+Jannik Lehmann
+Jacques Erasmus
+Jeremy Elder
+Jiaan Louw
+Kushal Pandya
+Marina Mosti
+Vue
+Frontend Architecture
+Frontend Testing
+Martin Wortschack
+Chaoyue Zhao
+Natalia Tepluhina
+Vue
+GraphQL
+Design Management
+Frontend Architecture
+Pedro Moreira da Silva
+Phil Hughes
+Feature Testing
+Frontend Architecture
+GraphQL
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Performance
+GraphQL
+HAML
+Internationalization
+Vue
+Vuex
+Merge Requests
+Mergeability
+Rahul Chanila
+Scott Hampton
+Taurie Davis
+gitlab-vim
+An editor extension for Vim. This Neovim plugin provides Code Suggestions and more.
+Assignments
+Maintainers
+Erran Carey
+GitLab Extension for Visual Studio
+An editor extension to provide code suggestions in Visual Studio.
+Assignments
+Maintainers
+Bohdan Parkhomchuk
+John Slaughter
+Mike Eddington
+C#
+GitLab VS Code extension
+VS Code Extension that integrates GitLab functionality into the VS Code editor.
+The extension supports searching and reviewing MRs, controlling pipelines and
+more. The project is also called GitLab Workflow.
+Assignments
+Maintainers
+Andrei Zubov
+Dylan Bernardi
+Denys Mishunov
+Frontend Architecture
+GraphQL
+Frontend Performance
+Snippets
+Web Editor
+Dheeraj Joshi
+Frontend Security
+Elwyn Benson
+Enrique Alcántara
+TypeScript
+VS Code Extension Development
+Frontend Testing
+Frontend Architecture
+Accessibility
+Erran Carey
+Jacques Erasmus
+Juhee Lee
+Michael Angelo Rivera
+Olena HK.
+Shekhar Patnaik
+Tomas Vik
+TypeScript
+VS Code Extension Development
+Tristan Read
+Reviewers
+Mohammed Osumah
+Peter Hegman
+Vue
+Frontend Architecture
+Accessibility
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Testing
+HAML
+Members
+gitlab-web-ide
+A package for bootstrapping GitLab’s context-aware Web IDE.
+Assignments
+Maintainers
+Ahmed Hemdan
+Secure
+CI/CD
+Release
+Chad Woolley
+CI/CD
+Coding at Scale
+Git
+Ruby on Rails
+Ruby
+Shell Script
+Cindy Halim
+Enrique Alcántara
+TypeScript
+VS Code Extension Development
+Frontend Testing
+Frontend Architecture
+Accessibility
+Erran Carey
+Javiera Tapia
+Go
+Ruby
+Ruby on Rails
+PostgreSQL
+Git
+REST API
+Juhee Lee
+Mireya Andres
+Mohammed Osumah
+Tomas Vik
+TypeScript
+VS Code Extension Development
+Reviewers
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+gitlab-web-ide-vscode-fork
+The GitLab VSCode Fork project produces builds of the VSCode editor.
+GitLab uses these builds to power the GitLab’s Web IDE and
+GitLab Workspaces products.
+Assignments
+Maintainers
+Cindy Halim
+Enrique Alcántara
+TypeScript
+VS Code Extension Development
+Frontend Testing
+Frontend Architecture
+Accessibility
+Reviewers
+Mohammed Osumah
+GitLab Workhorse
+Gitlab-workhorse is a smart reverse proxy for GitLab. It handles “large” HTTP
+requests such as file downloads, file uploads, Git push/pull and Git archive
+downloads.
+Assignments
+GitLab Workspaces Proxy
+GitLab Workspaces Proxy handles discovery, authentication and authorization of the workspaces running in a kubernetes cluster.
+Assignments
+Maintainers
+Shekhar Patnaik
+Vishal Tak
+GitLab Zoekt Helm Chart
+GitLab Zoekt Helm Chart is used for deploying Zoekt as a code search engine to support GitLab exact code search.
+Assignments
+Maintainers
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Jason Plum
+Helm
+Kubernetes
+Reviewers
+Balasankar 'Balu' C
+CI/CD
+Git
+Pipelines configuration of
+gitlab-org
+projects
+Shell Script
+Clemens Beck
+Dmitry Makovey
+Kubernetes
+Helm
+Makefiles
+Hossein Pursultani
+CI/CD
+Kubernetes
+João Alexandre Prado Tavares Cunha
+Ruby on Rails
+CI/CD
+Kubernetes
+John Mason
+Jon Doveston
+Lucas Li
+Go
+Kubernetes
+Robert Marshall
+qa (1)
+Vishal Patel
+reviewer (1)
+Vishal Patel
+GitLab Zoekt Indexer
+A Zoekt indexer for Git repositories. Used by GitLab EE to
+implement new Code Search.
+Assignments
+Maintainers
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+John Mason
+Ravi Kumar
+Backend Testing Performance
+Terri Chu
+Ruby on Rails
+Kubernetes
+Elasticsearch
+Reviewers
+Arturo Herrero
+Isaac Dawson
+Madelein van Niekerk
+Omar Qunsul
+Siddharth Dungarwal
+Ruby on Rails
+Elasticsearch
+ZOQL
+A toolkit for working with the ZOQL language that includes a ZOQL language parser and an AST explorer.
+Assignments
+Product owners
+Vitaly Slobodin
+Frontend Testing
+Foundations Buddy
+Frontend Architecture
+GitLab Data
+The primary project for the GitLab Data team
+Assignments
+Maintainers
+Justin Stark
+Ved Prakash
+GitLab Kramdown
+GitLab Flavored Markdown extensions to Kramdown
+Assignments
+Maintainers
+Achilleas Pipinellis
+Gabriel Mazetto
+Geo
+GitLab Flavored Markdown
+Ruby
+Ruby on Rails
+View Component
+GitLab Quality Test Tooling
+Test tooling that can be used by different projects or different part of the same project, mostly in CI scripts.
+Assignments
+Maintainers
+Andrejs Cunskis
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Désirée Chevalier
+Richard Chong
+Reviewers
+Ievgen Chernikov
+Jay McCure
+John McDonnell
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Pranshu Sharma
+Sofia Vistas
+Lohit Peesapati
+Tiffany Rea
+CIS GitLab Benchmark Scanner
+gitlabcis is a CLI tool designed to scan GitLab projects for compliance against the CIS GitLab Benchmark
+Assignments
+Product owners
+Neil McDonald
+Maintainers
+Mitra JozeNazemian
+Nathan Rosandich
+gitlabktl
+gitlabktl
+is a tool that integrates GitLab with Kubernetes / Knative and
+is a part of GitLab Serverless platform.
+Assignments
+Gitter webapp
+Gitter is a community for software developers. This project is the main monolith web chat application.
+Assignments
+GLQL
+GitLab Query Language (GLQL) powering Embedded views in Markdown
+Assignments
+Maintainers
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Daniele Rossetti
+Reviewers
+Jack Chapman
+Go MimeDB
+Go package that generates additional MIME types that can be loaded into memory by a web server
+Assignments
+grape-path-helpers
+Provides named route helpers for Grape APIs, similar to Rails’ route helpers.
+Forked/renamed from
+https://github.com/reprah/grape-route-helpers
+Assignments
+Maintainers
+Stan Hu
+Ruby on Rails
+CI/CD
+PostgreSQL
+Redis
+Geo
+LFS
+Graphql Ruby
+Security motivated fork of
+https://github.com/rmosolgo/graphql-ruby.git
+.
+Assignments
+GitLab Runner Infrastructure Toolkit
+A library of Terraform modules for deploying GitLab Runner.
+Assignments
+Maintainers
+Joe Burnett
+Group Conversations
+Presentations from (some of) the teams at GitLab, to update the rest of the
+world on what they’ve been working on.
+Assignments
+gRPC
+Forked from
+https://github.com/grpc/grpc
+. Only used right now to build on IBM Z (s390x).
+Assignments
+helm-install-image
+Minimal images with Helm and kubectl installed. Built for GitLab’s cluster integration.
+Assignments
+Maintainers
+João Alexandre Prado Tavares Cunha
+Ruby on Rails
+CI/CD
+Kubernetes
+Taka Nishida
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Timo Furrer
+Go
+Kubernetes
+HTTP Router
+HTTP Router for Cells -
+https://docs.gitlab.com/ee/architecture/blueprints/cells/routing-service.html
+Assignments
+Maintainers
+Bojan Marjanović
+Backend Testing Performance
+Integrations
+Ruby
+Ruby on Rails
+REST API
+Manoj Memana Jayakumar
+Ruby on Rails
+Manage
+Steve Xuereb
+Runner
+Thong Kuah
+Backend Testing Performance
+Ruby on Rails
+CI/CD
+Kubernetes
+Reviewers
+Sami Hiltunen
+Sangwoo Han
+Tarun Khandelwal
+HTTP Router Deployer
+HTTP Router Deployer for Cells -
+https://docs.gitlab.com/ee/architecture/blueprints/cells/routing-service.html
+Assignments
+Maintainers
+Steve Xuereb
+Runner
+Tarun Khandelwal
+Reviewers
+Aaron Richter
+Bojan Marjanović
+Backend Testing Performance
+Integrations
+Ruby
+Ruby on Rails
+REST API
+David Leach
+Sami Hiltunen
+Vladimir Glafirov
+Iglu
+Iglu Schema Registry for
+https://gitlab-org.gitlab.io/iglu
+Assignments
+Maintainers
+Ashwin Bilgi
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+Ankit Panchal
+Doug Stull
+Compute Minutes
+Free User Limit
+Gitlab Experiment
+Onboarding Experience
+Product Qualified Leads
+Ruby on Rails
+Trial Registration
+View Component
+Niko Belokolodov
+Infrastructure Management
+Terraform for managing groups and projects within gitlab-com/gl-infra/
+Assignments
+Maintainers
+Alex Hanselka
+Anton Starovoytov
+Adeline Yeung
+Cameron S McFarland
+Senior Site Reliability Engineer
+Devin Sylva
+Donna Alexandra
+Pierre Guinoiseau
+Sarah Walker
+Silvester Wainaina
+Shreya Shah
+Tarun Khandelwal
+GitLab.com - infrastructure issue tracker
+Used to track the infrastructure work of GitLab.com itself
+Assignments
+internal-handbook
+Home to GitLab In-House internal news and sensitive handbook pages classified as orange or higher.
+Assignments
+Distribution issue bot
+Bot to manage issues for CI pipelines failures.
+Assignments
+k3s GitLab CI
+Extends the official k3s images for more convenient use in GitLab CI
+Assignments
+k8s-agent-qa
+This project runs schedule pipelines that runs production integration test of the GitLab Agent for Kubernetes features.
+If the job fails, the Configure group gets notified immediately on the #feed_alerts_configure Slack channel.
+Assignments
+Kubernetes workloads GitLab.com
+Deployment and configuration wrapper around the official GitLab Helm Charts
+used for deployments of GitLab.com services.
+Assignments
+Maintainers
+Anthony Maina Ng'ang'a
+Adeline Yeung
+Cameron S McFarland
+Senior Site Reliability Engineer
+Dat Tang
+Donna Alexandra
+John 'Jarv' Jarvis
+Jenny Kim
+John T Skarbek
+Pierre Guinoiseau
+Sarah Walker
+Senior Site Reliability Engineer
+Silvester Wainaina
+Tarun Khandelwal
+Vladimir Glafirov
+GitLab Knowledge Graph
+A system to create a structured, queryable representation of code repositories.
+Assignments
+Maintainers
+Bohdan Parkhomchuk
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Jean-Gabriel Doyon
+Michael Angelo Rivera
+Michael Usachenko
+Kubernetes GitLab Demo
+Deprecated GitLab Idea to Production Kubernetes demo project
+Assignments
+labkit
+LabKit is minimalist library to provide functionality for Go services at GitLab.
+Assignments
+Maintainers
+Andrew Newdigate
+Prometheus
+Redis
+Elasticsearch
+Bob Van Landuyt
+Ruby on Rails
+LFS
+GraphQL
+Prometheus
+Doug Barrett
+Elliot Forbes
+Igor Wiedler
+João Pereira
+Container Registry
+Luke Hollinda
+Matias Alvarez
+Steve Xuereb
+Runner
+Trainee Maintainers
+Sami Hiltunen
+Reviewers
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+labkit-python
+LabKit-Python is a minimalist library to provide functionality for Python services at GitLab.
+Assignments
+Maintainers
+Alberto Bignotti
+Andy Hohenner
+Brittany Wilkerson
+Elliot Forbes
+Sofia Vistas
+Reviewers
+Luke Hollinda
+Matias Alvarez
+labkit-rs
+Rust implementation of GitLab’s observability library (LabKit) - logging, metrics, tracing, correlation IDs.
+Assignments
+Maintainers
+Bohdan Parkhomchuk
+Michael Angelo Rivera
+Mark Mishaev
+labkit-ruby
+LabKit-Ruby is minimalist library to provide functionality for Ruby services at GitLab.
+Assignments
+Maintainers
+Andrew Newdigate
+Prometheus
+Redis
+Elasticsearch
+Bob Van Landuyt
+Ruby on Rails
+LFS
+GraphQL
+Prometheus
+Doug Barrett
+Elliot Forbes
+Hercules Lemke Merscher
+Kamil Trzciński
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Redis
+Geo
+Runner
+LFS
+Pages
+Container Registry
+Luke Hollinda
+Matias Alvarez
+Matthias Käppler
+Prometheus
+Ruby
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Reviewers
+Nao Hashizume
+LicenseFinder
+Fork of
+https://github.com/pivotal/LicenseFinder.git
+. Maintained temporarily to relax dependency on Thor.
+Assignments
+Marketing Operations
+Marketing Operations (MktgOps) supports the entire Marketing team to streamline processes and manage related tools.
+Assignments
+Marketo Tools
+Internal Marketo Tools
+Assignments
+Merge Train
+Merge Train is a project used to automatically merge changes from a source repository into a target repository. Changes can be merged using git merge, or by copying over all changes except for proprietary files such as the ee/ directory in GitLab. In both cases merge conflicts are handled automatically.
+Assignments
+Maintainers
+Akinyele Cafe-Febrissy
+Alessio Caiazza
+Coding at Scale
+Anthony Maina Ng'ang'a
+Dat Tang
+Dave Smith
+Jenny Kim
+John T Skarbek
+Mawreen Dela Cruz
+Mayra Cabrera
+Reuben Pereira
+Ruby on Rails
+Monitor
+Prometheus
+Senior Site Reliability Engineer
+Nesting
+A basic and opinionated daemon that sits in front of virtualization platforms
+Assignments
+Maintainers
+Arran Walker
+Omnibus GitLab
+Omnibus GitLab creates the packages for GitLab.
+Assignments
+Maintainers
+build (7)
+Balasankar 'Balu' C
+CI/CD
+Git
+Pipelines configuration of
+gitlab-org
+projects
+Shell Script
+Dmitry Makovey
+Kubernetes
+Helm
+Makefiles
+Ian Baum
+Kubernetes
+PostgreSQL
+Robert Marshall
+configure (8)
+Balasankar 'Balu' C
+CI/CD
+Git
+Pipelines configuration of
+gitlab-org
+projects
+Shell Script
+Hossein Pursultani
+CI/CD
+Kubernetes
+Ian Baum
+Kubernetes
+PostgreSQL
+João Alexandre Prado Tavares Cunha
+Ruby on Rails
+CI/CD
+Kubernetes
+Robert Marshall
+doc-locale (1)
+Rasam Hossain
+docs (21)
+Amy Qualls
+Ashraf Khamis
+Achilleas Pipinellis
+Brendan Lynch
+Emily Sahlani
+Evan Read
+Fiona Neill
+Isaac Durham
+Jon Glassman
+Kati Paizee
+Lorena Ciutacu
+Lysanne Pinto
+Marcel Amirault
+Phillip Wells
+Ryan Lehmann
+Roshni Sarangadharan
+Russell Dickenson
+Suzanne Selhorn
+Uma Chandran
+Zach Painter
+docs-locale (3)
+Lauren Barker
+Marcel Amirault
+maintainer (40)
+Amy Qualls
+Ashraf Khamis
+Achilleas Pipinellis
+Balasankar 'Balu' C
+CI/CD
+Git
+Pipelines configuration of
+gitlab-org
+projects
+Shell Script
+Brendan Lynch
+Dmitry Makovey
+Kubernetes
+Helm
+Makefiles
+Emily Sahlani
+Evan Read
+Fiona Neill
+Hossein Pursultani
+CI/CD
+Kubernetes
+Ian Baum
+Kubernetes
+PostgreSQL
+Isaac Durham
+Jon Glassman
+João Alexandre Prado Tavares Cunha
+Ruby on Rails
+CI/CD
+Kubernetes
+Kati Paizee
+Lauren Barker
+Lorena Ciutacu
+Lysanne Pinto
+Marcel Amirault
+Phillip Wells
+Rasam Hossain
+Ryan Lehmann
+Robert Marshall
+Roshni Sarangadharan
+Russell Dickenson
+Suzanne Selhorn
+Uma Chandran
+Zach Painter
+Trainee Maintainers
+configure (1)
+Grant Young
+trainee_maintainer (1)
+Grant Young
+Reviewers
+Grigoris Thanasoulas
+Stefan Bordei
+build (7)
+Adam Chu
+Alec Xu
+C#
+CI/CD
+Git
+Shell Script
+Gabriel Mazetto
+Geo
+GitLab Flavored Markdown
+Ruby
+Ruby on Rails
+View Component
+Jon Doveston
+Pratik Singh
+Go
+Kubernetes
+Python
+Senior Distribution Engineer
+configure (6)
+Clemens Beck
+Gabriel Mazetto
+Geo
+GitLab Flavored Markdown
+Ruby
+Ruby on Rails
+View Component
+Jason Plum
+Helm
+Kubernetes
+Lucas Li
+Go
+Kubernetes
+Nailia Iskhakova
+qa (1)
+Vishal Patel
+reviewer (14)
+Adam Chu
+Alec Xu
+C#
+CI/CD
+Git
+Shell Script
+Clemens Beck
+Gabriel Mazetto
+Geo
+GitLab Flavored Markdown
+Ruby
+Ruby on Rails
+View Component
+Jason Plum
+Helm
+Kubernetes
+Jon Doveston
+Lucas Li
+Go
+Kubernetes
+Nailia Iskhakova
+Pratik Singh
+Go
+Kubernetes
+Python
+Senior Distribution Engineer
+Vishal Patel
+OpenBao Helm chart
+A Helm chart to deploy OpenBao as part of Cloud Native GitLab.
+Assignments
+Maintainers
+Clemens Beck
+Dmytro Biryukov
+CI/CD
+Fabien Catteau
+Jayakrishnan Mallissery
+GitLab fork of OpenBao
+A fork of OpenBao for GitLab Secrets Manager
+Assignments
+Maintainers
+Dmytro Biryukov
+CI/CD
+Erick Bajao
+Fabien Catteau
+Jayakrishnan Mallissery
+OS images for MacOS build cloud
+OS images for MacOS build cloud
+Assignments
+Maintainers
+Arran Walker
+Georgi Georgiev
+Tomasz Maczukin
+CI/CD
+Kubernetes
+Runner
+Package Hunter
+Behavioral analyzer for detecting malicious NodeJS modules or Ruby gems.
+Assignments
+Product owners
+Dennis Appelt
+Package Hunter CLI
+CLI client for Package Hunter. Useful to run Package Hunter jobs in CI or locally.
+Assignments
+Product owners
+Dennis Appelt
+pages.gitlab.io
+GitLab Pages landing page
+Assignments
+Compensation Calculator
+Project that houses all the code and data files for our compensation calculator.
+Assignments
+Maintainers
+AJ Romaniello
+PeopleOps Employment Automation
+Automation related to various employment activities at GitLab, like
+onboarding issue creation, anniversary and new hire announcements,
+GreenHouse to Workday sync, general issue housekeeping, etc.
+Assignments
+Maintainers
+AJ Romaniello
+Nominator
+This is a slack bot created to use within GitLab to nominate team members for discretionary bonuses.
+Assignments
+Maintainers
+AJ Romaniello
+Splinter PTO
+This gem is a wrapper for the Time Off by Deel API.
+Assignments
+Maintainers
+AJ Romaniello
+pipeline-validation-service
+Implements
+https://docs.gitlab.com/ee/administration/external_pipeline_validation.html
+Assignments
+Maintainers
+Eugie Limpin
+Captcha
+Git abuse rate limiting
+Identity Verification
+Pipeline Validation Service
+User Trust Score
+Hinam Mehra
+Captcha
+Git abuse rate limiting
+Identity Verification
+Pipeline Validation Service
+User Trust Score
+Jay Swain
+PMDB distribution service
+A Runway service responsible for providing PMDB data to GitLab instances.
+Currently used for Malware data.
+Assignments
+GitLab Project Templates
+GitLab project-templates are a collection of language-specific starter templates.
+Assignments
+Maintainers
+Fabio Pitino
+Ruby on Rails
+CI/CD
+Gavin Hinfey
+Igor Drozdov
+Jerry Seto
+Patrick Cyiza
+Joe Woodward
+Ruby on Rails
+Ruby
+GraphQL
+Branch Rules
+Kasia Misirli
+Marcel Amirault
+Vasilii Iakliushin
+docs (1)
+Amy Qualls
+maintainer (1)
+Amy Qualls
+prometheus-client-mmap
+This Prometheus library is fork of Prometheus Ruby Client
+that uses memory-mapped files to share metrics from multiple processes
+Assignments
+Maintainers
+Stan Hu
+Ruby on Rails
+CI/CD
+PostgreSQL
+Redis
+Geo
+LFS
+Google Protobuf
+Forked from
+https://github.com/protocolbuffers/protobuf
+. Only used right now to build on IBM Z (s390x).
+Assignments
+Public Container Image Archive Registry
+Hosts official GitLab container images within the container registry.
+Assignments
+Maintainers
+Balasankar 'Balu' C
+CI/CD
+Git
+Pipelines configuration of
+gitlab-org
+projects
+Shell Script
+Robert Marshall
+Reviewers
+Adam Chu
+Python
+Group for Python experts that collaborate on different project across GitLab.
+Assignments
+Maintainers
+Eduardo Bonet
+Fred de Gier
+Tian Gao
+Timo Furrer
+Go
+Kubernetes
+Tan Le
+Git
+Makefiles
+Python
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Reviewers
+Tetiana Chupryna
+Ruby on Rails
+Ruby
+Thomas Schmidt
+Common CI for QA pipelines
+This project has common CI config for the other QA pipeline projects.
+Assignments
+Maintainers
+Andrejs Cunskis
+Mark Lapierre
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Reviewers
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Ievgen Chernikov
+Pranshu Sharma
+Lohit Peesapati
+Quality SSH Tunnel
+Docker image that provides internet connection to docker containers from CI.
+Assignments
+Maintainers
+Tiffany Rea
+IpynbDiff
+A simple utility to create cleaner diffs for Jupyter Notebooks in Ruby.
+Assignments
+Product owners
+Eduardo Bonet
+Reference Architectures
+The GitLab reference architectures are validated, production-ready environment designs for
+deploying GitLab at scale.
+Assignments
+Maintainers
+Grant Young
+Nailia Iskhakova
+Nick Westbury
+Registry Conformance
+Standalone conformance test tool that validates any Artifact Registry implementation
+against the supported protocols (Maven, npm, Container/OCI, etc) from outside the service boundary.
+The tool uses real native clients and direct HTTP calls to exercise the full protocol surface,
+producing a structured pass/fail report per capability.
+Assignments
+Release CLI
+The GitLab Release CLI consumes instructions in the :release node of the .gitlab-ci.yml to create a Release object in GitLab Rails.
+GitLab Release is a CLI application written in Golang.
+Assignments
+Maintainers
+Steve Xuereb
+Runner
+Vladimir Shushlin
+Ruby on Rails
+Ruby
+Pages
+Reviewers
+Ahmed Hemdan
+Secure
+CI/CD
+Release
+Halil Coban
+Krasimir Angelov
+Ruby on Rails
+PostgreSQL
+Pedro Pombeiro
+Backend Testing Performance
+ClickHouse
+C#
+Go
+GraphQL
+Runner
+GitLab Release Tools
+Instructions and tools for releasing GitLab
+Assignments
+Maintainers
+Alessio Caiazza
+Coding at Scale
+Dat Tang
+Jenny Kim
+John T Skarbek
+Mayra Cabrera
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Reuben Pereira
+Ruby on Rails
+Monitor
+Prometheus
+Vladimir Glafirov
+GitLab Runner Releaser
+A tool to facilitate making GitLab Runner releases.
+Assignments
+Maintainers
+Georgi Georgiev
+GitLab Runner Releases
+A project to initiate and manage cutting GitLab Runner releases.
+Assignments
+Maintainers
+Georgi Georgiev
+RemoteOnly.org
+This is the source for the
+https://www.remoteonly.org
+site.
+Assignments
+Renovate GitLab Bot
+The bot uses Renovate to automatically create merge requests (MRs) for updating dependencies.
+Assignments
+Maintainers
+Clemens Beck
+Hordur Freyr Yngvason
+João Alexandre Prado Tavares Cunha
+Ruby on Rails
+CI/CD
+Kubernetes
+Staff Backend Engineer
+Go
+Kubernetes
+Paul Gascou-Vaillancourt
+Foundations Buddy
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Timo Furrer
+Go
+Kubernetes
+Repository X-Ray
+Docker images for X-Ray scan feature building repositories metadata for code creation tasks.
+Assignments
+Maintainers
+Mikołaj Wawrzyniak
+Vitali Tatarintev
+Ruby on Rails
+Monitor
+Reviewers
+Allen Cook
+Tian Gao
+Rouge
+Syntax highlighting used in GitLab Rails (source code) and Gitaly (Wikis).
+Assignments
+Maintainers
+Drew Blessing
+GitLab Runner Helm Chart
+Deploys a GitLab Runner instance into your Kubernetes cluster.
+Assignments
+Maintainers
+Georgi Georgiev
+Romuald Atchadé
+Runner Incept
+A project for E2E testing of gitlab-runner
+Assignments
+Maintainers
+Romuald Atchadé
+GitLab Runner Operator for Kubernetes
+Manage the lifecycle of GitLab Runner instances on Kubernetes or Openshift
+Assignments
+Maintainers
+Georgi Georgiev
+Romuald Atchadé
+GitLab Runner UBI Offline Build
+Build Runner and Runner-helper images in isolated environments with restricted internet access.
+Assignments
+Maintainers
+Axel von Bertoldi
+Georgi Georgiev
+Runway Provisioner
+Infrastructure for managing resources.
+Assignments
+Maintainers
+Bob Van Landuyt
+Ruby on Rails
+LFS
+GraphQL
+Prometheus
+Florian Forster
+Gonzalo Servat
+Igor Wiedler
+Runway Reconciler
+Command line tool for deploying and operating services.
+Assignments
+Maintainers
+Bob Van Landuyt
+Ruby on Rails
+LFS
+GraphQL
+Prometheus
+Florian Forster
+Gonzalo Servat
+Igor Wiedler
+Trainee Maintainers
+Erran Carey
+SAST Scanner Service
+SAST Scanner Service used for SAST in the IDE
+Assignments
+Sec Section Dangerbot
+Dangerbot used by the Sec Section
+Assignments
+Maintainers
+Brian Williams
+CI/CD
+Git
+Go
+Helm
+Kubernetes
+Govern
+Secure
+Shell Script
+Lucas Charles
+Reviewers
+Serena Fang
+Secret Detection Response Service
+A service to determine the status of tokens,
+classifying them as active, inactive, or unknown. This service helps identify
+potential security risks associated with active or unknown tokens in GitLab projects.
+Assignments
+sectypes
+A collection of schemas and parsers for various security related and security adjacent formats, clients and documents.
+Assignments
+Dependency Scanning - Gemnasium analyzer
+Gemnasium analyzer providing scanning capabilities for our Dependency Scanning category.
+Assignments
+Maintainers
+Oscar Tovar
+Nick Ilieskou
+backend (1)
+Igor Frenkel
+maintainer (1)
+Igor Frenkel
+Reviewers
+Orin Naaman
+Philip Cunningham
+Dependency Scanning - Gemnasium Database
+Repository providing security advisories for the Gemnasium analyzer (Dependency Scanning). Part of our GitLab Advisory Database category.
+Assignments
+Maintainers
+Dinesh Bolkensteyn
+Isaac Dawson
+Michael Henriksen
+Static Analysis - Benchmark Generator
+Sample generator for performance benchmarking syntax direct static analyzers.
+Assignments
+Static Analysis - IDE Benchmark
+Benchmarking framework for SAST in the IDE.
+Assignments
+Static Analysis - SAST in the IDE Integration
+Integration of SAST in the IDE components for development, benchmarking, and deployment.
+Assignments
+Static Analysis - Assessment Corpus
+Tools and documentation for asessing analyzer capabilities.
+Assignments
+Static Analysis - Bandit analyzer
+Bandit analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Craig Smith
+Secure
+Static Analysis - Brakeman analyzer
+Brakeman analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Craig Smith
+Secure
+Julian Thome
+Static Analysis - Clang Static Analyzer
+Clang Static Analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Hua Yan
+Philip Cunningham
+Reviewers
+Adam Cohen
+Julian Thome
+Mher Tolpin
+Shao Ming Tan
+Code Quality
+Code Quality Analysis tool for GitLab CI
+Assignments
+Maintainers
+Lucas Charles
+Reviewers
+Craig Smith
+Secure
+Static Analysis - Eslint analyzer
+Eslint analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Reviewers
+Craig Smith
+Secure
+Static Analysis - Flawfinder analyzer
+Flawfinder analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Craig Smith
+Secure
+Static Analysis - Gosec analyzer
+Gosec analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Reviewers
+Craig Smith
+Secure
+Static Analysis - KICS analyzer
+KICS analyzer providing IaC scanning capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Adam Cohen
+Craig Smith
+Secure
+Hua Yan
+Julian Thome
+Shao Ming Tan
+Static Analysis - Kubesec analyzer
+Kubesec analyzer providing IaC scanning capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Adam Cohen
+Craig Smith
+Secure
+Hua Yan
+Julian Thome
+Static Analysis - Lightz Analyzer
+Lightz analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Static Analysis - Lightz All in One
+Packaging of Lightz analyzer and Oxeye rules.
+Assignments
+Static Analysis - MobSF analyzer
+MobSF analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Craig Smith
+Secure
+Static Analysis - Nodejs-Scan analyzer
+Nodejs-Scan analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Craig Smith
+Secure
+Static Analysis - Lightz Rules
+Oxeye SAST Rules for Lightz analyzer
+Assignments
+Static Analysis - PHPCS-Security-Audit analyzer
+PHPCS-Security-Audit analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Craig Smith
+Secure
+Static Analysis - PMD Apex analyzer
+PMD Apex analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Adam Cohen
+Craig Smith
+Secure
+Hua Yan
+Julian Thome
+Static Analysis - Semgrep Rules
+Central Semgrep rules repository for the Semgrep SAST analyzer.
+Assignments
+Maintainers
+Dinesh Bolkensteyn
+Isaac Dawson
+Julian Thome
+Michael Henriksen
+Reviewers
+Chathumina Vimukthi
+Dinura Seneviratne
+Lanka De Alwis
+Nasir Devlani
+Static Analysis - Lightz Rule Generator
+Generate taint rules from sources and sinks for Lightz analyzer
+Assignments
+Static Analysis - Security-Code-Scan analyzer
+Security-Code-Scan analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Adam Cohen
+Craig Smith
+Secure
+Hua Yan
+Julian Thome
+Static Analysis - Semgrep analyzer
+Semgrep analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Adam Cohen
+Craig Smith
+Secure
+Hua Yan
+Julian Thome
+Static Analysis - Sobelow analyzer
+Sobelow analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Adam Cohen
+Hua Yan
+Julian Thome
+Reviewers
+Craig Smith
+Secure
+Static Analysis - Spotbugs analyzer
+Spotbugs analyzer providing scanning capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Adam Cohen
+Hua Yan
+Julian Thome
+Reviewers
+Craig Smith
+Secure
+Static Analysis - Tracking analyzer
+Post-Analyzer for augmenting SAST reports with scope_offset tracking information for our Static Analysis category.
+Assignments
+Maintainers
+Craig Smith
+Secure
+Julian Thome
+Lucas Charles
+Reviewers
+Adam Cohen
+Hua Yan
+Vishwa Bhat
+Secure
+Secret Detection - GitLab Advanced Secret Detection analyzer
+GitLab Advanced Secret Detection analyzer providing enhanced scanning capabilities for our Secret Detection category.
+Assignments
+Secret Detection - Secrets analyzer
+Secrets analyzer providing scanning capabilities for our Secret Detection category.
+Assignments
+Maintainers
+Ahmed Hemdan
+Secure
+CI/CD
+Release
+Aditya Tiwari
+Craig Smith
+Secure
+Ross Fuhrman
+Secure
+Vishwa Bhat
+Secure
+Reviewers
+Dheeraj Joshi
+Frontend Security
+Serena Fang
+Secure Analyzers
+Several repositories for the various analyzers including language specific analyzers, container scanning, secret detection, and dependency scanning.
+Assignments
+Reviewers
+go (2)
+Lucas Charles
+Serena Fang
+reviewer (2)
+Lucas Charles
+Serena Fang
+Security Analyzers Common Library
+Common module for our Secure stage analyzers.
+Assignments
+API Security
+API Security testing engine for GitLab CI.
+Assignments
+Maintainers
+Mike Eddington
+C#
+Browser-based DAST Engine
+Browser-based Dynamic Application Security Testing for GitLab CI
+Assignments
+Maintainers
+Arpit Gogia
+Aditya Tiwari
+Craig Smith
+Secure
+Hannah Baker
+Isaac Dawson
+Marcos Rocha
+Ruby on Rails
+Philip Cunningham
+Security Product Templates
+A collection of useful .gitlab-ci.yml templates and includes for Security Products
+Assignments
+Secure Command analyzer
+Command module providing common CLI capabilities for our Secure stage analyzers.
+Assignments
+Maintainers
+Lucas Charles
+Reviewers
+Adam Cohen
+Craig Smith
+Secure
+Hua Yan
+Julian Thome
+Mher Tolpin
+Philip Cunningham
+Serena Fang
+Shao Ming Tan
+Vishwa Bhat
+Secure
+Secure Report analyzer
+Report module providing common CLI capabilities for our Secure stage analyzers.
+Assignments
+Maintainers
+Adam Cohen
+Lucas Charles
+Reviewers
+Craig Smith
+Secure
+Hua Yan
+Julian Thome
+Mher Tolpin
+Philip Cunningham
+Serena Fang
+Shao Ming Tan
+Vishwa Bhat
+Secure
+Static Analysis - Ruleset analyzer
+Ruleset module providing customized SAST ruleset capabilities for our Static Analysis category.
+Assignments
+Maintainers
+Craig Smith
+Secure
+Lucas Charles
+Vishwa Bhat
+Secure
+Reviewers
+Adam Cohen
+Hua Yan
+Julian Thome
+Mher Tolpin
+Philip Cunningham
+Serena Fang
+Shao Ming Tan
+Container Scanning
+Container Image Security Scanning for GitLab CI
+Assignments
+Maintainers
+Adam Cohen
+Oscar Tovar
+Igor Frenkel
+Zamir Martins Filho
+Govern
+Helm
+Kubernetes
+Trainee Maintainers
+Olivier Gonzalez
+Reviewers
+Albina Yusupova
+Aditya Tiwari
+James Hebden
+Nick Ilieskou
+Orin Naaman
+Philip Cunningham
+Shao Ming Tan
+Coverage Fuzzer
+Coverage Fuzzing Tooling for GitLab CI
+Assignments
+Maintainers
+backend (1)
+Aditya Tiwari
+maintainer (1)
+Aditya Tiwari
+Dynamic Application Security Testing (DAST)
+Dynamic Application Security Testing for GitLab CI
+Assignments
+Maintainers
+Arpit Gogia
+Hannah Baker
+Isaac Dawson
+Dependency Management - Orchestrator
+Dependency Management component that launches the dependency file updater component and coordinates the updates.
+Assignments
+Maintainers
+Oscar Tovar
+Igor Frenkel
+Nick Ilieskou
+Orin Naaman
+Reviewers
+Albina Yusupova
+Olivier Gonzalez
+Zamir Martins Filho
+Govern
+Helm
+Kubernetes
+Dependency Management - Updater
+Dependency Management component that executes dependency file updates.
+Assignments
+Maintainers
+Albina Yusupova
+Oscar Tovar
+Igor Frenkel
+Nick Ilieskou
+Olivier Gonzalez
+Orin Naaman
+Zamir Martins Filho
+Govern
+Helm
+Kubernetes
+Dependency Scanning
+Analyzer providing software composition analysis capabilities for our Dependency Scanning category.
+Assignments
+Maintainers
+Adam Cohen
+Oscar Tovar
+Igor Frenkel
+Nick Ilieskou
+Orin Naaman
+Reviewers
+Philip Cunningham
+Events Registry
+Registry containing observability event definitions used by AST analyzers
+Assignments
+Secure Integration Test
+Ruby gem, scripts and Docker image to implement integration tests for the Application Security Testing (formerly Secure) analyzer projects.
+Assignments
+Maintainers
+Adam Cohen
+Oscar Tovar
+License Database - Advisory Processor
+Processor that augments License Database with advisory data.
+Assignments
+Maintainers
+Isaac Dawson
+Nick Ilieskou
+Orin Naaman
+Reviewers
+Adam Cohen
+Aditya Tiwari
+Oscar Tovar
+Igor Frenkel
+Philip Cunningham
+Shao Ming Tan
+License Database - Deployment
+Service project for deploying License Database to a specific environment and hosting documentation.
+Assignments
+Maintainers
+Isaac Dawson
+Nick Ilieskou
+Orin Naaman
+Philip Cunningham
+Reviewers
+Adam Cohen
+Aditya Tiwari
+Oscar Tovar
+Igor Frenkel
+Shao Ming Tan
+License Database - License Exporter
+Exports license data from the external license database to a public GCP bucket for ingestion by the GitLab monolith.
+Assignments
+Maintainers
+Isaac Dawson
+Nick Ilieskou
+Orin Naaman
+Philip Cunningham
+Reviewers
+Adam Cohen
+Aditya Tiwari
+Oscar Tovar
+Igor Frenkel
+Shao Ming Tan
+License Database - License Feeder
+Feeds package names from a package registry to the License Database Interfacer.
+Assignments
+Maintainers
+Isaac Dawson
+Nick Ilieskou
+Orin Naaman
+Philip Cunningham
+Reviewers
+Adam Cohen
+Aditya Tiwari
+Oscar Tovar
+Igor Frenkel
+Shao Ming Tan
+License Database - License Interfacer
+Interfaces with package registries to pull down package versions and licenses. Dispatches data over to be processed by the License Database Processor.
+Assignments
+Maintainers
+Isaac Dawson
+Nick Ilieskou
+Orin Naaman
+Philip Cunningham
+Reviewers
+Adam Cohen
+Aditya Tiwari
+Oscar Tovar
+Igor Frenkel
+Shao Ming Tan
+License Database - License Processor
+Handles inserting processed licenses into the License Database.
+Assignments
+Maintainers
+Isaac Dawson
+Nick Ilieskou
+Orin Naaman
+Philip Cunningham
+Reviewers
+Adam Cohen
+Aditya Tiwari
+Oscar Tovar
+Igor Frenkel
+Shao Ming Tan
+License Database - PMDB tools
+Holds tools around Package Metadata Database
+Assignments
+Maintainers
+Nick Ilieskou
+License Database - Schema
+Holds the License Database schema and migration scripts.
+Assignments
+Maintainers
+Isaac Dawson
+Nick Ilieskou
+Orin Naaman
+Philip Cunningham
+Reviewers
+Adam Cohen
+Aditya Tiwari
+Oscar Tovar
+Igor Frenkel
+Shao Ming Tan
+License Database - SPDX Utility
+A utility for working with SPDX license data, part of the GitLab security products license database.
+Assignments
+License Database - Static reachability modules scrapper
+A scrapper for PyPi and Java packages used by static reachability.
+Assignments
+Maintainers
+Nick Ilieskou
+PyPi metadata
+Holds information regarding mapping of module names to library names for PyPi packages.
+Assignments
+Static Application Security Testing (SAST)
+Static Application Security Testing for GitLab CI
+Assignments
+SCA to sharif matcher
+A matcher that receives an SBOM and GLAS reports and enrich it with static reachability data.
+Assignments
+Operational Container Scanning - Trivy K8S Wrapper
+The Trivy K8S Wrapper image is used by the gitlab-agent (GA) for Operational Container Scanning. The GA uses this analyzer to scan a namespace for vulnerabilities using Trivy.
+Assignments
+Maintainers
+Igor Frenkel
+Nick Ilieskou
+Shao Ming Tan
+Reviewers
+Philip Cunningham
+Security Report Schemas
+Schemas documenting the security report format for dependency scanning, container scanning, SAST, DAST, and other analyzers.
+Assignments
+Maintainers
+Dominic Bauer
+Brian Williams
+CI/CD
+Git
+Go
+Helm
+Kubernetes
+Govern
+Secure
+Shell Script
+Igor Frenkel
+Lucas Charles
+Thiago Figueiró
+Trainee Maintainers
+Mehmet Emin Inac
+Ruby
+Ruby on Rails
+PostgreSQL
+Elasticsearch
+Secure
+Vulnerability Management
+Michał Zając
+Ruby on Rails
+Govern
+Subashis Chakraborty
+Reviewers
+Gregory Havenga
+Ruby
+Ruby on Rails
+Vulnerability Management
+Serena Fang
+Security Report Schemas Ruby
+A rubygem to facilitate the distribution of the Security Report Schemas
+(
+https://gitlab.com/gitlab-org/security-products/security-report-schemas
+)
+.
+Assignments
+Maintainers
+Dominic Bauer
+Igor Frenkel
+Lucas Charles
+Mehmet Emin Inac
+Ruby
+Ruby on Rails
+PostgreSQL
+Elasticsearch
+Secure
+Vulnerability Management
+Thiago Figueiró
+Trainee Maintainers
+Michał Zając
+Ruby on Rails
+Govern
+Subashis Chakraborty
+Reviewers
+Brian Williams
+CI/CD
+Git
+Go
+Helm
+Kubernetes
+Govern
+Secure
+Shell Script
+Gregory Havenga
+Ruby
+Ruby on Rails
+Vulnerability Management
+Serena Fang
+Semver Dialects
+Ruby gem used for doing version comparisons in Dependency Scanning, License Scanning, and Container Scanning.
+Assignments
+Maintainers
+Igor Frenkel
+Julian Thome
+Olivier Gonzalez
+Reviewers
+Philip Cunningham
+Shao Ming Tan
+GitLab Sidekiq Reliable Fetcher
+A Sidekiq module to make it handle jobs reliably.
+Assignments
+Siphon
+This is an application which can be used to synchronize data from a PostgreSQL database to other data stores by reading the PostgreSQL logical replication stream.
+Assignments
+Maintainers
+Principal Engineer
+ClickHouse
+Ruby on Rails
+PostgreSQL
+Ankit Bhatnagar
+Arun Sori
+ClickHouse
+Max Woolf
+ClickHouse
+Ruby on Rails
+Ruby
+Manage
+Audit Events
+Slippers Design System
+Slippers is the open-source GitLab Marketing Web Design System.
+Assignments
+Maintainers
+Laura Duggan
+Globalization
+Localization
+Megan Filo
+Nuxt 3
+Mateo Penagos
+CI/CD
+Nathan Dubord
+Nuxt 3
+Vue
+CI/CD
+Frontend Architecture
+Snowflake Spend dbt Package
+This is a dbt package for understanding the cost your Snowflake Data Warehouse is accruing.
+Assignments
+Maintainers
+Justin Stark
+Snowplow Micro Configuration
+Provides configuration to run Snowplow Micro by using a container.
+Assignments
+Maintainers
+Michał Wielich
+GitLab Status Page
+With the GitLab Status page, you can create and deploy a static website to communicate efficiently with users during an incident.
+Assignments
+Maintainers
+frontend (5)
+Denys Mishunov
+Frontend Architecture
+GraphQL
+Frontend Performance
+Snippets
+Web Editor
+Kushal Pandya
+Martin Wortschack
+Natalia Tepluhina
+Vue
+GraphQL
+Design Management
+Frontend Architecture
+Phil Hughes
+Feature Testing
+Frontend Architecture
+GraphQL
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Performance
+GraphQL
+HAML
+Internationalization
+Vue
+Vuex
+Merge Requests
+Mergeability
+maintainer (5)
+Denys Mishunov
+Frontend Architecture
+GraphQL
+Frontend Performance
+Snippets
+Web Editor
+Kushal Pandya
+Martin Wortschack
+Natalia Tepluhina
+Vue
+GraphQL
+Design Management
+Frontend Architecture
+Phil Hughes
+Feature Testing
+Frontend Architecture
+GraphQL
+Frontend Legacy Code (jQuery, Vanilla, etc.)
+Frontend Performance
+GraphQL
+HAML
+Internationalization
+Vue
+Vuex
+Merge Requests
+Mergeability
+Step Runner
+Implementation of
+GitLab Steps
+.
+Assignments
+Maintainers
+Axel von Bertoldi
+Cam Swords
+Joe Burnett
+Switchboard
+Ruby on Rails application to host Tenant configuration data and initiate operations against Dedicated instances.
+Assignments
+Maintainers
+backend (3)
+Andrey Ruzmanov
+Lekan Sogunle
+Sean Arnold
+Ruby on Rails
+GraphQL
+frontend (3)
+Grace Lin
+Vue
+Jose Ivan Vargas
+Marina Mosti
+Vue
+Frontend Architecture
+Frontend Testing
+maintainer (6)
+Andrey Ruzmanov
+Grace Lin
+Vue
+Jose Ivan Vargas
+Lekan Sogunle
+Marina Mosti
+Vue
+Frontend Architecture
+Frontend Testing
+Sean Arnold
+Ruby on Rails
+GraphQL
+Reviewers
+analytics_instrumentation (5)
+Ankit Panchal
+Homer Silva
+Michał Wielich
+Niko Belokolodov
+Nwanna Isong
+backend (2)
+Harsha Muralidhar
+Shubham Khandelwal
+frontend (4)
+Deepika Guliani
+Justin Ho
+Foundations Buddy
+Natalia Tepluhina
+Vue
+GraphQL
+Design Management
+Frontend Architecture
+Vanessa Otto
+Vue
+reviewer (11)
+Ankit Panchal
+Deepika Guliani
+Harsha Muralidhar
+Homer Silva
+Justin Ho
+Foundations Buddy
+Michał Wielich
+Niko Belokolodov
+Nwanna Isong
+Natalia Tepluhina
+Vue
+GraphQL
+Design Management
+Frontend Architecture
+Shubham Khandelwal
+Vanessa Otto
+Vue
+takeoff
+Tooling used to deploy GitLab.com to any environment
+Assignments
+Tamland
+Tamland is a capacity planning forecasting tool used by the Infrastructure department to
+monitor potential capacity planning issues. More information is available in the handbook
+at
+https://handbook.gitlab.com/handbook/engineering/infrastructure/capacity-planning
+.
+Assignments
+Maintainers
+Andrew Newdigate
+Prometheus
+Redis
+Elasticsearch
+Tanuki Emoji
+Library that provides Emoji Character information
+Assignments
+Maintainers
+Gabriel Mazetto
+Geo
+GitLab Flavored Markdown
+Ruby
+Ruby on Rails
+View Component
+Kerri Miller
+Ruby on Rails
+Ruby
+PostgreSQL
+Redis
+Create
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Tetiana Chupryna
+Ruby on Rails
+Ruby
+Tanukidesk
+Bidirectional communication between Zendesk and Disqus / HackerNews.
+Assignments
+Taskscaler
+An autoscaler for provisioning instances (via fleeting) and allocating and assigning tasks to them
+Assignments
+Maintainers
+Arran Walker
+Images for using Terraform in GitLab CI
+GitLab-provided images for using Terraform in GitLab CI, with enhanced
+integration for the Merge Request widget and the GitLab-provided Terraform
+state backend.
+Assignments
+Maintainers
+Matt Kasa
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Redis
+Elasticsearch
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Timo Furrer
+Go
+Kubernetes
+GitLab internal terraform modules
+Common Terraform modules for internal use
+Assignments
+Maintainers
+Adeline Yeung
+Cameron S McFarland
+Senior Site Reliability Engineer
+Donna Alexandra
+Pierre Guinoiseau
+Sarah Walker
+Silvester Wainaina
+Tarun Khandelwal
+GitLab Terraform Provider
+The Terraform GitLab Provider is a plugin for Terraform that allows for the
+full lifecycle management of GitLab resources, like users, groups and
+projects.
+Assignments
+Maintainers
+Patrick Rice
+Timo Furrer
+Go
+Kubernetes
+test_file_finder
+A Ruby gem for detecting test files associated with input files.
+Assignments
+Maintainers
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Reviewers
+Ievgen Chernikov
+Pranshu Sharma
+Lohit Peesapati
+Topology Service
+Topology Service for Cells -
+https://docs.gitlab.com/ee/architecture/blueprints/cells/topology_service.html
+Assignments
+Maintainers
+Bojan Marjanović
+Backend Testing Performance
+Integrations
+Ruby
+Ruby on Rails
+REST API
+Eric Ju
+Joe Burnett
+Kamil Trzciński
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Redis
+Geo
+Runner
+LFS
+Pages
+Container Registry
+Natanael Silva
+Steve Xuereb
+Runner
+Tarun Khandelwal
+Reviewers
+Clemens Beck
+Dmitry Gruzd
+Ruby on Rails
+Elasticsearch
+Ravi Kumar
+Backend Testing Performance
+Sami Hiltunen
+Sangwoo Han
+Thong Kuah
+Backend Testing Performance
+Ruby on Rails
+CI/CD
+Kubernetes
+Topology Service Deployer
+Topology Service deployment configuration for Cells -
+https://docs.gitlab.com/ee/architecture/blueprints/cells/topology_service.html
+Assignments
+Maintainers
+David Leach
+Steve Xuereb
+Runner
+Reviewers
+Bojan Marjanović
+Backend Testing Performance
+Integrations
+Ruby
+Ruby on Rails
+REST API
+Sami Hiltunen
+Thong Kuah
+Backend Testing Performance
+Ruby on Rails
+CI/CD
+Kubernetes
+GitLab triage operations
+Triage operations for GitLab Issues and Merge Requests
+Assignments
+Maintainers
+David Dieulivol
+Backend Testing Performance
+Helm
+Kubernetes
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Jennifer Li
+Lee Tickett
+Nao Hashizume
+Peter Leitzen
+Backend Performance
+Backend Testing Performance
+Git
+Ruby on Rails
+RuboCop
+Ruby
+Shell Script
+Raimund Hook
+Rémy Coutable
+Git
+HAML
+Ruby on Rails
+Ruby
+Pipelines configuration of
+gitlab-org
+projects
+Engineering workflow tooling like Danger, RuboCop, linters, etc
+Triaging master-broken
+Reviewers
+Arianna Haradon
+Ievgen Chernikov
+Kev Kloss
+Pranshu Sharma
+Lohit Peesapati
+GitLab University
+Internal GitLab University
+Assignments
+Accessibility
+Accessibility tool for GitLab CI
+Assignments
+version.gitlab.com
+VersionDot application hosted by GitLab.
+The app provides version upgrade information to self hosted instances and receives product usage data payloads called Service Ping.
+It is owned by the
+Analytics Instrumentation Group
+.
+Assignments
+Maintainers
+backend (7)
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+Douglas Barbosa Alexandre
+Ruby on Rails
+Geo
+Plan
+Create
+Doug Stull
+Compute Minutes
+Free User Limit
+Gitlab Experiment
+Onboarding Experience
+Product Qualified Leads
+Ruby on Rails
+Trial Registration
+View Component
+Michał Wielich
+Niko Belokolodov
+database (4)
+Principal Engineer
+ClickHouse
+Ruby on Rails
+PostgreSQL
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+frontend (2)
+Doug Stull
+Compute Minutes
+Free User Limit
+Gitlab Experiment
+Onboarding Experience
+Product Qualified Leads
+Ruby on Rails
+Trial Registration
+View Component
+maintainer (13)
+Principal Engineer
+ClickHouse
+Ruby on Rails
+PostgreSQL
+Alper Akgun
+Gitlab Experiment
+Onboarding Experience
+PostgreSQL
+Product Qualified Leads
+Ruby on Rails
+Ruby
+Suggested Reviewers
+Trial Registration
+Vue
+Douglas Barbosa Alexandre
+Ruby on Rails
+Geo
+Plan
+Create
+Doug Stull
+Compute Minutes
+Free User Limit
+Gitlab Experiment
+Onboarding Experience
+Product Qualified Leads
+Ruby on Rails
+Trial Registration
+View Component
+Michał Wielich
+Niko Belokolodov
+Tiger Watson
+Ruby on Rails
+CI/CD
+Kubernetes
+PostgreSQL
+Reviewers
+backend (1)
+Piotr Skorupa
+database (1)
+Doug Stull
+Compute Minutes
+Free User Limit
+Gitlab Experiment
+Onboarding Experience
+Product Qualified Leads
+Ruby on Rails
+Trial Registration
+View Component
+frontend (1)
+Ankit Panchal
+reviewer (3)
+Ankit Panchal
+Doug Stull
+Compute Minutes
+Free User Limit
+Gitlab Experiment
+Onboarding Experience
+Product Qualified Leads
+Ruby on Rails
+Trial Registration
+View Component
+Piotr Skorupa
+www-gitlab-com
+This project primarily houses GitLab’s release posts on about.gitlab.com.
+Assignments
+Maintainers
+Chad Woolley
+CI/CD
+Coding at Scale
+Git
+Ruby on Rails
+Ruby
+Shell Script
+Lauren Barker
+Nathan Dubord
+Nuxt 3
+Vue
+CI/CD
+Frontend Architecture
+backend (1)
+Vasilii Iakliushin
+frontend (2)
+Enrique Alcántara
+TypeScript
+VS Code Extension Development
+Frontend Testing
+Frontend Architecture
+Accessibility
+Jacques Erasmus
+maintainer (3)
+Enrique Alcántara
+TypeScript
+VS Code Extension Development
+Frontend Testing
+Frontend Architecture
+Accessibility
+Jacques Erasmus
+Vasilii Iakliushin
+Finding a reviewer
+In addition to the lists on this page, the
+GitLab review workload dashboard
+provides an interface to find available reviewers and maintainers.
+This page is populated automatically as documented in
+projects.md
+.
+Last modified April 28, 2025:
+Cleanup and reorg shortcodes (
+eef3c341
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

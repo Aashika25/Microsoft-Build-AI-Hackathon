@@ -1,0 +1,107 @@
+SOURCE: https://handbook.gitlab.com/handbook/sales/onboarding/
+============================================================
+
+GitLab Academy
+GitLab Academy is the onboarding program for all new hires in the CRO org. It is our most ambitious onboarding experience yet — a blended learning journey designed to get new field team members customer-ready within their first 30 days.
+About GitLab Academy
+GitLab Academy is a blended learning journey combining self-paced eLearning, buddy programs, live virtual workshops, and an in-person graduation event, designed to get new field team members
+customer-ready
+within their first 30 days.
+GitLab Academy is a multi-layered experience. In addition to the four program components, new hires are supported throughout by three simultaneous layers of engagement:
+Hiring manager
+— sets expectations, coaches role readiness, and debriefs throughout the sprint journey
+Onboarding buddy
+— a peer resource for day-to-day questions and cultural orientation during the first weeks
+Shadow program
+— structured customer-facing shadowing to contextualize and apply learning in real situations
+The program is built on three principles:
+Curated, focused content
+— new hires learn what matters most for their role, not everything at once
+Role readiness
+— by the end of Academy, reps are certified and expected to perform immediately in customer-facing situations
+Accountability
+— completion is mandatory, with clear certification gates throughout
+New hires are enrolled on a rolling, weekly basis.
+GitLab Learner Journey
+Program Structure
+GitLab Academy is organized into four components that run across the first 6-8 weeks of onboarding, with simultaneous engagement from hiring managers and buddies throughout.
+Component 1: GitLab Foundations
+Self-paced, role-based eLearning covering foundational product knowledge, GitLab’s positioning and differentiation, and an overview of the revenue organization.
+Topics include:
+GitLab Platform and Modernization Foundations Course
+— The starting point for all Academy new hires. This suite of courses covers who we are, our platform, pricing, and core value stories, with product enablement on DevOps, AI, and Security Modernization, and the Intelligent Orchestration certification.
+The Revenue Org and Culture (“Who we are”) — org structure, culture, intro to departments
+Product, Positioning, and Differentiation (“What we sell”) — AI Modernization (including DAP certification), DevOps Modernization, Security Modernization
+Role-based learning paths for: xDRs, Enterprise/Commercial Sales, New Business Sales, Ecosystem Sales, SA, CSM/A, CSE, Renewals Manager, PS and All Other Roles
+Checkpoint:
+Complete all coursework and pass knowledge checks by end of Week 3
+Component 2: Value Sales Methodology
+Live, virtual, facilitator-led sessions covering GitLab’s value selling framework and discovery methodology.
+Topics include:
+GitLab Sales Methodology and Sales Process (“How we sell”)
+Value Messaging
+Cross-functional collaboration breakouts
+Stand-and-deliver preparation
+Format: Four 2-hour sessions
+Checkpoint:
+Fully attend all workshops and the Command of the Message class; attendance is mandatory
+Component 3: Role Based Skills Development Sessions
+Live virtual workshops facilitated by business SMEs and stakeholders, focused on role-specific skills, tools, and processes. Tools and process content is delivered asynchronously (docs and video); live sessions are reserved for skills and behaviors like objection handling and negotiation.
+Role-based sessions available for: xDR, AE, First Order, SA, CSM/CSE, Renewals Manager, Professional Services, Ecosystem
+Format: Live virtual sessions offered on a rolling monthly rotation
+Checkpoint:
+Attend scheduled skills sessions and Command of the Message class
+Component 4: In-Person Bootcamp
+A 2-day regional event serving as both a cross-functional collaboration opportunity and the Academy capstone.
+Pre-requisite:
+Complete and pass Components 1-3 before attending
+Event structure:
+Day 1:
+Customer Lifecycle Workshop — Sales Process and Customer Journey, rules of engagement and handoffs, cross-functional exercises with adjacent roles
+Day 2:
+Certification — Build a Compelling Value Narrative, Differentiation and Discovery, Value Narrative Stand-and-Deliver Certification
+Format: A 2-day event with regional cadences as follows — AMER and EMEA approximately every other month; APJ runs quarterly.
+Checkpoint:
+Attend the in-person event and pass the role-specific capstone assessment
+Role-Based Onboarding
+GitLab Academy includes individual role-based learning journeys designed around the unique needs of each segment and role.
+Find your role-specific onboarding handbook page below:
+Enterprise, Commercial & Ecosystem Sales —
+Sales Onboarding (Shadow Program) Handbook
+Renewals Managers —
+RM Onboarding Handbook
+Customer Success (CSM/A) —
+CSM/A Onboarding Handbook
+Customer Success (CSE) —
+CSE Onboarding Handbook
+Solutions Architects —
+SA Onboarding Handbook
+Professional Services —
+Professional Services Handbook
+Sales and Business Development —
+SDR & BDR Onboarding (Tanuki Tech) Handbook
+Feedback
+Your feedback helps us improve. Please share your thoughts by reaching out to the Field Enablement team in
+#field-enablement-team
+on Slack.
+Graduating from Sales Onboarding
+Graduation requirements, assessment criteria, and manager guidance for the GitLab Revenue Academy.
+Sales & Customer Success Quick Start Learning Path
+Core curriculum for GitLab's Sales & Customer Success onboarding
+Sales Quick Start (SQS) Learning Objectives
+GitLab sales onboarding learning obejctives
+Sales Quick Start (SQS) Workshop
+Note: Sales Quick Start (SQS) has been replaced by the GitLab Revenue Academy. This page is …
+Targeted Sales & Customer Success Roles for Sales Quick Start (SQS)
+Targeted Sales & Customer Success Roles for Sales Quick Start (SQS) The Sales Quick Start (SQS) …
+Last modified May 22, 2026:
+Update / remove info (
+a952ee2f
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

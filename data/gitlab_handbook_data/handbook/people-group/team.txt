@@ -1,0 +1,35 @@
+SOURCE: https://handbook.gitlab.com/handbook/company/team/
+============================================================
+
+Meet Our Team
+More than 3,000 people have
+contributed to GitLab
+. The GitLab Inc. team consists of
+the following 2,662 team members. We believe we’re the world’s largest
+all-remote organization
+and we currently have team members in more than 65 countries and regions. You can get a sense of the team culture and our
+approach to
+inclusion
+by visiting our
+culture page
+.
+For Team Members at GitLab, you can see the most up to date page of current GitLab team members on
+Workday
+,
+The Loop
+, or
+Glean
+, and on a separate page we detail GitLab’s
+organizational structure
+.
+Last modified April 30, 2026:
+Remove team shortcode and replace urls (
+02172f8f
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

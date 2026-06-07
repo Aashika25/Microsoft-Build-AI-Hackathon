@@ -1,0 +1,203 @@
+SOURCE: https://handbook.gitlab.com/handbook/eba/
+============================================================
+
+Executive Business Administrators (EBAs)
+Intro
+This page details processes and general guidelines specific to the Executive Business Administrators (EBAs) at GitLab. The page is intended to be helpful, feel free to deviate from it and update this page if you think it makes sense.
+Executive Business Administrator Team
+Current executive support alignments can be found
+here
+ORG
+Executive Support Profession
+EXECUTIVE
+CEO
+Jeanne Rotenberry
+Staff EBA
+Bill Staples (CEO)
+Engineering
+Vange Ingan
+Sr EBA (on leave)
+Sara Jamieson
+(interim coverage)
+Siva Padisetty (CTO)
+Engineering
+Liki Simonot
+Sr EBA
+Tim Zallmann (VP of Engineering, Core Development)
+Michael Wildpaner (VP Engineering)
+Engineering
+Kyra Wright
+EBA
+Johnny Scarborough (VP of Support)
+Nitin Singhal (VP Data Eng & Monitization)
+Enterprise Technology & AI
+Christina Lettire
+Sr EBA
+Manu Narayan (CIO)
+Amie Bright (VP, Data)
+Finance
+Darci Tadich
+Staff EBA
+Jessica Ross (CFO)
+Finance
+Sarah Chapman
+Sr EBA
+Simon Mundy (Chief Accounting Officer)
+Danielle Ritter (VP of Internal Audit)
+Danelle Foust (VP Corporate Controller)
+Finance
+Anita Mall
+Sr EBA
+James Shen (VP of FP&A)
+Jim Gladen (VP of Tax )
+Yao Chew (VP of Investor Relations)
+Legal & Corporate Affairs
+Sharlene Seemungal
+Staff EBA
+Robin Schulman (CLO and Head of Corporate Affairs)
+Legal & Corporate Affairs
+Victoria Hutson
+EBA
+Craig Patrick (Chief of Staff, CLO & Head of Corporate Affairs)
+Rashmi Chachra (VP of Legal - Corporate & Compliance)
+Stacy Cline (Sr. Director of ESG)
+Legal & Corporate Affairs
+Amanda Wells
+EBA
+Eliran Mesika (VP of Corporate Development)
+Emily Plotkin (Sr. Director of Legal, Employment)
+Lynsey Sayers (VP of Legal, Privacy & IP)
+Dan Hodes (Sr. Director of Legal, Risk Management and Dispute Resolution)
+Sam Rizzo (Sr. Director of Public Policy)
+Marketing
+Linsea O’Shea
+Sr EBA
+Laura Fagan (VP, Regional Marketing)
+Özer Dondurmacioǧlu (VP, Product Marketing)
+Andy Ramirez (VP, Growth Marketing)
+People
+Jenn Quinn
+Sr EBA
+Rob Allen (CPO)
+Marcy Tavano (VP of People Business Partners and Team Member Relations)
+People
+Monica Battle
+Allia McCrank (VP of Total Rewards)
+Sherida McMullan (VP of Diversity, Inclusion and Belonging)
+Jessica Dallmer (VP of Talent Acquisition)
+Devin Rogozinski (VP of People Strategy and Engagement)
+Product
+&
+Marketing
+Heather Hardowa
+Sr EBA
+Manav Khurana (CPMO)
+Product
+Lindsey Beyl
+Sr EBA
+Jonah Sterling (Chief Design Officer)
+Stuart Moncada (VP of Product, AI)
+Oren Ben-Shaul (VP of Product Platforms)
+Product
+Jazmin Cox
+Sr EBA
+Omer Azaria (VP of Product, Security & Compliance)
+Anand Ahire (VP of Product, Core DevOps)
+Sales
+Missy Keasler
+Staff EBA
+Ian Steward (CRO)
+Sales
+Becky Piccone
+Sr EBA
+Rachael Rogers (Chief of Staff, CRO)
+Dorina Pulluqi (VP High Velocity Sales & Sales Development)
+Sales
+Lauren Traylor
+Sr EBA
+Sherrod Patching (Chief Customer Officer)
+Ted Ohr (VP, Professional Services)
+Sales
+Janice Parker
+EBA
+Craig Nielsen (VP, APJ Sales)
+Sales
+Kiran Gill
+Sr EBA
+Dave Hayward (VP Revenue, Strategy & Operations)
+Alex Picker (VP, Global Ecosystem)
+Sales
+Victoria Reinhardt
+Sr EBA
+Brian Wald (Field CTO)
+Michael Rooney (VP, Global New Business)
+Sales
+Claire Humphreys
+EBA
+Duncan Greenwood (VP, EMEA Sales)
+Security
+OPEN
+Sr EBA
+Jorge Lopez (Acting CISO)
+Security
+Destiny Jenkins
+EBA
+TBD
+Contact us
+Please reach out to us via DM in Slack if you’d like to connect.
+Meeting request requirements
+If you would like to schedule a meeting with a Leader at GitLab, please slack the appropriate EBA with the following information:
+Must have/optional attendees
+Meeting type: internal prep, client facing/customer, prospective customer, etc
+Urgency/ Desired timeframe: in the next two days, in the next week or two, etc
+Duration: 25 mins, 50 mins, etc.
+Subject of the meeting
+Provide context: include a link to the
+agenda doc
+and provide context in the document so that the EBA can adequately understand and prioritize your meeting with E-Group. The google doc is required to be included in the calendar invite. If you’re requesting the meeting, it is your responsibility to prepare the agenda document.
+Customer, Prospect and Partner Meetings with an E-Group Member
+Please follow the instructions above for scheduling a call with your customer, prospect or partner and an E-Group member at GitLab. Meetings with customers, partners and prospects require the following documents in order to schedule:
+Glean Executive Meeting Request & Briefing Document
+should be used for all meetings with Customers, Prospects, or Partners and provided to the EA at the time of the meeting request. Select file > Submit via glean agent. Please ensure you review and amend the document to reflect the purpose and primary focus of the meeting. The final product should be no longer than 3-4 pages. If you have any questions related to this process, please ping the Executive Business Administrator Team in slack. Optionally you may leverage the
+Executive Meeting Request & Briefing Document
+.
+For meetings with any E-Group member, please complete the briefing document and submit your request in
+#egroup-customer-meetings
+using the workflow in the channel.
+For in-person customer meetings, please coordinate with the
+respective EBAs
+on aligning all visit details. If the requested GitLab Executive does not have an EBA, please work with them directly.
+External Events & Speaking Engagement
+If you have a request for a member of E-Group to attend and speak at an event (keynote, panel, fireside chat, etc.), please fill out the
+Executive External Event Brief
+with the key information and email to the EBA supporting the Executive with your request. The EBA will review, provide feedback, and gain approval accordingly and confirm directly with you. If the request involves the CEO, please follow the process outlined here. The EBA to the CEO will gain approval from the function head of the requestor on whether the CEO will attend or not. Whether a new talk needs to be prepared or an existing one can be adjusted to the audience should be a part of the decision whether or not to participate in the event.
+In-Person Event Meeting Template
+Interview Requests with Executives
+The process outlined below should be followed for requesting interviews with any executives. The Candidate Experience team and Executive Business Administrator team will adhere to a 24 hour working day SLA response time for scheduling interviews. Hiring is a top priority at GitLab and the team should prioritize interview requests.
+The CES team will Slack the
+aligned EBA
+with all the required details for the interview
+Executive needing to be scheduled
+Length of Interview
+Any special timeframes
+Candidate Greenhouse link
+Within the message, the CES team will include a copy and pasted view of the candidates availability with the timezone specified
+The EBA can either:
+Provide the time and zoom link (if applicable) to the CES in the thread of the message to have the CES schedule within Greenhouse and send the confirmation email
+Navigate to Greenhouse to schedule the interview and then notify the CES team in the thread that the interview has been scheduled and the confirmation is ready to be sent. CEO and CRO scheduling is the exception and handled by the EBA to the CEO and CRO. Confirmations are sent directly from the EBA.
+The CES team will follow up, as necessary if no response has been received from the EBA within the 24 working day business hours
+CEO Scheduling & Preferences
+The CEO Support Team Chief of Staff to the CEO Cross-functional and multi-functional projects EBA to …
+E-Group Scheduling
+Find out how to schedule with E-Group members with Executive Business Administrators
+Last modified May 1, 2026:
+JazC Coverage Update file _index.md (
+ebefc60d
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

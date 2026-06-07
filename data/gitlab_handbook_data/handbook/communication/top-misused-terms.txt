@@ -1,0 +1,368 @@
+SOURCE: https://handbook.gitlab.com/handbook/communication/top-misused-terms/
+============================================================
+
+Top Misused Terms - GitLab Communication
+List of Top Misused Terms
+Below are terms people frequently use when they should use another term.
+Misused terms
+Alternatives
+Reason Why
+GitLabber
+GitLab team member
+"GitLabber" includes both the GitLab community and people who work at GitLab. When you want to refer specifically to people who work at GitLab,
+use “GitLab team member” instead
+.
+International
+Rest of world
+Non-US or global
+By definition, we are all international and global, regardless of where in the world we’re located. International and rest of world are often incorrectly used to speak to non-US, so we don’t use them to avoid confusion.
+Enterprise Edition to reference a specific code or "Paid" users
+EE Code or EE to reference a specific code or "Paid" users
+MIT Licensed (code is open source) and Proprietary (code is source-available) to refer to code.
+Free or Paid users to refer to types of users.
+Enterprise Edition to refer to the specific distribution.
+Community Edition and Enterprise Edition are only distributions, and not a license of our code, nor a pricing tier
+.
+Community Edition to reference a specific code or "Free" users
+CE to reference a specific code or "Free" users
+MIT Licensed (code is open source) and Proprietary (code is source-available) to refer to code.
+Free or Paid users to refer to types of users.
+Community Edition to refer to the specific distribution.
+Community Edition and Enterprise Edition are only distributions, and not a license of our code, nor a pricing tier
+.
+Hi guys
+Hi people
+Hi everyone
+We want to use
+inclusive language
+Aggressive
+Ambitious
+We want to
+attract a diverse set of people
+Employees
+Team members
+We have team members who are contractors
+Resources
+People
+We are more than just our output.
+Community
+Wider community to refer to people outside of the company
+People at GitLab are part of the community too
+.
+Radical transparency
+Intentional transparency
+Radical tends to be absolute and infers a lack of discretion. We are thoughtful and intentional about many things —
+informal communication
+,
+handbook-first documentation
+,
+onboarding
+, etc. — and have
+exceptions to transparency
+.
+Sprint
+Iteration
+We are in it
+for the long-term
+and
+sprint implies fast, not quick
+.
+Grooming
+Refinement
+The term has
+negative connotations
+and the word refinement is used by the
+Scrum Guide
+.
+Obviously
+Skip this word
+Using things like “obvious/as we all know/clearly” discourages people who don’t understand from asking for clarification. Also, be aware of the
+Curse of Knowledge
+when communicating.
+They
+[Do not refer to other teams at GitLab externally as "they" (e.g., "Well, they haven't fixed that yet!").]
+The Product team (example)
+There is no “they” or “headquarters” - there is only us as team members, and it’s one team.
+You could instead say something like “The Product team is looking at that issue…”.
+When used in the context of a pronoun, they is as valid as he, she, or any other pronoun someone decides to use.
+Deprecate
+Delete
+Remove
+We usually mean we’re removing a document or feature whereas deprecation is leaving the thing intact while discouraging its use. Unlike other terms on this list, there
+are
+times where “deprecate” is the right word, for example in the formal
+product process
+.
+Diverse candidate
+Diversity candidate
+Diverse team member
+Diversity team member
+Someone from an underrepresented group
+A single person cannot be “diverse.” Using “diverse” as a noun is an “othering” term. Instead, someone may be from an underrepresented group. It is okay to describe a team or any collection of people as “diverse”, however.
+Non-technical
+[used to describe a person]
+Usually, people mean “non-engineering.”
+Everyone has technical knowledge that they used to perform in their role.
+Documentation
+[used to describe the handbook or the way that we communicate]
+Handbook
+Communication or specific type of communication material
+Documentation often refers to the process of generating documentation after a change has been communicated. At GitLab, we
+write things down
+first
+and then communicate. This way there is no need for documentation after the communication, a step that is frequently skipped.
+Search
+Elasticsearch
+Global Search with the features Basic Global Search and
+Advanced Global Search
+.
+Log Search
+for the Analytics Stage logging feature.
+Issue Search and Merge Request search for filtering and searching in those content areas.
+Elastic log Stack
+when referring to Elasticsearch and Filebeat.
+There are many kinds of search in the GitLab application; use complete feature names to describe areas.
+Telemetry
+Seat link is the number of seats on a license
+Version check
+is what version of GitLab a subscription is using
+Usage ping
+is high-level data of how GitLab is being used in a license
+Snowplow
+is a dynamic site for web event analytics
+Google Analytics
+is a static site for receiving data from
+about.gitlab.com
+and
+docs.gitlab.com
+Database events is using the database records of GitLab.com to look at how people are using the application.
+Product Usage Data is
+data collected
+on the customer’s account to be used within GTM tools such as Salesforce, Marketo, or Gainsight to improve retention and expansion
+Avoid this word since it has the connotation of third-party analytics. It also is too broad so use something more specific.
+Rule of thumb
+Guideline or Heuristic
+Rule of thumb is of
+dubious historical origins
+and can be considered a violent or non-inclusive term.
+Deadline
+Due date
+Deadline
+may have violent origins
+and we use
+due date
+in our user interface for issues.
+locked and loaded
+prepared, ready, available
+Locked and loaded
+is a violent metaphor
+, referring to guns.
+Grandfathered
+Legacy
+Grandfathered has
+discriminatory origins
+.
+Whitelist
+Blacklist
+Allowlist
+Denylist
+Whitelist/Blacklist have connotations about value and map to racial terms.
+POC
+Proof of concept
+Point of contact
+POC is ambiguous. It is often used to mean
+proof of concept
+or
+point of contact
+and in some cases it’s unclear which is meant. It can also be used when referring to
+person/people of color
+, so it’s best to spell out the intended use.
+GitLab monitoring dashboard
+GitLab metrics dashboard
+Monitoring dashboard is too generic and is often confused with GitLab’s self-monitoring features.
+Second-class citizen
+Different class of team member
+Being treated like you don’t belong/like an outsider
+When referencing people, “different class of team member” or “being treated like you don’t belong/like an outsider” is preferred when discussing such environments, since citizen has political and socioeconomic connotations. In a
+hybrid-remote
+environment (e.g. not GitLab, which is
+all-remote
+), those outside of the office may feel inferior or deprioritized compared to coworkers who routinely work onsite.
+Top of the hour
+Bottom of the hour
+Start of the meeting
+While most timezones in the world are offset from UTC by a whole number of hours, a few are offset by
+30 or 45 minutes
+.
+Middleman
+Go-between
+intermediary
+middleperson
+It is gender-specific and therefore exclusionary.
+Poor man's solution
+Boring solution
+It is gender-specific and implies that someone with less money would come up with a substandard solution compared to someone who has more money.
+Senior moment
+I forgot
+We should not associate forgetfulness with senior citizens.
+Biweekly
+Bimonthly
+Twice weekly/monthly
+Every two weeks/months
+Biweekly and bimonthly are ambiguous terms.
+Functional group leader
+E-group
+leader
+The term “functional group leader” is a past term that has now been updated. See
+Org Structure
+.
+Functional group
+Department or team (depending on the context)
+“Functional group” is a past term that is no longer used. See
+Org Structure
+.
+Learning
+Playbook
+FAQ
+Standard Operating Procedure
+Training
+The entire Handbook is our standard operating procedure.
+Using these terms can confuse and lead to duplicate content. For example: Call it Contract Negotiation Handbook instead of Contract Negotiation Playbook
+White-collar workers
+Blue-collar workers
+Knowledge worker
+Trade worker
+The original terms are outdated references and have socioeconomic connotations. There are also other
+color classifications
+that are less common.
+Customer names mentioned in recorded or streamed meetings
+Refer to a Google doc agenda listing the customer name
+Use a codename
+We want to train ourselves to not mention customer names to allow us to be as
+transparent
+as possible.  Whenever possible, we want to publicly stream our meetings to YouTube and to do that we need to be in the habit of not mentioning customer names. So we should avoid mentioning them even in
+privately streamed meetings
+.
+Portal
+CustomersDot
+Stripe
+Zuora Billing
+The (Customer) Portal is an overloaded term that has come to represent multiple aspects in GitLab’s Fulfillment process. To disambiguate the different components of the system we should use more specific language.
+Black Mark
+Blemish
+Blot
+This phrase is meant to refer to a situation where someone remembers something you did and holds it against you unfairly in a later circumstance. However, it can unintentionally reinforce the idea that black is associated with negative or undesirable traits.
+Poaching
+Raiding
+Voluntary Attrition
+Recruiting
+In the recruiting industry these are common terms to refer to companies targeting other company’s team members to hire them away. But they are violent and warlike. So it’s better to use the more literal, technical terms. While we want to keep voluntary attrition low as a company we should never forget that it is great for our team members if they get lots of great offers from other companies.
+High Availability
+Reference Architecture
+Scaled Architecture
+All solutions come with a
+trade-off between cost/complexity and uptime
+. Each availability component comes with complexity and maintenance. Users should thoroughly analyze the benefits of a solution against its costs and the team’s readiness.
+Final Solution
+Completed Solution
+While often natural to use this phrase when referring to a theoretical end-point of a developing feature there is
+historical sensitivity
+around the term and its use during World War II.
+Homepage
+Marketing Homepage
+Homepage Content
+Both about.gitlab.com and gitlab.com has a
+homepage
+. Use “marketing homepage” to reference the homepage of
+about.gitlab.com
+and “homepage content” to reference the homepage of
+gitlab.com
+.
+CPO as an abbreviation for Chief Product Officer
+CProdO
+Avoid name collision with our
+Chief People Officer
+.
+TAM as an abbreviation for Total Addressable Marketing
+TAMkt
+Avoid name collision with the job-family of
+Technical Account Manager
+Drinking the Kool-Aid
+Living our Values
+This term is used pejoratively to refer to a person that believes dangerous ideas.
+It can also be used with humorous intent to refer to extreme beliefs, particularly in the startup realm where companies are celebrated for disruption.
+Unfortunately, it’s a reference to the
+Jonestown
+mass-suicide incident that took place in Guyana in 1978, and should be avoided because we don’t use violent analogies.
+War of Attrition
+Game of Cat and Mouse
+A “war of attrition” refers to a prolonged conflict where each side seeks to wear out the other by a series of small actions. This might be used to refer to activities such as fending off comment/issue spam content or abuse of our CI system to mine cryptocurrency. A Cat and Mouse game refers to a constant pursuit with near captures and repeated escapes, which is preferable because it’s less violent and not a reference to warfare.
+Livestream
+Public or private stream
+“Livestream” is ambiguous as to whether the stream is publicly or privately available. Using “public livestream” or “private livestream” is too long and people often shorten it to “livestream.” To ensure everyone knows the visibility settings of the stream, use “public stream” or “private stream.”
+Seasons (Autumn/Fall/Spring/Summer/Winter)
+Months (Jun-Aug, Mar-May etc) or more precise date ranges.
+Seasons are different in the Northern vs Southern hemispheres and can
+vary culturally
+too, meaning they are not only imprecise but they can also be exclusionary to the other hemisphere or non-Western cultures.
+Master (unless used to describe the mastery of a specific topic. )
+Slave
+Leader
+Follower
+Primary
+Secondary
+This language can be used to describe an unequal and harmful relationship between people. We can use language that is more consistent with our
+DIB values
+. The word “master” can be used in the context of mastery of a specific topic such as receiving a Master’s Degree.  In data, we master certain data categories like customer, product, employee etc. We will use the industry term Master Data Management (MDM) as a way to communicate our mastery over the topic of data.
+Zuora
+Zuora Billing
+Zuora CPQ (Configure Price Quote)
+Zuora Revenue
+Zuora Orders
+Alternatively, you can say Billing, Collect, Revenue, Orders, etc.
+Zuora offers many products and using the term by itself does not specify what Zuora product you are referring to. Specifying the Zuora product will provide clarity and context to your audience.
+CultureAmp
+The name of the specific survey you are referring to - i.e., Global Benefits Survey, Engagement Survey, Values Survey, Inclusion Survey, etc.
+CultureAmp offers many surveys and using the term by itself does not specify which CultureAmp survey you are referring to. Specifying the CultureAmp survey will provide clarity and context to your audience.
+Reduction in Force (RiF)
+Redundancy or dismissal for operational reasons
+RIF
+is short for Reduction in Force referring to “labor force” or “work force”, we don’t use this terminology to refer to team members or former team members. “Force” also has violent implications that should be avoided.
+PII
+Personal Data
+PII is not the term used in most privacy laws and by definition PII is more narrow that what is legislated under global privacy laws. Personal Data is described in
+in the Privacy Handbook
+and
+the GitLab Data Classification Levels
+.
+GitLab SaaS
+SaaS (when referring to GitLab.com or Dedicated)
+GitLab.com or .com
+GitLab Dedicated or Dedicated
+Both GitLab.com and GitLab Dedicated are delivered as SaaS applications, which as a group we refer to SaaS.
+Consumption Pricing
+The more specific consumption building block from the
+Internal Pricing Handbook
+Consumption can be defined in multiple ways, and when discussing a particular pricing strategy or product it’s important to be specific.
+dark pattern
+deceptive pattern
+inaccessible pattern
+confusing pattern
+discriminatory pattern
+exclusionary pattern
+The phrase is meant to refer to a design pattern that causes a problem for users. Dark is used to mean bad which can unintentionaly reinforce the idea that dark is associated with negative or undesirable traits. More descriptive terms are better in general and help people understand more about the specific problem encountered.
+Slack
+Slackbot (
+via configuration
+) can remind team members when they use a misused term.
+Last modified June 27, 2024:
+Fix various vale errors (
+46417d02
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

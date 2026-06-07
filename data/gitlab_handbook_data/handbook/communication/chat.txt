@@ -1,0 +1,494 @@
+SOURCE: https://handbook.gitlab.com/handbook/communication/chat/
+============================================================
+
+GitLab Communication Chat
+Introduction
+At GitLab, Slack is critical to our communication with each other.  While it enables real-time communication, we also are careful to remain true to our asynchronous mindset, suggesting that GitLab team-members set “do not disturb” and not expect real-time answers from others all the time.
+There are groups of channels that can help with various areas of GitLab. This page speaks to a few subsets of those channel groups.
+Search
+Search for channels using either the
+Search GitLab
+toolbar, using a channel name with the
+#channel-name
+format,
+or
+go the left sidebar, click on
+More
+and then
+Channel browser
+.
+Channels
+Key Slack channels
+The alphabetically sorted starter list below spotlights a few of GitLab’s many Slack channels in an effort to provide guidance to team members regarding the best places to ask specific questions and/or engage in discussion on a variety of topics. See Slack’s
+Help Center
+for instructions on browsing all available channels.
+Channel
+Purpose
+#company-fyi
+Official company announcements, restricted permission levels to ensure high-signal; all GitLab team members are automatically added to this channel.
+#whats-happening-at-gitlab
+Open to all team members for unofficial updates which are important and/or useful to
+most or all
+of GitLab, including reminders, events, project updates, etc.; all GitLab team members are automatically added to this channel.
+#diversity_inclusion_and_belonging
+Stay up to date on GitLab’s latest
+Diversity, Inclusion and Belonging
+initiatives and share feedback and thoughts about how we can make our environment even more inclusive.
+#expense-reporting-inquiries
+For questions pertaining to
+expenses
+(e.g. Navan).
+#git-help
+Specific questions about using Git in the terminal.
+#is-this-known
+Get help in finding existing issues for existing problems.
+#it_help
+Create a Help Request in this channel should you have any IT general questions or trouble with setup (e.g. 2FA, accounts, etc.).
+#mr-buddies
+For any questions regarding merge requests.
+#new_team_members
+For new GitLab team members to introduce themselves to the company and for existing team members to share updates with new hires.
+#new-vacancies
+For all GitLab team members to be aware of internal opportunities, as well as all job openings as they are listed. Please review the
+referral process
+page to find out more about referring someone for a role.
+#payroll
+For questions pertaining to
+payroll
+and
+contractor invoices
+(e.g. ADP, etc.).
+#safe
+SAFE
+#security
+Security
+#talent-acquisition
+For questions about
+referrals
+, the
+hiring process
+, and/or candidate status.
+#team-member-updates
+To stay updated on transitions/promotions, new GitLab team members joining, work anniversaries, etc.
+General Channels
+There are a lot of general channels, just to name a few:
+#questions
+: Ask all of GitLab for help with any question you have… and then go document it after you find the answer :)
+#thanks
+: Where GitLab team-members can
+say thanks
+to those GitLab team-members who did a great job, helped a customer, or helped you! Also where managers recoginze discretionary bonuses for their teams.
+#office-today
+: GitLab is an
+all-remote
+organization. Where’s your office today?
+#remote
+: To share news, thoughts, feedback and anything else pertaining to remote work! Learn more about
+GitLab’s approach to remote work
+#travel
+: A place to discuss all things
+travel
+#women
+: Employee resource group for members and allies.
+#values
+: Channel to discuss iterations on GitLab values
+#random
+:  Socialize and share random snippets with your fellow GitLab team-members.
+Getting in touch with the e-group
+To get in touch with the
+e-group
+on Slack, you can use the following channels. When in doubt, you can use the general
+#e-group
+channel to reach out to the entire group.
+Member
+Channel
+CEO
+#ceo
+CFO
+#finance
+CProdO
+#product
+CTO
+#cto
+CRO
+#cro
+CMO
+#cmo
+CPO
+#cpo
+CLO
+#legal
+CISO
+#ciso
+Team Channels
+To raise an issue with a specific team, please use below most commonly used channels;
+#it_help
+: For IT related queries, Okta, issues with hardware, software, system access requests and user permissions etc
+#talent-acquisition
+: For referrals based questions, candidate alignments, general talent acquisition etc
+Channel Categories
+Account Channels (a_)
+These channels (prefixed with a
+a_
+) are for team members to collaborate and communicate regarding the account for a customer organization. Depending on the customer, they are sometimes internal, marked as private or we shared with the customer by connecting to customer’s own Slack workspace. In order to clearly differentiate between these shared and internal channels, we recommend using
+a_XYZ-internal
+and
+a_XYZ-external
+naming conventions to be explicitly clear (as the shared symbol can be easily missed in Slack).
+To request a new channel or to make changes to existing channels, please use the
+Slack Request
+form.
+Commercial (Mid-Market and SMB) accounts have specific guidelines around having Slack channels with customers.
+External Channels (ext-)
+These channels (prefixed with
+ext-
+) are used for communication with vendors or partners. They are typically shared channels between GitLab’s Slack workspace and the external organization’s Slack workspace.
+Example
+#ext-gitlab-abc
+: Shared channel with Customer/Vendor ABC for project collaboration and support.
+When using an external channel, ensure that you follow GitLab’s guidelines for external communication, including keeping information
+SAFE
+. External channels with no activity in the last year will be removed by CorpSec.
+Steps:
+Create an
+access request
+with template “slack_googlegroup_1Passwordgroupvault”.
+After the access request is approved by your manager, please invite the external party to our Slack workspace. This will generate a message in #shared-channels.
+Please share that access request by replying to the message generated in #shared-channels. An administrator will then approve the request.
+Feature Channels (f_)
+These channels are for teams and GitLab team-members interested in a specific feature that exists in GitLab or is being built today!
+Examples
+#f_web_ide
+: Share ideas and feedback about our
+Web IDE
+#f_ldap
+: Talk about our integration with
+LDAP providers
+.
+Group Channels (g_)
+Group channels (prefixed with a
+g_
+) correspond to a
+DevOps Stage group
+and other
+engineering departments and teams
+.
+Example
+#g_create
+: Channel for the
+Create
+development group.
+#g_create_source-code
+: Channel for the
+Source Code
+development group.
+#g_geo
+: Dedicated to the
+Geo group
+.
+Location Channels (loc_)
+These channels are used to help GitLab team-members who are in the same general region of the world to talk about get-togethers and other location-specific items. They are also instrumental if you’re going to be visiting somewhere else in the world - there might be a GitLab team-member or two nearby! Feel free to join the channel temporarily to chat with GitLab team-members who live there, and see if there is an opportunity to connect during your trip.
+If there’s a channel not listed below, please add in alphabetical order with an MR.
+Channel Name
+Description
+#loc_4corners
+people that live in Utah, Colorado, Arizona, and New Mexico for meet-ups
+#loc_adelaide
+For the growing team presence in Adelaide, South Australia!
+#loc_africa
+🇸🇹🇸🇱🇸🇨🇸🇳🇸🇩🇸🇸🇿🇦🇸🇴🇸🇿🇨🇬🇨🇩🇦🇴🇩🇿🇧🇯🇧🇼🇹🇩🇨🇫🇨🇲🇧🇮🇧🇫🇨🇮🇰🇲🇪🇷🇬🇶🇪🇬🇩🇯🇬🇭…
+#loc_alberta
+Locals to Alberta, Canada
+#loc_amsterdam
+Amsterdam location-specific channel
+#loc_annapolis
+#loc_arizona
+Discussion / Intro / Meetup for people in Arizona, USA
+#loc_avl
+Asheville, North Carolina 🍂🏔️🍂
+#loc_atl
+House channel for greater Atlanta area
+#loc_atx
+Austin, Texas!
+#loc_australia
+Australia Specific Chat
+#loc_austria
+A channel around the beautiful city of Vienna, come and visit us!
+#loc_bali
+Channel for those traveling to Bali in 2022.
+#loc_bayarea
+House channel for Mountain View.
+#loc_bc
+British Columbia, Canada
+#loc_belgium
+🇧🇪🍺🍫🍟
+#loc_berlin
+All things going on in Berlin, Germany. We are regularly meeting up on the 3rd Thursday of the Month.
+#loc_boston
+For folks living in or around the Greater Boston metro area; monthly coworking in downtown Boston second Wednesday of each month.
+#loc_brisbane
+Discuss all the Brisbane things
+#loc-budapest
+For those who love, live and work in Budapest
+#loc_canada
+All things Canada 🇨🇦
+#loc_cencoastca
+Connecting those living or passing through the Central Coast of California
+#loc_chennai
+#loc-chicagoland
+To connect folks in the Chicagoland area of the U.S.
+#loc_cincy
+#loc_clt
+For those who live in/near (or visit) the Charlotte, NC, USA area!
+#loc-costa-rica
+#loc_czech
+🇨🇿 living in or visiting Czech Republic?
+#loc_dallas
+#loc_delaware
+delaWHERE?
+#loc_delhi_ncr
+#loc_denmark
+#loc_denver
+All things Denver, CO and surrounding areas!
+#loc_digital-nomad
+Anyone else living the digital nomad life? Maybe let’s find spots to travel together! Share your travel plans if you’d like and make connections abroad 🙂
+#loc_dmv
+for people in and around DC, Maryland, Virginia
+#loc_dontmesswithtexas
+#loc-dublin
+Connection with the Dublin team
+#loc_egypt
+🇪🇬 Masr Heya Ommy 🇪🇬
+#loc_hamburg
+Local channel for Hamburg, Germany
+#loc_hawaii
+For people traveling to, or living in Hawaii
+#loc_houston
+#loc_hungary
+For folks living in or visiting Hungary
+#loc_iceland
+GitLab team members in Iceland
+#loc_idaho
+GitLab team members in Idaho
+#loc_india
+Indians at GitLab
+#loc_indianapolis
+Local Indiana/Indianapolis GitLab team members
+#loc_ireland
+#loc_israel
+Sync Locally for GitLab team members in Israel
+#loc_italy
+#loc_japan
+#loc_kansas-city
+Channel for KC GitLabbers
+#loc_kerala
+Anything about Kerala
+#loc_korea
+#loc_ky
+Location: Kentucky - Georgetown, Lexington, and Versailles
+#loc-latam
+For all team members from Latam , rest of the world welcome as well
+#loc_leipzig
+NY Times list of places to visit in 2020:
+https://www.nytimes.com/interactive/2020/travel/places-to-visit.html?place=leipzig
+#loc_lille
+#loc_london-uk
+London meetups!
+#loc_manchester
+Channel for GitLab team members from Manchester (UK) and it’s surrounding areas
+#loc_mars
+Being optimistic
+#loc_melbourne
+#loc_mexico
+For people living/visiting Mexico 🇲🇽
+#loc_michigan
+All Things “Great Lakes State”
+#loc-midwest-u-s
+To connect with GitLab team members in the Midwest region of the U.S.
+#loc_minnesota
+#loc_montreal
+#loc_moscow
+#loc_mt
+Montana GitLab Team Members
+#loc_munich
+🎡 A lot of people from Germany live in and around Munich. Additionally, there is a bi-weekly calendar series for co-working sessions.
+#loc_n-ireland
+N.Ireland slack channel, so it is
+#loc_nashville
+Nashvillians Unite!
+#loc_netherlands
+For anyone living or visiting The Netherlands
+#loc_newengland
+Channel for those located in New England
+#locnewyork
+#loc_nigeria
+#loc_noco_aka_loconoco
+Connect GitLab team members who are in Boulder, Larimer and Weld Counties of Northern Colorado
+#loc_nrw
+For all folks from North Rheine-Westphalia(NRW), Germany. 🐴
+https://www.youtube.com/watch?v=ReIJAtyslyE
+#loc_nuremberg
+Franconia, Germany - gingerbread, sausages, and more
+#loc_nyc
+Coordinate NYC-area coworking days and other events. Let us know if you’re coming to town, and see our visitors doc! 🇺🇸 🗽
+https://docs.google.com/document/d/1aTW4P0V44S9hBppStCOVl3bfLq6qW6hoJFW_Er6HOdA/
+#loc_nz
+🇳🇿 For those visiting, living in or interested in Aotearoa New Zealand. Also half of
+#loc_australia
+is in here too.
+https://docs.google.com/document/d/1VijZowFu8WpyV17MtRtrvz1GUqw9Y5Bcf-OkUOEU774/edit
+#loc_ohio
+For GitLab team members in the Buckeye State
+#loc_ottawa
+#loc_pdx
+For GitLab team members in/around Portland Oregon
+#loc_perth
+Join us (me) for enthralling (adequate) Perth, Australia conversation
+#loc_philadelphia
+Philly local items/discussion/events
+#loc_philippines
+#loc_pittsburgh
+A city of bridges, 3 rivers and fries on top of salads
+#loc_pnw
+For GitLab team members living in or visiting the Pacific Northwest (Cascadia): Washington, Oregon, and BC (Canada), includes Seattle and Portland.
+#loc_poland
+For anyone living or visiting Poland 🇵🇱
+#loc_portugal
+For anyone living or visiting Portugal 🇵🇹
+#loc_qld
+Queeeeeeeenslander!
+#loc_quebec
+All things Quebec ⚜️
+#loc_ratingen
+I guess it’s just me
+#loc_rdu
+For those who live or visit the Raleigh Durham area in North Carolina, U.S.A.
+#loc_romania
+🇷🇴
+#loc_russia
+#loc_sacramento_reno
+Visiting Sacramento, Roseville, Folsom, Elk Grove, Rocklin, Reno or even Tahoe? For GitLab team members based in the area and anyone who is visiting
+#loc_sanantonio
+Channel for San Antonio GitLab Team Members
+#loc_sask
+Saskatchewan (Canada) folks.
+#loc_sc
+For GitLab team members living in South Carolina.
+#loc_scotland
+Aye
+#loc_serbia
+#loc_singapore
+#loc_slovenia
+#loc_socal
+🌴🇺🇸
+#loc_south_africa
+Mzanzi! 🇿🇦🇿🇦
+#loc_south_east_asia
+Chat for people staying / visiting ASEAN
+#loc_spain
+#loc_switzerland
+Everything Switzerland 🇨🇭
+#loc_sydney
+#loc_taiwan
+#loc_tn
+Tennessee!
+#loc_tokyo
+Location: Tokyo, Japan
+#loc_toronto
+This is a channel for the Toronto team members.
+#loc_turkey
+This is a slack channel for Turkey
+#loc_uk
+For folks living, visiting, or interested in the United Kingdom
+#loc_us_mid-atlantic
+US Mid-Atlantic states
+#loc_usa
+General channel for USA
+#loc-utah
+#loc_vegas
+Are you visiting Vegas soon for fun or a conference? Connect with Vegas locals here for coffee meet-ups or recommendations!
+#loc_vermont
+For our sole Vermonter ❤️
+#loc_wales
+🏴󠁧󠁢󠁷󠁬󠁳󠁿 - Come to discuss dragons, Brains 🍺 and rain 🌧
+#loc_warsaw
+Connection to Warsaw team
+#loc-west-lafayette
+West Lafayette, IN GitLab team members
+#loc_wny
+Western New York GitLab team members
+#loc_yugoslavia
+whatever you wish
+Project Channels (proj_)
+These channels are temporary and used to focus communication around a specific project. As an ephemeral channel they are archived once a project is complete and can be found in Slack by searching for
+proj_
+Working Group Channels (wg_)
+These channels are temporary and used to focus communication around a specific working group. As an ephemeral channel they are archived once the working group’s exit criteria is met and can be found in Slack by searching for
+wg_
+Stage Channels (s_)
+Stage channels (prefixed with
+s_
+) correspond to stages within sub-departments.
+Examples
+#s_enablement
+: For the
+Enablement stage
+.
+#s_create
+: For the
+Create stage
+.
+Social Groups
+In addition to weekly company group calls that bring us together, GitLab has Social Slack Groups. Social Groups are Slack channels that bring team members together around common interests, hobbies, and lifestyles. Think tennis club, gaming, shell collectors, movie buffs, faith groups, football. You can see a list of Social Slack Groups and their tags below. Feel free to join any that resonate with you. This is a non-exhaustive list, but if you don’t see a group you’d love to see on the list, reach out to our diversity, inclusion and belonging team and we’d love to explore your idea.
+Examples:
+#all-caps
+: Light-hearted conversation in ALL CAPS.
+#bookclub
+: A place for bibliophiles to connect, share recommendations and discuss their latest reads.
+#cats
+,
+#dog
+,
+#cute-animal-photos
+: Show us your cutest pics of your pets! We love all pets, but we made special channels for cats and dog(s).
+#cheerleader
+: When you need or want to share encouragement and support!
+#cooking
+: Share your favorite recipes, and brag about your homemade dishes.
+#dad_jokes
+: Self-explanatory really, give us your best dad jokes!
+#emilys
+: For all the Emily/ie/ia/ees at GitLab.
+#fitlab
+: Channel to discuss fitness and related topics.
+#gaming
+: Discuss gaming (both tabletop and video). We also have a Discord linked in the topic.
+#i-made-this
+: Did you make a thing? Or are you in the process of making a thing? Whatever it is, tell us about it and post a photo!
+#office-today
+: Where’s your office today? Share a photo or use words to describe it.
+#lego
+: Build, inspire, play. Share your builds and invite your children.
+#lgbtq
+: Space for LGBTQ people and allies in GitLab to chat and support each other.
+#managers
+: Share ideas, thoughts, and issues on all things to do with being a manager at GitLab.
+#mental_health_aware
+: Mental health is
+super important
+and we realize that. This is a place to discuss concerns you might be having or find someone to talk to if you’re feeling alone. We aim to be supportive and available for all who need it.
+#music
+: Share your current playlist or any interesting music you come across.
+#postcrossing
+: Send team members postcards from your home cities, towns and villages from around the world.
+Last modified March 18, 2026:
+Fix broken Communication links (
+8b015edf
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

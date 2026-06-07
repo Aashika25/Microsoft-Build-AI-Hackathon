@@ -1,0 +1,7 @@
+streamlit
+openai
+pinecone
+python-dotenv
+crewai
+beautifulsoup4
+requests

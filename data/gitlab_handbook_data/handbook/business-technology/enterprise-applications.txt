@@ -1,0 +1,37 @@
+SOURCE: https://handbook.gitlab.com/handbook/business-technology/enterprise-applications/
+============================================================
+
+Organizational Structure
+The Enterprise Applications Team implements and supports specialized applications that support our business processes within GitLab.
+Enterprise Applications Divisions
+The
+IT Enterprise Applications
+team oversees the business technology architecture and systems that power GitLab as a business entity. We ensure that the systems are fit-for-purpose, available, reliable, integrated and secure. We continue to build business aligned technology to run operations, layering integration and automations to support remote work, enhance team member and customer experience, and generate value.
+Our team members bring diverse expertise to ensure we deliver high-quality solutions and support for our internal customers. Please refer to the directory listing below to review the individual divisions, polices, and procedures that encompasses
+IT Enterprise Applications
+Architecture & Integrations
+About Us We are the team that designs, builds and maintains the complex ecosystem of integrations …
+Enterprise Application Guides
+GitLab's Enterprise Application Guides for Finance Systems
+Enterprise Applications - CRM Team
+The CRM Systems team at GitLab is dedicated to revolutionizing how we engage with our customers by seamlessly integrating Salesforce and Zuora into a unified, powerful platform. We focus on building and maintaining solutions that enable GitLab to manage the entire customer lifecycle effectively, ensuring every interaction is meaningful, efficient, and aligned with our business goals.
+Our expertise lies in Customer Relationship Management (CRM) and billing ecosystems, where we leverage cutting-edge technology to simplify processes, enhance user experience, and support GitLab's growth strategy.
+Enterprise Applications - PMO
+About Us We are a global team dedicated to developing and managing cutting edge IT systems and …
+Enterprise Applications Team G&A (Finance Systems)
+The Enterprise Applications Team for General and Administrative (G&A) functions specializes in implementing and supporting critical applications that streamline and optimize GitLab’s internal business processes. Our primary focus is on enabling efficiency and scalability across the procure-to-pay and record-to-report processes, ensuring seamless operations in alignment with GitLab’s growth and compliance requirements.
+IT Compliance
+IT Compliance works collaboratively with multiple functional teams throughout the GitLab organization to ensure compliannce with various requirements related to financial reporting and security.
+IT Enterprise Applications Services
+About Us Enterprise Application Services (EAS) provides horizontal support, operations, …
+Last modified August 20, 2024:
+Updates to IT Enterprise Applications and Business Technology Handbook Pages (
+7dda85c2
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

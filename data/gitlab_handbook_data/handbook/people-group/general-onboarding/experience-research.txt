@@ -1,0 +1,359 @@
+SOURCE: https://handbook.gitlab.com/handbook/product/ux/experience-research/
+============================================================
+
+Experience Research at GitLab
+We deliver end-to-end insights, from Brand to Product, that inform what we build and how we position it, shaping decisions at every stage.
+The Experience Research team at GitLab is responsible for conducting User Experience (UX) Research, Brand and Marketing Research, and
+Service Design
+, with the support of our own
+Research Operations (ReOps)
+specialists.
+Our Strategic Principles
+Principle 1: Strategic Focus Over Broad Coverage
+We allocate 100% of our research capacity to strategic business areas that drive
+differentiation, growth and retention
+, meaning we will only be supporting a selection of initiatives or teams from the verticals below:
+Brand and Marketing
+Core DevOps Workflow
+Monetization and Analytics
+Infrastructure Platforms
+AI
+Security and Compliance
+Docs Sites
+Principle 2: Innovative Insights Over Confirmation Studies
+We prioritize research that could reveal game-changing opportunities over studies that confirm what we already suspect with high confidence.
+Our research will be hypotheses led, and we prioritize:
+High-Risk, Low-Confidence Hypotheses
+: Questions where being wrong could cost us significantly, but being right could unlock major opportunities
+Differentiation Gaps
+: Understanding where users struggle in ways our competitors haven’t solved
+Unmet User Needs
+: Discovering problems users can’t articulate but would pay to solve
+How we work:
+We partner with Product, Engineering, Design, Data, Customer Success and Marketing teams to identify knowledge gaps, and validate them
+We observe and focus on real user behaviors and needs, and opportunities in core journeys, not edge cases
+Principle 3: Sustainable Intelligence Over One-Off Studies
+We build instrumentation that provides continuous insights with minimal ongoing effort, enabling faster decision-making.
+Our instrumentation strategy:
+We work with cross functional partners to identify
+critical user experiences
+to track
+We identify and report openly and frequently on core UX quality metrics and deep-dives for strategic insights intervention
+We work with our counterparts to prioritize improvements when metrics drop below defined thresholds
+How We Say No
+We decline research that:
+Doesn’t connect to strategic business areas
+Seeks to confirm high-confidence, low-risk assumptions and table-stakes
+Can be answered through existing data or quick usability tests
+Addresses edge cases affecting a small percentage of users
+Instead we offer:
+Guidance on self-service research methods, see [this section](### How to Work with UX Research) for more information.
+Data analysis support from our analytics partners
+Inclusion in future strategic research cycles
+Success Metrics
+We know our strategy is working when:
+Business Stakeholders, from Brand to Product, proactively seek our input on strategic decisions
+Our insights directly contribute to measurable improvements in core KPIs and UX Metrics
+We can point to
+specific competitive advantages
+discovered through our research
+We Iterate Quarterly
+Every quarter, we assess:
+Resource Allocation: Are we truly focusing our effort on strategic areas?
+Impact Measurement: Which studies led to the biggest business impact?
+Principle Refinement: Do these principles need updating based on business changes?
+We Do Research, So Can You
+Who we research
+The Experience Research team researches customers, end users, potential users, stakeholders, competitor users, and specialized user groups to ensure the product meets diverse needs and expectations.
+How we research
+Using a range of research methodologies (including user interviews, surveys, usability testing, diary studies, and card sorting) we collect raw data on user behaviors, needs, and preferences.
+We then apply rigorous data analysis and synthesis to transform this data into valuable insights that inform and shape the design and development of our products.
+How we help other GitLab team members do research
+Note that UX Researchers are
+one of the many
+GitLab Team Members who conduct user research. Other roles, such as Product Managers and Product Designers, frequently conduct research with guidance from the Experience Research team. All Research DRIs are supported by our
+Research Operations team
+to conduct efficient and high-quality research.
+If you are planning to lead a research project, you can get started
+here
+.
+How to Work with Experience Research
+As a GitLab Customer
+Customers: we welcome you to sign up as a research participant or research panelist!  We are always looking for a range of professionals to take part in our studies, and would love to have you sign-up. You can read more about
+what to expect as a research participant
+, and register your interest in
+taking part in future research
+.
+What you get in return
+:
+Influence Over Design and Product Decisions
+: Your feedback will be heard and considered in future design and product decisions directing anything from feature improvements to product strategy.
+Smoother Experience and Better Product
+: Your insights will help us shape a product that better fits your day-to-day needs, improving your overall experience and productivity.
+As a GitLab internal team
+We’d love to collaborate with you, gather your perspective, and partner with you to engage our customers. If your team interacts with customers and users as part of your daily role or make decisions that influence the customer/user experience of GitLab products, we’d love to hear from you!. Here’s how you can partner with us:
+Ensure Your Customers Are Represented in Our Research
+: You can nominate customers as research participants by sharing their details in the #reops channel or direct your customers to
+the Experience Research Panel
+to register their interest.
+Share what you know through GitLab User Insight Repository
+: Share what you learn about your customers in the #experience_research channel, or connect with a designated UX researcher for specific stages or themes.
+Identify Areas for Improvement That Need Further Research (unknown)
+: If you notice areas that could benefit from deeper exploration, feel free to mention it in the #experience_research channel or contact
+the UX researcher for the relevant stage or theme
+. Providing a related issue for reference would be a bonus!
+Leverage Research Insights to Guide Your Work
+: Stay updated by checking out the #experience_research_reports channel for the latest insights. You can also explore
+Dovetail
+, our research insights management tool, to search by keywords or watch interview session recordings. You can also consult with
+the UX researcher for the relevant stage or theme
+, to be more informed when making design, product or customer engagement decisions.
+What you get in return
+:
+Informed Decision-Making
+: The Experience research team provides valuable insights based on user behavior and feedback, helping internal teams make informed, data-driven decisions throughout the product development process.
+Risk Mitigation
+: Experience research helps identify potential issues early in the development process, allowing internal teams to address these challenges before they escalate, thereby reducing the risk of costly mistakes or misaligned products.
+Do you have questions about Experience Research?
+The Experience Research team is here for you! Reach out in the
+#experience_research
+Slack channel to engage with the team on any research-related topic.
+Have questions about logistics around recruiting, scheduling participants, accessing research tools or anything else related to Research Operations? The
+#research_operations
+channel is the channel for these types of inquiries.
+Below is a full list of our Experience Research team handbook content:
+Conducting Experience Research at GitLab
+Resources for research DRIs
+When to conduct Research
+Defining goals, objectives, and hypotheses
+Problem Validation and methods
+Solution Validation and methods
+Foundational research
+Strategic research at GitLab
+Research tools/applications
+UX Cloud Sandbox
+research in the AI space
+Research methods we use at GitLab
+Choosing a methodology
+Surveys
+Designing your survey
+Common types of survey questions
+Survey question scales
+Sample sizes for surveys
+Piloting your survey
+Qualtrics Tips and Tricks
+How to identify low quality data when designing and reviewing your survey
+Jobs to be Done
+Longitudinal studies
+Diary studies
+Mental modeling studies
+Kano Model for feature prioritization
+User story mapping
+User journey mapping
+Rapid Iterative Testing and Evaluation (RITE)
+Usability testing
+Usability benchmarking
+Unmoderated usability testing
+Writing a website usability testing script
+UX Bash
+Preference testing
+Facilitating user interviews
+Writing a discussion guide for user interviews
+How to create a user persona
+Evaluating navigation
+Testing navigation: early Solution Validation
+First click testing for navigation
+Creating a first click study in Qualtrics
+RITE testing for navigation
+Comparative testing for navigation
+Finding participants
+How to write an effective screener
+The Common Screener: an efficient way to screen for multiple studies
+Recruiting participants
+Using the UX Research Google Calendar
+Attending a research event
+Creating and managing a research participant panel
+Data and research insights
+GitLab Research Library
+Finding existing research
+Collecting useful data
+Using quantitative data to find insights
+Analyzing and synthesizing user research data
+Analyzing survey verbatim
+Research insights
+Documenting research insights in Dovetail
+Product Analytics for UX Research
+Templates
+UX research report template (internal link)
+User interview note-taking template (internal link)
+Usability testing script template (internal link)
+Usability testing rainbow analysis chart template (internal link)
+Recommendations alignment Figjam template (internal link)
+Usability benchmarking alignment Figjam template (internal link)
+Auto Time on Task (internal link)
+Checklists
+User interviews (internal link)
+Surveys (internal link)
+Usability testing (internal link)
+UX Research training
+Interview Carousel - Becoming a better interviewer 15 minutes at a time
+UX Research shadowing
+When to conduct UX Research training (internal LevelUp course)
+Resources for UX Researchers
+How the UX Research team operates at GitLab
+UX Researcher pairings
+Research prioritization
+The IP Assignment and when to show it
+How to fill in for a Research Operations Specliaist
+UX Research growth and development
+Non-Disclosure Agreements for UX Research
+How to publish a blog post to encourage community contributions on Actionable Insights
+How to Conduct UX Research Workshops
+How to use AI in UX research
+Resources for UX Research Operations Coordinators
+UXR Operations Coordination at GitLab
+Recruitment methods
+Research participation gratuities
+Getting the word out about research insights
+ReOps procurement best practices
+Finding SaaS users
+UX research recruiting email tips
+Measures and processes the UX Research team is responsible for
+User Satisfaction Plus (USAT+) Survey
+System Usability Scale
+USAT+ Responder Outreach
+Tracking research velocity
+Tracking gold, silver, and bronze UX research projects
+Tracking actionable insights
+Rapid Validations
+Analyzing and synthesizing user research data
+Guidelines for how to analzye survey verbatim
+Analyzing survey verbatim
+Guidelines for how to analyze survey verbatim
+Attending a research event
+Best practices when attending a research event.
+Choosing a research methodology
+How to choose a research methodology: detail vs frequency, user characteristics, and fidelity of insight
+Collecting useful data
+You can use your research objectives to create categories you can reference as you take notes to make sure you are capturing the most salient information.
+Community contributions for Actionable Insights
+Engaging the wider GitLab community to get Actionable Insights fixed
+Comparative testing for navigation
+Comparative, qualitative usability testing enables you to get feedback on 2-3 designs early in the …
+Creating a first click study in Qualtrics
+This page details how to set-up first click tests in Qualtrics.
+Creating and managing a research participant panel
+How to create and manage a research participant panel
+Defining goals, objectives, and hypotheses
+Conducting user research takes a significant amount of preparation before you even begin asking users anything.
+Diary studies
+What are diary studies and when to use them
+Doing UX research in the AI space
+How to conduct UX research in the Artificial Intelligence (AI) space, including research guidelines.
+Evaluating navigation
+When proposing navigation changes, it's important to proceed with high confidence. We evaluate how changes perform compared to our existing experience using a set of defined methods.
+Facilitating user interviews
+Tips and tricks for succesfully conducting user interviews.
+Finding SaaS users
+How we target SaaS research participants to meet specific criteria
+First click testing for navigation
+What is first click testing? First click testing is used to determine if participants are able to …
+Foundational research
+Foundational research (also referred to as generative research, exploratory research, pathfinding …
+GitLab Research Library
+Your central hub for UX research insights, findings, and knowledge discovery.
+How the UX Research team operates at GitLab
+Our team structure, working model, resource allocation, and more
+How to Conduct UX Research Workshops
+The UX Research workshop process at GitLab
+How to find existing research
+Ways to find existing research insights.
+How to recruit UX Research participants
+How to find the right participants for research studies at GitLab
+How to write an effective screener
+How to write an effective UX research screener at GitLab
+Interview Carousel - Becoming a better interviewer 15 minutes at a time
+A lightweight and fun training to improve your user interviewing skills
+Kano Survey for feature prioritization
+Kano model provides a simple and powerful way how to think about the features that we plan to build.
+Longitudinal studies
+What are longitudinal studies and when to use them
+Mental modeling
+A brief overview of how we do mental modeling research at GitLab
+Preference testing
+How to determine which design your participant prefers.
+Problem validation and methods
+How to conduct problem validation research at GitLab
+Problem Validation research for single-stage-group initiatives
+Problem Validation research for single-stage-group initiatives usually focuses on specific behaviors relating to one stage group, such as: How do Release Managers do their job?
+Product Analytics for UX Research
+This page provides useful information and best practices for team members interested in using product analytics as part of user experience research projects.
+Rapid Iterative Testing and Evaluation (RITE)
+Using the RITE methodology at GitLab
+Rapid Validations ("Rapids")
+A quick validation method that offers passable confidence when we need to move fast.
+Research insights
+Research insights are the collective findings and learnings that come from a research study.
+Research prioritization
+How UX Researchers priortize projects
+Resources for Research DRIs
+All you need to know to run a research study at GitLab.
+Service Design at GitLab
+Service Design helps GitLab connect teams, match business goals with user needs, and create better experiences inside and outside the platform — leading to happier users and customers, fewer support tickets, and driving deeper adoption.
+Solution Validation and methods
+Solution validation research critically assesses if the product/feature/design has indeed solved the problem that was initially intended to be solved
+Strategic research at GitLab
+What is Strategic research? Strategic research is focused on answering future facing questions about …
+Surveys
+Using surveys as a UX research method
+Testing navigation: early Solution Validation
+When considering navigation changes, it's important to test ideas early and efficiently. This is a guide to support early solution validation projects in the Foundations team.
+Tracking actionable insights
+How we track actionable insights derived from UX research studies.
+Tracking gold, silver, and bronze UX research projects
+How we track research research projects, by service level.
+Tracking research velocity
+How we track research velocity.
+Unmoderated usability testing
+Using unmoderated usability testing at GitLab.
+Usability benchmarking
+The usability benchmarking process at GitLab
+Usability testing
+Conducting usability testing at GitLab
+User story mapping
+User Story mapping is a powerful way to visualize how people are using your product or feature holistically and organize individual stories to that journey.
+Using quantitative data to find insights
+This page defines quantitative data, describes the primary advantages and disadvantages of using quantitative data in UX research, describes best practices, and provides examples for quantitative analysis.
+Using RITE to test navigation
+Rapid Iterative Testing and Evaluation (RITE) is a usability testing method in which you evaluate a …
+Using the UX Research Google Calendar
+How to use the UX Research Google Calendar so that others can attend your research sessions.
+UX Bash
+A quick and efficient way to identify bugs and improve the user experience
+UX Cloud Sandbox
+How to sign up and use the UX department's cloud sandbox for usability testing.
+UX Research growth and development
+The UX Research team has added two exercises in addition to GitLab's Career Developement process
+UX Research shadowing
+All new Product Managers and Designers at GitLab should complete research shadowing as a part of their onboarding before conducting independent research.
+UX Research tools/applications
+Tools we use, how to find existing research, tracking research findings, and more.
+UX Researcher pairings
+An opt-in offering for UX Researchers to pair up with another UX Researcher where they can provide and receive feedback from each other.
+When to conduct UX Research
+Learn when it is appropriate to conduct UX Research for your team.
+Writing a discussion guide for user interviews
+A discussion guide is a set of questions and topics that you would like to discuss with a participant during a user interview
+Writing a website usability testing script
+How to create a usability testing script at GitLab
+Last modified April 17, 2026:
+New handbook page for GitLab Research Library (
+0499f7bb
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

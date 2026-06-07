@@ -1,0 +1,135 @@
+SOURCE: https://handbook.gitlab.com/handbook/business-technology/engineering/infrastructure/reference-links/
+============================================================
+
+Infrastructure Reference Links
+This page provides helpful links and reference material for the infrastructure team.
+Milestones
+Each issue and epic gets mapped to the milestone for the time period that most of the work takes place. This is used as our lightweight version of time tracking and capacity planning, and is helpful with roadmap planning.
+Monthly Milestones
+BT Infra 2021-07
+BT Infra 2021-08
+BT Infra 2021-09
+BT Infra 2021-10
+BT Infra 2021-11
+BT Infra 2021-12
+BT Infra 2022-01
+Quarterly Milestones
+BT Infra FY22-Q3
+BT Infra FY22-Q4
+Fiscal Year Milestones
+BT Infra FY22-2H
+BT Infra FY23-1H
+BT Infra FY23-2H
+Repositories
+gitlab.com/gitlab-com/business-technology/engineering/infrastructure
+- The group with all repositories for Business Technology Engineering Infrastructure that don’t contain sensitive information that should be hosted on
+ops.gitlab.net
+.
+Labels and Tags
+Issue Types
+You can view the issues with these labels on the
+BT Eng Infra - Issue Types
+issue board.
+These labels can be applied to any issue, MR, or epic in the
+gitlab.com/gitlab-com
+namespace, which includes the majority of issue trackers used by GitLab team members in child groups and projects.
+Note:
+These labels have not been created for the
+gitlab-org
+namespace since our team does not work on any projects in that namespace, and it would require the creation of additional issue boards and automation for the separate top-level group.
+Label
+When it's used
+Links
+bt-infra::access-request
+Applied to all access requests that we responsible for provisioning.
+Issues
+Merge Requests
+Epics
+bt-infra::bug
+Applied to bug reports and quick fixes that isn't directly associated with a code repository that should be fixed ASAP. If this is a broader or longer lived issue, this should likely be refactored into another category and/or issues in the code repository issue tracker.
+Issues
+Merge Requests
+Epics
+bt-infra::epic-project
+Applied to larger scope or longer duration issues.
+Issues
+Merge Requests
+Epics
+bt-infra::iac
+Applied to Terraform, Ansible, and K8s changes that often require a certain headspace to complete. This allows us to resolve multiple issues simultaneously.
+Issues
+Merge Requests
+Epics
+bt-infra::interest
+Applied to issues that we're watching or are interested in as an FYI.
+Issues
+Merge Requests
+Epics
+bt-infra::service
+Applied to issues related to providing (internal) customer service and/or for issues relating to one of the managed services that we offer. If we're helping people and it's not a bug, this label is usually applied.
+Issues
+Merge Requests
+Epics
+bt-infra::unplanned
+Applied to any asks from team members or other departments that are not part of our day-to-day responsibilities or managed services that we offer.
+Issues
+Merge Requests
+Epics
+bt-infra::wishlist
+Applied to our long-lived backlog of things that are relevant and should not be rejected, however are not a priority right now.
+Issues
+Merge Requests
+Epics
+Managed Services
+You can view the issues with these labels on the
+BT Eng Infra - Managed Services
+issue board.
+Label
+When it's used
+Links
+bt-infra-service::aws
+Applied to all AWS infrastructure related issues that are not specific to the GitLab Sandbox Cloud.
+Issues
+Merge Requests
+Epics
+bt-infra-service::demo-systems
+Applied to all Customer Success Demo Systems related issues.
+Issues
+Merge Requests
+Epics
+bt-infra-service::dns
+Applied to all DNS domain, zone, and record related issues.
+Issues
+Merge Requests
+Epics
+bt-infra-service::gcp
+Applied to all Google Cloud Platform (GCP) issues that are not specific to the GitLab Sandbox Cloud.
+Issues
+Merge Requests
+Epics
+bt-infra-service::infra-standards
+Applied to all Infrastructure Standards and Infrastructure shared services issues.
+Issues
+Merge Requests
+Epics
+bt-infra-service::platypus
+Applied to all BT Enterprise Apps Integrations Project Platypus infrastructure related issues.
+Issues
+Merge Requests
+Epics
+bt-infra-service::sandbox-cloud
+Applied to all GitLab Sandbox Cloud and HackyStack issues.
+Issues
+Merge Requests
+Epics
+Last modified June 27, 2024:
+Fix various vale errors (
+46417d02
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

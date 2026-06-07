@@ -1,0 +1,20 @@
+SOURCE: https://handbook.gitlab.com/handbook/sales/sales-term-glossary/
+============================================================
+
+Sales Term Glossary
+Definitions of key terms for the WW Field Team
+Customer Definitions for External Reporting
+Please see the Sales Term Glossary Doc
+ARR in Practice
+This page includes a deep-dive into the definition of ARR at GitLab and is a sub-page of the Sales Term Glossary Page
+Last modified June 27, 2024:
+Fix various vale errors (
+46417d02
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

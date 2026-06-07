@@ -1,0 +1,17 @@
+SOURCE: https://handbook.gitlab.com/handbook/engineering/workflow/development-onboarding/
+============================================================
+
+Onboarding
+Engineering Manager Onboarding
+Training Development onboarding training Much of the training Engineering Managers (EMs) should …
+Last modified March 19, 2026:
+Replace frontmatter aliases with redirects and fix Vale rule (
+2d997077
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

@@ -1,0 +1,227 @@
+SOURCE: https://handbook.gitlab.com/handbook/engineering/testing/
+============================================================
+
+Testing
+⚠️ Note: This section is currently being updated. The Software Engineer in Test (SET) role is transitioning to Backend Engineer, and the Pipeline DRI process is being removed. Pages in this section will be revised to reflect the new process once decisions are finalized.
+Welcome to the Testing Guide. Pages in this section provides information about
+testing practices, methodologies, and tools used in our development workflow.
+Effective testing is crucial for maintaining code quality, preventing
+regressions, and ensuring that our software meets requirements.
+Introduction to Testing at GitLab
+This introduction provides new engineers with an
+overview of our testing philosophy, practices, and the support available to help
+you contribute effectively to our quality engineering efforts.
+How We Test
+Our Testing Philosophy
+At GitLab, we believe that quality is everyone’s responsibility, and testing is
+integrated into every stage of our development process rather than being a
+separate phase. Our approach is built on industry best practices and GitLab’s
+core values.
+Test Pyramid Approach
+:
+We champion the concept of the test pyramid
+,
+prioritizing fast, reliable tests at the base (unit tests) while using fewer,
+more focused tests at higher levels (integration and end-to-end). This approach
+gives us:
+Rapid feedback during development
+Reliable detection of regressions
+Efficient use of CI/CD resources
+Maintainable test suites
+Strategic Testing Focus
+: Our testing strives to consider risk analysis and
+input on test strategy, helping us focus testing efforts on critical user
+journeys and high-impact areas. We make strategic decisions about where to
+invest our testing efforts based on user impact and business needs.
+Quality Gates
+: Testing is embedded throughout our
+product development workflow
+:
+Pre-commit and pre-receive hooks for immediate feedback
+Merge request pipelines with mandatory code reviews
+that must pass before code integration
+Deployment pipelines with comprehensive test suites
+Post-deployment monitoring and validation
+Testing Ownership Model
+Everyone Tests
+: While we have dedicated the Test Governance team and greater
+Developer Experience department, every product engineering team is responsible for creating and
+maintaining tests for their features. Developer Experience are there for supporting
+engineers in creating comprehensive test coverage that includes:
+Writing unit tests for new functionality
+Adding integration tests for API endpoints and service interactions
+Contributing to end-to-end test coverage for critical user flows
+Maintaining and fixing flaky or outdated tests
+Test Governance Support
+: The Test Governance team provides:
+Testing infrastructure and tooling through
+Developer Experience teams
+Collaboration with
+Developer Experience for development workflow support
+Guidance on testing strategies and best practices
+Support for complex testing scenarios
+Test automation frameworks and libraries
+When We Test
+Development Workflow Integration
+Testing Early and Often
+: We encourage writing tests alongside feature
+development to ensure clear requirements understanding, better code design,
+and comprehensive coverage from the start.
+Continuous Integration
+: Every merge request triggers automated testing:
+Unit and integration tests run on every push
+Feature tests execute for UI changes
+Performance tests validate critical paths
+Security scans check for vulnerabilities
+End-to-end tests for critical user journeys
+Release and Deployment Testing
+Pre-Deployment Validation
+: Before code reaches production:
+Smoke tests verify basic functionality
+with staging-canary blocking deployments
+Performance tests ensure acceptable response times
+End-to-end tests validate critical user journeys
+Canary deployments allow gradual rollout with monitoring
+Post-Deployment Monitoring
+: Testing doesn’t stop at deployment. Post-deployment monitoring is also done including:
+Synthetic monitoring simulating user interactions
+Performance monitoring tracking application health
+Error tracking identifying issues in real-time
+Feature flag testing enabling safe experimentation
+Support Available
+Getting Help with Testing
+Request for Help Process
+: When you need testing support or guidance, use
+our established request process:
+Create an issue using the
+testing support template
+Include context about your testing challenges or requirements
+Expect response within our defined SLA timeframes
+Developer Experience Department
+Developer Experience Team
+:
+Provides testing infrastructure, tools, and frameworks
+including:
+Testing pipeline optimization
+Test automation libraries and utilities
+CI/CD testing infrastructure
+Performance testing capabilities
+Test Governance Team
+: Support specific product areas with:
+Testing strategy guidance
+Complex test scenario design
+Flaky test investigation and resolution
+Test coverage analysis and recommendations
+On-Call Support
+:
+Engineering teams participate in incident management rotations
+to ensure rapid response to production issues
+Self-Service Resources
+Documentation and Guides
+GitLab Testing Guide
+- Guidelines for automated testing in the GitLab project
+Testing Levels, Tooling, and Strategy
+- Detailed technical implementation guide
+Testing Best Practices
+- Everything you should know about how to write good tests in the GitLab project
+Code Review Guidelines
+- Mandatory review process for all merge requests
+Test Health and Pipeline Stability
+Flaky Tests
+- Automated detection and reporting
+Reporting of Top Flaky Test Files
+- Weekly assignments for high-impact flaky tests
+Product Engineer guide to E2E test failure issues
+Unhealthy Tests (Developer Docs)
+- Technical debugging reference for GitLab contributors
+🪄 Debug MR Test Failures with Duo
+- Use Duo to quickly diagnose and fix test failures in your MR
+🔥 Debug Live Environment Test Failures with Duo
+- Use Duo to quickly diagnose and fix test failures in your MR
+📹 GitLab End-to-End Testing Overview (Video)
+Duration:
+~30 minutes
+Level:
+Beginner to Intermediate
+This video covers:
+📁
+Directory structure and test organization
+🕵️
+Finding and understanding existing tests
+🤿
+Deep dive into E2E test architecture
+📍
+Where E2E tests run in our infrastructure
+🐛
+Debugging test failures from merge requests
+🚩
+Working with feature flags in tests
+🔧
+Troubleshooting common failure issues
+💻
+Running tests locally in your GDK
+Presentation Slides
+Further Reading
+The Practical Test Pyramid
+- A deep dive into the “Test Pyramid”
+Community and Communication
+Testing-focused Slack channels for questions and discussions are namely #g_test_governance and the broader #s_developer_experience
+Tooling and Automation
+Test generators and templates for common scenarios
+Automated workflow tooling
+for issue and MR triage
+CI/CD pipeline templates with testing best practices
+Performance and coverage monitoring dashboards
+For detailed technical implementation guidance, refer to our comprehensive
+Development Testing Guide
+.
+For immediate testing support, use our
+request for help process
+.
+Debug Test Failures and Live Issues with Duo
+Concise guide to using Duo to diagnose and fix test failures in MRs and live environment E2E test pipelines.
+Deployment Workflow
+GitLab Deployment Workflow The following diagram illustrates the complete deployment workflow from …
+End-to-end Pipeline Monitoring
+Overview of our E2E monitoring tools and practices
+End-to-End Test Failure Issue Debugging Guide
+Concise guide for product engineers to debug End-to-End Test failure issues
+Flaky tests
+Introduction This page describes GitLab’s organizational process for detecting, reporting, and …
+GitLab Performance Testing Tool Selection Guide
+Overview Performance Testing is a broad discipline that includes various approaches to evaluate a …
+GitLab Test Environments Catalog
+This page provides a catalog of test environments available at GitLab for .com, Self-Managed, and …
+Observability Based Performance Testing at GitLab
+Description Observability Based Performance Testing is a proactive approach to understanding system …
+Operational Verification
+Overview Between Self-managed, Dedicated and SaaS, we are going to have a large number of GitLab …
+Performance Testing for Modular Features
+A contract-based approach to performance testing for modular feature services, enabling shift-left regression detection and AI-assisted analysis
+Pipeline DRI On-call Rotation
+The Developer Experience Sub-Department has two on-call rotations: pipeline triage (SET-led) and incident management (EM-led).
+Pipeline Triage
+Overview of GitLab's E2E Pipeline Triage processes
+PREP Performance Metrics Guide
+PREP Performance Metrics Guide This guide helps teams identify and measure performance metrics for …
+Risk Mapping
+Developing a strategic approach to risk and mitigation planning.
+Self-Service Performance Regression Testing
+Guide for teams to independently run performance Regression testing
+Test Coverage
+The Test Platform Department has coverage to support testing particular scenarios.
+Test Platform in Distribution group
+Overview The goal of this page is to document existing Quality Engineering activities in …
+Test Quarantine Process
+Complete guide to GitLab's test quarantine process
+Last modified May 22, 2026:
+Transition Software Engineer in Test (SET) to Backend Engineer, Quality Department and Engineering Productivity departments clean-up (
+8af74dc3
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

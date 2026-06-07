@@ -1,0 +1,56 @@
+SOURCE: https://handbook.gitlab.com/handbook/business-technology/enterprise-applications/guides/
+============================================================
+
+Enterprise Application Guides
+GitLab’s Enterprise Application Guides for Finance Systems
+One of the team’s initiatives has been to conduct short training sessions on different topics within the Enterprise Applications domain.
+Why we do this:
+Increase the base level of system and process knowledge across the team
+Provide a more homogeneous level of support to our business partners on key topics
+Allow team members to self-service as much as possible and reduce disruptions for small tasks
+Enterprise Technology & AI System Guides
+How to create custom fields in Netsuite
+Coupa End User Guide
+Zip End User Guide
+Product Catalog Guide
+Navan Expense End User Guide
+Glean End User Guide
+Glean Tips & Tutorials
+Coupa End Users Guide
+Coupa End Users Guide
+Coupa End Users Quick Guide
+Coupa End Users Quick Guide
+Coupa Prepaid Automation Process
+Coupa Prepaid Automation Process (as of 2022-04-01)
+Coupa Supplier Management
+How to create a new supplier in Coupa TBD
+Coupa Virtual Card Guide
+Coupa Virtual Card Guide
+Finance Guides
+HelpLab Information Guide
+Contains FAQs and instruction guides for GitLab's ServiceNow implementation.
+Navan Expense End Users Guide
+Navan Expense End Users Guide
+NS Custom Field guide
+NS Custom Field guide
+Product Catalog Guide
+How to request the creation or modification of a SKU.
+Salesforce Mobile App Users Guide
+Instructions on where to download and how to login to the Salesforce Mobile App
+Zip End Users Guide
+Zip End Users Guide
+Zuora - Enterprise Application Guides
+Zuora is an order-to-revenue SaaS platform that supports GitLab's quoting, billing, collections, revenue recognition, and subscription metrics.
+Zuora Collect module
+The business process behind the Zuora Collect module
+Last modified June 1, 2026:
+Build out Enterprise AI handbook section (
+f3dae3e5
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

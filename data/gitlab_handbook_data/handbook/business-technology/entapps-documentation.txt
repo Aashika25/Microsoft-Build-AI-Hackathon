@@ -1,0 +1,22 @@
+SOURCE: https://handbook.gitlab.com/handbook/business-technology/entapps-documentation/
+============================================================
+
+Documentation
+This is the landing page for Enterprise Applications policis, procedures and documentation
+Application Accessibility
+This page provides end-user guides on how to activate, enable, or request features that improve accessibility and enhance your work experience.
+Policies
+These are the GitLab policies that IT Enterprise Applications adheres to.
+Procedures
+This section describes how IT Enterprise Applications carry out processes that support our policies. Some items in this section are kept limited to GitLab internal use some contain sensitive and non-public information about how we operate.
+Last modified August 20, 2024:
+Updates to IT Enterprise Applications and Business Technology Handbook Pages (
+7dda85c2
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

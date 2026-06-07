@@ -1,0 +1,105 @@
+SOURCE: https://handbook.gitlab.com/handbook/people-group/people-ops-tech-analytics/people-analytics/
+============================================================
+
+People Analytics
+GitLab People Analytics Team Handbook Page
+Overview
+People Analytics uses data-driven insights to improve talent decisions and workforce processes at GitLab. We’re part of the People Strategy team, helping inform People Group decisions at all organizational levels through reporting, data solutions, and statistical analysis.
+People Analytics Team Members
+Shane McCormack
+:
+Staff Analyst, People Analytics
+What We Do
+Our Mission:
+Provide data insights to inform People decisions across GitLab by collecting and analyzing organizational, people, and talent data to improve business outcomes.
+Key Objectives:
+Reporting Solutions
+- Work with stakeholders to develop automated reporting solutions that deliver relevant People metrics efficently and accurately
+Data Solutions
+- Collaborate with the
+Data Team
+to build scalable data models to support reporting and analytics
+Analytical Solutions
+- Apply advanced statistical techniques (clustering, regression, survival analysis) to generate actionable insights and data-informed decisions for People Group and leadership throughout GitLab
+Tools & Resources
+Primary Tools
+Tableau
+- Data visualization, dashboards, and ad-hoc analysis
+RStudio/R
+- Statistical modeling and data cleaning. Learn more in our
+Rstudio handbook page
+Snowflake
+- Data warehouse and SQL exploration
+Culture Amp
+- Employee surveys and assessments
+Google Sheets
+- Stakeholder-specific solutions when needed
+People Analytics Handbook Contents
+People Analytics Data Guide
+- Data models and metric definitions
+People Data Governance
+- Data quality and compliance
+People Analytics Tableau Dashboard Overview
+- Common dashboards and usage
+People Analytics Survey Support
+- Culture Amp survey administration
+People Analytics Office Hours
+- Ways to collaborate and ask questions
+External Resources
+Wharton People Analytics
+- Annual conference and research
+AIHR People Analytics
+- HR and analytics resources
+HR Predictive Analytics
+- Textbook with practical examples
+Google re:Work
+- Introductory resources
+Handbook of Regression Modeling in People Analytics
+- Keith McNulty’s open-source book of regression modeling with examples in R and Python
+Handbook of Graphs and Networks in People Analytics
+- Keith McNulty’s open-source book for Organizational Network Analysis
+The Fundamentals of People Analytics
+- Craig Starbuck’s open-source book with examples of statistical analyses commonly used by People Analytics teams with examples in R
+Data Governance & Security
+GitLab’s commitment to transparency and efficiency extends to our data governance framework. The People Analytics team collaborates closely with People and Legal teams to ensure we only access data we are authorized to use. Our process includes access verification and stakeholder approval for all data requests, maintaining strict compliance with applicable laws and regulations.
+Core Governance Principles:
+Source System Priority
+- People Group daily operations remain in ther source systems to maintain data integrity and workflow efficiency
+Strategic Data Warehousing
+- Our data warehouse, built on technologies like
+dbt
+and
+Snowflake
+is reserved for “up and out” organizational reporting and analytics
+Data Minimization
+- We only bring in the data needed in reporting and anonymize information whenever possible to protect individual privacy
+Comprehensive Tracking
+- We track data from source system to all downstream systems to understand and mitigate risk throughout the data lifecycle
+This governance framework ensures that data remains consistent, reliable, and easy to work with while protecting sensitive information. For detailed information about our data governance processes, see our
+Data Governance handbook page
+.
+Working With Us
+Submit requests and ideas using issue templates in the
+People Analytics project
+.
+People Analytics Data Governance
+As data becomes more central to decision-making, it is essential to establish a robust data …
+People Analytics Office Hours
+Overview People Analytics Office Hours provide a regular, accessible forum where GitLab team members …
+Data Guide to People Data Analysis
+Objectives for this page This handbook page provides an overview of data definitions and data models …
+People Analytics Survey Support
+Employee Surveys Here at GitLab we use Culture Amp to conduct our employee sentiment surveys. The …
+People Analytics Tableau Dashboard Overview
+Helpful places to start Tableau Handbook Page - This is the SSOT for all Tableau usage and is …
+Last modified April 30, 2026:
+Remove team shortcode and replace urls (
+02172f8f
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

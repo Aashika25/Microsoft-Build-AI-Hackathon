@@ -1,0 +1,106 @@
+SOURCE: https://handbook.gitlab.com/handbook/company/gitlab-all-company-meetings/
+============================================================
+
+GitLab All-Company Meetings
+An overview of GitLab Assembly and Quarterly Kickoff Meetings
+Overview
+GitLab internal-only company meetings align team members on key initiatives, business updates, and priorities across the business. At the start of our fiscal year, a company kickoff (CKO) meeting is held followed by 1x per quarter company-wide Assembly meetings. Ask Me Anything (AMA) Sessions will happen three times per quarter. This page provides an overview of each of these.
+Timing
+Timing of team member touchpoints:
+Earnings Call
+(first half of the second month of the quarter): Public call that team members are invited to attend
+Post-Earnings Recap & AMA
+(immediately following earnings): A 25 minute private AMA occurring after Earnings
+Assembly
+(start of each quarter)
+Team Member Meeting Recordings
+Recordings and agendas (internal only) listed in reverse chronological order.
+Date
+Recording
+AMA Agenda
+2024-10-03
+FY25-Q3 GitLab Assembly
+AMA
+2024-09-05
+FY25-Q2 Post-earnings internal recap
+AMA
+2024-08-12
+FY25-Q3 Quarterly Kickoff
+AMA
+2024-06-18
+FY25-Q2 GitLab Assembly
+AMA
+2024-06-05
+FY25-Q1 Post-earnings internal recap
+AMA
+2024-05-13
+FY25-Q2 Quarterly Kickoff
+AMA
+2024-03-07
+FY24-Q4 Post-earnings internal recap
+AMA
+2024-02-14
+FY25-Q1 Quarterly Kickoff
+AMA
+2023-12-07
+FY24-Q3 Post-earnings internal recap
+AMA
+2023-11-16
+FY24-Q4 Quarterly Kickoff
+AMA
+2023-10-04
+FY24-Q3 GitLab Assembly
+AMA
+2023-09-07
+FY24-Q2 Post-earnings internal recap
+AMA
+2023-08-16
+FY24-Q3 Quarterly Kickoff
+AMA
+2023-06-21
+FY24-Q1 Results GitLab Assembly
+AMA
+2023-06-08
+FY24-Q1 Post-Earnings Internal Recap
+AMA
+2023-05-17
+FY24-Q2 Quarterly Kickoff
+AMA
+2023-03-15
+FY23-Q4 Results GitLab Assembly
+AMA
+2023-02-28
+FY24-Q1 Quarterly Kickoff
+AMA
+2022-12-08
+FY23-Q3 Results GitLab Assembly
+AMA
+2022-11-16
+FY23-Q4 Quarterly Kickoff
+AMA
+2022-09-22
+FY23-Q2 Results GitLab Assembly
+AMA
+Post-Earnings Recap & AMA
+Held the week of our quarterly Earnings Call, the Post-Earnings Recap & AMA is an opportunity for team members to ask questions related to our Financial Results.
+For more information about our quarterly Earnings process, visit the
+Investor Relations Handbook page
+.
+The Post-Earnings Recap & AMA is a Finance initiative.
+GitLab Assembly
+GitLab Assembly is our quarterly all-company meeting and is an opportunity for team members to hear from leaders and teams across the company.
+To learn more about GitLab Assembly, visit the
+Assembly section
+of the People Communications & team member engagement Handbook page.
+Assembly is a People Communications & Engagement initiative.
+Last modified April 2, 2026:
+Updated text on Assembly cadence (
+d13f1c1a
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

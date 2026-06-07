@@ -1,0 +1,20 @@
+SOURCE: https://handbook.gitlab.com/handbook/engineering/infrastructure/
+============================================================
+
+Infrastructure
+GitLab Infrastructure
+Infrastructure Platforms department
+The organization responsible for the availability, reliability, performance, and scalability of GitLab.com and other supporting services is
+Infrastructure Platforms
+.
+Last modified August 15, 2025:
+Consolidate /infrastructure and /infrastructure-platforms index pages in Handbook (
+804635e6
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

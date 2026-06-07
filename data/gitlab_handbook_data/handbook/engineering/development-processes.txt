@@ -1,0 +1,25 @@
+SOURCE: https://handbook.gitlab.com/handbook/engineering/workflow/development-processes/
+============================================================
+
+Processes
+Development Talent Assessment Process
+Talent Assessment Process Company-wide guidelines on the Talent Assessment can be found here. The …
+Follow the Sun Coverage - Development Department
+How the development department uses follow the sun coverage and pairing
+General Information of Development Escalation Process
+About This Page This page outlines the background, goals, success criteria, and implementation …
+Hiring Contingent Workers - Development Department
+How the development department hires engineers as contingent workers
+Rollout Plan Process for Development
+About This Page This page outlines the requirements, success criteria, and how-to’s of a …
+Last modified March 19, 2026:
+Replace frontmatter aliases with redirects and fix Vale rule (
+2d997077
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

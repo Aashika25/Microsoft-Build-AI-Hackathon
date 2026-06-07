@@ -1,0 +1,45 @@
+SOURCE: https://handbook.gitlab.com/handbook/business-technology/enterprise-applications/entapps-services/
+============================================================
+
+IT Enterprise Applications Services
+About Us
+Enterprise Application Services (EAS) provides  horizontal support, operations, administration, governance, risk assessment, and compliance of Enterprise Services. Leveraging the ITIL framework, EAS is responsible for the end-to-end service and application lifecycle management, and promotes operational excellence through IT Policies & Process Governance, including Change-, Release-, and Incident Management, while ensuring operating effectiveness through Compliance Reviews.
+Mission
+To provide frictionless, world class, Application Support Experience for the GitLab Team members by providing easy to use Service Management tools, serving as a single point of contact for all Enterprise Applications, mitigating risk through compliance, governance, change and release management.
+Roadmap
+Our Team
+Learn more about
+our team and roles
+in supporting GitLab’s enterprise applications.
+Our Services
+Service Operations
+Application LifeCycle Management
+Systems Administration
+Budget & Vendor Management
+Application Rationalization
+New Software Assessment and Approvals
+Change & Release Management
+IT Compliance (SOX, GRC)
+ITGC
+External & Internal Audit Support
+User Access REview
+Separation of Duty
+How We Operate
+Agile Methodology as Operational Standard
+.
+Engagement Model
+Major Incident Management
+Change Management (Coming Soon)
+Release Management (Coming Soon)
+New Application SOX Compliance Review (Coming Soon)
+Last modified June 3, 2025:
+Fix broken links (
+d7547623
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.

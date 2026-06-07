@@ -1,0 +1,21 @@
+SOURCE: https://handbook.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/
+============================================================
+
+ARR in Practice
+This page includes a deep-dive into the definition of ARR at GitLab and is a sub-page of the Sales Term Glossary Page
+The below page includes a deep-dive into the definition of ARR at GitLab and is a sub-page of the
+Sales Term Glossary Page
+.
+Annual Recurring Revenue (ARR)
+Please see the Sales Handbook Definitions Doc
+Last modified June 27, 2024:
+Fix various vale errors (
+46417d02
+)
+View page source
+-
+Edit this page
+-
+please
+contribute
+.
