@@ -85,13 +85,13 @@ streamlit run app.py
 
 ### System Flow Diagram
 ```
-┌────────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────────────────┐
 │                         USER INTERACTION                           │
 │                      (Streamlit Chat UI)                           │
-└──────────────────────────┬─────────────────────────────────────────┘
+└──────────────────────────┬─────────────────────────────────────────────┘
                            │ User Question
                            ▼
-┌────────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────────────────┐
 │                       ROUTER AGENT                                 │
 │           (Phi-4-mini-instruct via GitHub Models)                  │
 │                                                                    │
@@ -103,31 +103,31 @@ streamlit run app.py
 │                                                                    │
 │  • Extracts key entities from user question                       │
 │  • Routes to appropriate domain-specific pipeline                 │
-└──────────────────────────┬─────────────────────────────────────────┘
+└──────────────────────────┬─────────────────────────────────────────────┘
                            │ Domain + Keywords
                            ▼
-        ┌──────────────────────────────────────┐
-        │      RETRIEVAL AGENT (RAG)           │
-        │                                      │
-        │  1. Generate embedding from query    │
-        │  2. Query Pinecone vector DB         │
-        │  3. Retrieve top-K relevant docs     │
-        │  4. Rank by relevance score          │
-        └──────────┬───────────────────────────┘
-                   │ Retrieved Docs + Scores
-                   ▼
-    ┌──────────────────────────────────────────┐
-    │    PINECONE VECTOR DATABASE              │
-    │  (multilingual-e5-large embeddings)      │
-    │                                          │
-    │  • ~500 chunked documents                │
-    │  • GitLab Handbook content indexed       │
-    │  • 1024-dimensional vectors              │
-    │  • Cosine similarity metric              │
-    └──────────────────────────────────────────┘
-                   │ Top-K Relevant Chunks
-                   ▼
-┌────────────────────────────────────────────────────────────────────┐
+         ┌──────────────────────────────────────┐
+         │      RETRIEVAL AGENT (RAG)           │
+         │                                      │
+         │  1. Generate embedding from query    │
+         │  2. Query Pinecone vector DB         │
+         │  3. Retrieve top-K relevant docs     │
+         │  4. Rank by relevance score          │
+         └──────────┬───────────────────────────┘
+                    │ Retrieved Docs + Scores
+                    ▼
+     ┌──────────────────────────────────────────┐
+     │    PINECONE VECTOR DATABASE              │
+     │  (multilingual-e5-large embeddings)      │
+     │                                          │
+     │  • ~500 chunked documents                │
+     │  • GitLab Handbook content indexed       │
+     │  • 1024-dimensional vectors              │
+     │  • Cosine similarity metric              │
+     └──────────────────────────────────────────┘
+                    │ Top-K Relevant Chunks
+                    ▼
+┌────────────────────────────────────────────────────────────────────────┐
 │                      ANSWER AGENT                                  │
 │           (Phi-4-mini-instruct via GitHub Models)                  │
 │                                                                    │
@@ -136,10 +136,10 @@ streamlit run app.py
 │  • Performs citation mapping to sources                           │
 │  • Generates suggested follow-up questions                        │
 │  • Structures output with metadata                                │
-└──────────────────────────┬─────────────────────────────────────────┘
+└──────────────────────────┬─────────────────────────────────────────────┘
                            │ Answer + Confidence
                            ▼
-┌────────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────────────────┐
 │                    ESCALATION AGENT                                │
 │                                                                    │
 │  IF confidence >= 75%:                                            │
@@ -150,19 +150,19 @@ streamlit run app.py
 │    → Escalate to human support                                    │
 │    → Suggest appropriate contact person                           │
 │    → Queue for manual review                                      │
-└──────────────────────────┬─────────────────────────────────────────┘
+└──────────────────────────┬─────────────────────────────────────────────┘
                            │
                            ▼
-        ┌────────────────────────────────────┐
-        │   FINAL RESPONSE (UI Rendering)    │
-        │                                    │
-        │  • Answer text                     │
-        │  • Confidence bar (color-coded)    │
-        │  • Source citations                │
-        │  • Agent transparency log          │
-        │  • Suggested next questions        │
-        │  • Escalation info (if needed)     │
-        └────────────────────────────────────┘
+         ┌────────────────────────────────────┐
+         │   FINAL RESPONSE (UI Rendering)    │
+         │                                    │
+         │  • Answer text                     │
+         │  • Confidence bar (color-coded)    │
+         │  • Source citations                │
+         │  • Agent transparency log          │
+         │  • Suggested next questions        │
+         │  • Escalation info (if needed)     │
+         └────────────────────────────────────┘
 ```
 
 ### Component Details
@@ -443,6 +443,13 @@ User Query → app.py → crew.py → agents/router.py
 ## 📝 License
 
 This project is submitted for the Microsoft AI Build Hackathon 2026. Check repository for license details.
+
+---
+
+## 🔗 Repository & Demo Links
+
+- **Repository:** https://github.com/Aashika25/Microsoft-Build-AI-Hackathon/tree/main
+- **YouTube Demo:** https://www.youtube.com/watch?v=QlVB-aX9CLc
 
 ---
 
